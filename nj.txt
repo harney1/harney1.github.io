@@ -341,9 +341,10 @@ K频道(高清),p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 樱花台(高清),p8p://0198.02686.cc:16871/5d25b7e7000b9ffe0a2fcaf5ddbba365.ts
 乐活台(高清),p8p://0198.02686.cc:16871/5d25b7e80003e23d0a2fcce197673935.ts
 舒活台(高清),p8p://0198.02686.cc:16871/5d25b7e8000d10950a2fcf3b28b5d106.ts
-
-
-
+亚洲美食,mitv://51.79.41.138:18912/5b1409da000c980117d41a196f3b08d9.ts.ts
+BBC Lifestyle,http://cloud-play.hhalloy.com/live/5e80f4a9e17c991df381030c65856687.flv
+卫视卡式台,http://www.chengbo.org/proxy/tg.m3u8 
+SSHD,http://59.120.242.104:9000/live/live6.m3u8
 
 
 
