@@ -250,6 +250,7 @@ TLC旅游生活,vjms://23.237.33.155:8500:3502/live/cid=103
 年代MUCH,vjms://23.237.33.155:8500:3502/live/cid=439
 美食星球,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
 SMART,p8p://0198.02686.cc:16871/5d1a69a9000d171211bdb4a3d225e7dd.ts
+BBC LIFESTYLE,P2p://sdgdklwos.finetv.tv:9906/59fd320000071ba102d7cd137e585878
 MTV,vjms://58.215.133.185:8500:3502/live/cid=52
 FTV,vjms://58.215.133.185:8500:3502/live/cid=399
 Fashion,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
