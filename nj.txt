@@ -313,7 +313,7 @@ K频道(高清),p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 
 
 测试频道,#genre#
-亚洲美食,P2p://51.79.41.138:18912/5b1409da000c980117d41a196f3b08d9.ts.ts
+亚洲美食,P2p://51.79.41.138:18912/5b1409da000c980117d41a196f3b08d9.ts
 ESPN-2,p8p://0198.02686.cc:16871/5d1a6977000e2bcf11bcf19a3cdc6db3.ts
 ESPN-NEWS,p8p://0198.02686.cc:16871/5d1a69790005067111bcf7122cbdef5f.ts
 新唐人亚太台,https://live.ntdimg.com/aplive200/playlist.m3u8
