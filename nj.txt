@@ -400,7 +400,11 @@ TLC旅遊生活,vjms://23.237.33.155:8500:3502/live/cid=103
 CN卡通,vjms://58.215.133.185:8500:3502/live/cid=422
 CN卡通,vjms://23.237.33.155:8500:3502/live/cid=422
 港台测试,#genre#
-BBC Lifestyle,p2p://190.2.146.92:18912/5b1408f2000906bd17d08eee48ad4871.ts
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
+Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
+探索频道,rtmp://58.200.131.2:1935/livetv/discovery
+国家地理频道,rtmp://58.200.131.2:1935/livetv/natlgeo
 东森超视,p2p://190.2.146.92:18912/5c72487c000667911d52abe7044c2b21.ts
 三立台湾,p2p://190.2.146.92:18912/5c72486a000b11721d5266cf1bf84bce.ts
 TVBS精彩台,p2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
