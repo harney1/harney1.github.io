@@ -316,18 +316,6 @@ K频道(高清),p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
 Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
-探索頻道高清,mitv://120.79.144.205:9906/5dc08f0c000caeb301b7bb9e31addb96.ts
-高清探索頻道 HD,mitv://120.79.144.205:9906/5dc08f0c000bc99801b7bb642a9ff48e.ts
-探索(臺灣),mitv://120.79.144.205:9906/5dc08f0c000ae91d01b7bb2a503af63a.ts
-Discovery HD,mitv://120.79.144.205:9906/5dc08f0c000a7ead01b7bb0fb297bca5.ts
-Discovery 動力頻道 HD,mitv://120.79.144.205:9906/5dc08f090006a7c201b7ae5b731a0976.ts
-Discovery 科學頻道 HD,mitv://120.79.144.205:9906/5dc08f090005b59301b7ae1d2b2dd80f.ts
-Discovery EVE HD,mitv://120.79.144.205:9906/5dc08f090004c52401b7ade0b5732b25.ts
-國家地理 HD,mitv://120.79.144.205:9906/5dc08f090003e26a01b7ada6c90177d7.ts
-國家地理People HD,mitv://120.79.144.205:9906/5dc08f0900030a1901b7ad6e30853d1f.ts
-國家地理野生頻道 HD,mitv://120.79.144.205:9906/5dc08f09000204d701b7ad2baed33465.ts
-History HD,mitv://120.79.144.205:9906/5dc08f0900012d9701b7acf4e27b9395.ts
-History2 HD,mitv://120.79.144.205:9906/5dc08f09000054ba01b7acbd491ca921.ts
 亚洲美食,P2p://51.79.41.138:18912/5b1409da000c980117d41a196f3b08d9.ts
 新唐人亚太台,https://live.ntdimg.com/aplive200/playlist.m3u8
 新唐人美西台,https://live.ntdimg.com/uwlive990/playlist.m3u8
