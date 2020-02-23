@@ -18,6 +18,9 @@ CCTV-5+体育,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 CCTV-17农村农业,http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 
 卫星频道,#genre#
+鳳凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+鳳凰資訊,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+鳳凰電影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 湖南卫视高清,http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 北京卫视高清,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
