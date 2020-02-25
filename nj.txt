@@ -70,8 +70,8 @@ CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 TVB无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 TVB无线新闻台,https://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
 TVB无线新闻台,http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
-TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
 TVBS新聞,vjms://58.215.133.185:8500:3502/live/cid=348
+TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
 TVBS新聞,rtmp://59.124.75.137/sat/tv551
 TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/2.m3u8
@@ -125,6 +125,7 @@ RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 CNBC,vjms://58.215.133.185:8500:3502/live/cid=98
 CNBC,p8p://0198.02686.cc:16871/5d1a69720002ca3711bcdb2830f420fe.ts
 CNBC,vjms://23.237.33.155:8500:3502/live/cid=98
+CNN,vjms://58.215.133.185:8500:3502/live/cid=428
 CNN,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
 CNN,vjms://23.237.33.155:8500:3502/live/cid=428
 BBC,vjms://58.215.133.185:8500:3502/live/cid=418
@@ -191,6 +192,7 @@ TVB明珠台,vjms://23.237.33.155:8500:3502/live/cid=367
 TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362
 TVB翡翠台,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
 TVB翡翠台,http://m.567it.com/jade.m3u8
+TVBS欢乐台,vjms://58.215.133.185:8500:3502/live/cid=438
 TVBS欢乐台,p2p://51.79.41.138:18912/5c72488a000a56b71d52e3a07060345e.ts
 TVBS欢乐台,P2p://190.2.146.92:18912/5c72488a000a56b71d52e3a07060345e.ts
 TVBS欢乐台,vjms://23.237.33.155:8500:3502/live/cid=438
