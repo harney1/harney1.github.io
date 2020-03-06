@@ -125,8 +125,6 @@ CNN,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
 CNN,vjms://23.237.33.155:8500:3502/live/cid=428
 BBC,vjms://58.215.133.161:8500/live/cid=418#vjms://58.215.133.185:8500:3502/live/cid=418
 BBC,vjms://23.237.33.155:8500:3502/live/cid=418
-FOX2,vjms://58.215.133.161:8500/live/cid=444#vjms://58.215.133.185:8500:3502/live/cid=444#vjms://58.215.133.185:8500:3502/live/cid=444
-FOX3,vjms://58.215.133.161:8500/live/cid=95#vjms://58.215.133.185:8500:3502/live/cid=95
 半岛新闻,http://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8#http://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 新马 Ⅰ 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 
@@ -237,8 +235,8 @@ JET综合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 港台体育,#genre#
 FOXSPORT-3,vjms://58.215.133.161:8500/live/cid=95#vjms://58.215.133.185:8500:3502/live/cid=95
-FOX2,vjms://58.215.133.161:8500/live/cid=444#vjms://58.215.133.185:8500:3502/live/cid=444
-FOX3,vjms://58.215.133.185:8500:3502/live/cid=95
+FOX2,vjms://58.215.133.161:8500/live/cid=444#vjms://58.215.133.185:8500:3502/live/cid=444#vjms://58.215.133.185:8500:3502/live/cid=444
+FOX3,vjms://58.215.133.161:8500/live/cid=95#vjms://58.215.133.185:8500:3502/live/cid=95
 Espn,p8p://0198.02686.cc:16871/5d1a69780009978d11bcf455a30b876a.ts
 ESPN-2,p8p://0198.02686.cc:16871/5d1a6977000e2bcf11bcf19a3cdc6db3.ts
 ESPN-NEWS,p8p://0198.02686.cc:16871/5d1a69790005067111bcf7122cbdef5f.ts
@@ -587,12 +585,42 @@ HKS,P2p://lino.homeunix.com:6007/5afbd0d7000dfbc54833015a3ca55f37.ts
 霹雳台湾台,P2p://lino.homeunix.com:6007/5b07a59b0005c8ff766a65e653565438.ts
 
 港台测试,#genre#
-
-新加坡8频道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-新加坡-亚洲新闻台,https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
-新加坡U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
-新加坡5频道,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-奥多少儿频道,https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+國家地理高畫質頻道,tvbus://4rCzF92tpigEaTDyFzUYgZox2deV8MRNanzviXfVbUsiJCWP49
+探索頻道,tvbus://3YTQyx5qi6o9dtJF1aoqCdPvaTb3EyE37w4EkeWwxESzBMe7EE
+TLC旅遊生活_HD,tvbus://4PHzrFyKUaoX7wSRTqhXWJyDxp9eR5vfz8e2uwE9iPSwGQ6Ap8
+Outdoor,tvbus://43hWANBUVNhVFPedTqYVGLopq7ewrJyHeuWcqSHi393SNtg3av
+BBC_Earth,tvbus://3EXt1VAJzgxDdpuoeVpTRxdxm3DKtseC7fDz4z8GD9rK4DamcZ
+希望電視臺,tvbus://3DGJo8yeCkVUfRxsRoS8DkmaJXGgWcuxFhuorLEKeaRyShPbEp
+高點育樂,tvbus://474BKeFHC64ZnL5eJCd6yt2wq9rtTp1kt1ZMxDoKhYcZsEe4d3
+EYE_TV旅遊臺,tvbus://3rmsk16HGS5t4uyETZzFMmfGwAd9X8LtTQng4YJRmjBh1S1he9
+中天亞洲,tvbus://4hcGR9bWXuUfczkZGmupEnBU5j5d119grDx8EjFwvdYW3Ds57p
+Discovery科學頻道,tvbus://3er2dXyjCT9n5ZB3MdAyWPT5q6WrYKNK7DB2sgfDmvoakg3vML
+BBC_World_News,tvbus://3FbsUkmTzxn2F4fqEkLpcMvNbPNUFFWivQSFembcDiwQDdUYGY
+Cinema_World,tvbus://31BRiMcE1EP7GbRqvzws7xocppe4BtBxxULuWPzw1WynkfJpJE
+NBA,tvbus://3CV92y789NguFBLqxLfeENKxQKyoodM1NftH8uYwMjtP5zKzCF
+Eleven_Sport2,tvbus://2ya32EtoX5shs7wC1eMwxMQuoNZqAQYtY1boFdM2jf3Kn772vT
+FOX_CRIME,tvbus://4BejJUuD4UYoKYLi5mQrKsqX1cXBd8AJpSGjyTKjoYMPTTEYPw
+FOX_News_Channel,tvbus://3uVhHiHFb2eMsxD7SjBjvMXsKo4qQS2r8VPPHcknaGLbvr9VDf
+FOOD美食,tvbus://3kdNHNLMdPo9No1qMRc2sBwBrU7rwQf4iaXxETo3ZF67b3kjbu
+亞洲美食頻道,tvbus://34wDUPKvLphNqSJ8411f9a3sWDXAGCDjd4TFBQuTQrv3SGHSHk
+BBC_Lifestyle_Channel,tvbus://3srSDfzwBRja3fCBKByF9EYzMGT5zaQWhzXkjktUXNZgT4d36x
+LUXE_TV_Channel,tvbus://4qyTFxU7jptfNEgn2FZ5xbFb96cPU3w7fVfGe5qgmywtaU8LCa
+曼迪日本臺,tvbus://4fM63tvfNDCDEjrKzkFmNMhzP99Cm6ZaHmVQ2bGe1RYKDu4MdM
+DIVA,tvbus://3pQ6C2JQ3bR9v3UdkXTU9rnU6EqnS4dBLA9eBEvocKShiJitnx
+探索_Discovery_Asia,tvbus://45L4g5d5mnwHxWwEwfqV6midoGg2PYEDsNLV5WRyynSs1s9Q7w
+DMAX,tvbus://3ugfiv62Tuz8oQKTEjaTdpSwHuFegNhYXzGM3MxKNwkmaHi66a
+EVE,tvbus://3zaD3rfctgJgBQejewurNYV7rFCbU3hR3b5ARup8ZmidjJkre3
+寰宇新聞臺,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
+博斯運動II,tvbus://4BE2WmJCZKGELVSddfwrVxayN1VxHQLt6MJ9e5jZi9cdGDzfbp
+博斯足球檯,tvbus://4BE2WmJCZKGELVSddfwrVxayN1VxHQLt6MJ9e5jZi9cdGDzfbp
+H2,tvbus://3uuJKj6bbzUHtwesEFvXPxN9BcUEUWhQ8WfRrxXXb3RQp7Us9j
+罪案偵緝頻道,tvbus://4cXDenEV5apVF5xuGcmtKr4KCGmWuBQbjPydCzumuMssgEVtRA
+國家地理高畫質野生頻道,tvbus://36Fg7bSpGV24d6cDRfvu8fybf8SVFZCSya3ikQ8SnCvc2qxpBK
+國家地理高畫質悠人頻道,tvbus://4akBFefbKyf45ELCVGn61ycqZw8Q9noYBGQqsQNCCuw1gaiJVu
+靖天日本,tvbus://4PsWJJSuBYw2wCcJCCiYroB5c3UQNVUtkL58DS4UtxV2H5aL6b
+博斯網球,p8p://0198.02686.cc:16871/5d4c07370004e10e9fd599bbf1aae42b.ts
+博斯無限,p8p://0198.02686.cc:16871/5d4c081b000532c99fd9146f1abdcff3.ts
+歷史頻道,tvbus://3ex1JT4fCtWQJjvcnVV92Bhcf6CsTmkJEAcd2gZmRB8MGg9iaK
 
 happy,#genre#
 CCTV01,http://140.249.30.171/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8#http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8#https://liveali.ifeng.com/live/FHYC.m3u8#http://player.200877926.top/17/fj/fjtvm3u8.php?id=212#http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/cctv1hd_4000.m3u8#http://l1.weihai.tv:8081/hls/3bjRUVNYwi.m3u8
