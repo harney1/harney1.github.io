@@ -425,7 +425,8 @@ K频道(高清),p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 
 
 测试频道,#genre#
-
+Discovery動力頻道,p2p://51.79.41.138:18912/5b14093f0006280117d1bafb05f27062.ts
+亞洲美食HD,p2p://51.79.41.138:18912/5b1409da000c980117d41a196f3b08d9.ts
 
 港台测试,#genre#
 MY-Food-Network-HD,tvbus://4sAEL4fB31kPVtXDpfCxGM8LfhDowrQwcibTgUfsvxacZveMpH
