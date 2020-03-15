@@ -425,8 +425,9 @@ K频道(高清),p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 
 
 测试频道,#genre#
-TVBS新闻,vjms://58.215.133.184:8500:3502/live/cid=348
-TVBS综合,vjms://58.215.133.184:8500:3502/live/cid=349
+亚洲美食,p2p://51.79.41.138:18912/5b1409da000c980117d41a196f3b08d9.ts
+BBCLifestyle生活頻道HD,p2p://51.79.41.138:18912/5b1408f200071c8b17d08e7147665d0e.ts
+BBCearth,p2p://51.79.41.138:18912/5b1409220005714c17d149845e0e2184.ts
 歷史頻道,http://lss.line-scdn.net/cc_tw/p/live/hqzz894kkL1QXLDFELzkyY3xEdDVqcGpWLyBiZmdBcDE6Ij1TfSVjOmpDdmY6eDoAeCdpYTJJdWJjNGhQKyUyZGNCbmVrbmkAcjhhMWpedW5qcGgKew/720/chunklist.m3u8
 
 港台测试,#genre#
