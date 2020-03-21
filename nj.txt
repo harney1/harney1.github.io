@@ -432,6 +432,7 @@ K频道(高清),p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 亚洲美食,p2p://fccsovh.pvbox.live:18912/5b1409da000c980117d41a196f3b08d9.ts
 罪案偵緝,p2p://51.79.41.138:18912/5b14098e0006282a17d2ef9371d76997.ts
 FOXCRIME,p2p://51.79.41.138:18912/5b14098e000e434e17d2f1a6468846dc.ts
+tvn,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 
 港台测试,#genre#
 MY-Food-Network-HD,tvbus://4sAEL4fB31kPVtXDpfCxGM8LfhDowrQwcibTgUfsvxacZveMpH
