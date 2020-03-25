@@ -1426,40 +1426,6 @@ BestTV-4K,http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 
 太阳源,#genre#
 
-有线新闻,http://103.56.112.40/ddjgt.php?id=31#http://45.134.83.45/aazz.php?id=31#http://103.56.112.40/ddjgt.php?id=31
-无线新闻,http://103.56.112.40/ddjgt.php?id=9#http://103.56.112.40/ddjgt.php?id=9
-翡翠台,http://iptv.ensinar.cn/XG.php?id=1
-无线财经,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8#http://103.56.112.40/ddjgt.php?id=10
-凤凰中文,http://103.56.112.40/ddjgt.php?id=2
-凤凰资讯,http://103.56.112.40/ddjgt.php?id=3
-星空卫视,http://103.56.112.40/ddjgt.php?id=18
-TVB明珠台,http://103.56.112.40/ddjgt.php?id=13#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
-TVB翡翠台,http://103.56.112.40/ddjgt.php?id=1#P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
-TVB J2,http://103.56.112.40/ddjgt.php?id=12#P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
-Viu TV,http://103.56.112.40/ddjgt.php?id=8
-澳门卫视,http://103.56.112.40/ddjgt.php?id=23
-澳亚卫视,http://103.56.112.40/ddjgt.php?id=24
-TVB财经台,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
-功夫,http://61.147.122.14/flv.live.xylive.tv/live/0030.flv
-天映经典,http://pull.scphsd.com/live/7ca7e3f1b9c65583f281a1d68ec9b1b8.flv
-澳门有线③台,http://202.175.127.77/live/show/ch3/index.m3u8
-澳门有线①台,http://202.175.127.77/live/show/ch1/index.m3u8
-澳门有线②台,http://202.175.127.77/live/show/ch2/index.m3u8
-三立新闻台,http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
-TVBS新闻台,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
-HKS卫视台,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-DOXTV,https://pull.scphsd.com/live/3994b62ffdcc450a8034b03729b723a8.flv
-凤凰卫视中文,https://pull.scphsd.com/live/3f00775a3581449c852c42dcbce8dbdf.flv
-凤凰卫视资讯,https://pull.scphsd.com/live/257536cb64e448738088e3650e816214.flv
-TVB功夫,https://pull.scphsd.com/live/5c57700caa72473c8843cbead1849f1b.flv
-靖天资讯HD,http://61.58.60.230:9319/live/202.m3u8
-靖天娱乐HD,http://61.58.60.230:9319/live/204.m3u8
-靖洋戏剧HD,http://61.58.60.230:9319/live/203.m3u8
-靖天国际HD,http://61.58.60.230:9319/live/205.m3u8
-靖洋卡通HD,http://61.58.60.230:9319/live/206.m3u8
-靖天卡通HD,http://61.58.60.230:9319/live/207.m3u8
-靖天日本HD,http://61.58.60.230:9319/live/243.m3u8
-靖天映画HD,http://61.58.60.230:9319/live/244.m3u8
 寰宇新聞臺,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
 翡翠臺,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
 無綫新聞,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
@@ -1504,191 +1470,6 @@ EYE_TV戲劇臺,p8p://0198.02686.cc:16871/5d1a69a2000ca28211bd992d29a29542.ts
 tvNP7p,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 FXP7p,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
 Golf_Plus_(博斯高球二臺)P7p,p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts
-歷史頻道P7p,p8p://0198.02686.cc:16871/5d1a69c40001cae711be1b366a85c718.ts
-第一財經P7p,p8p://0198.02686.cc:16871/5d1a69df000139dd11be8489e1d7a141.ts
-有线603,https://pull.scphsd.com/live/9181871a175444c7a592287e86b4ebd3.flv
-有线18台,https://pull.scphsd.com/live/6f1541b407654a068ded3c7794c47398.flv
-东森超视,https://pull.scphsd.com/live/137f24c3c6f646daad3f5a45b0447c8f.flv
-东森洋片,https://pull.scphsd.com/live/4a3f6ac1316b4df995a32ad37aa9588c.flv
-东森幼幼,https://pull.scphsd.com/live/d14f50b04507494a837320ef01b33ec9.flv
-东森电影,https://pull.scphsd.com/live/22862241f3a44aaba0df79698197d874.flv
-东森戏剧,https://pull.scphsd.com/live/3d1165b9155a4f2d9d562702e1737e19.flv
-东森综合,https://pull.scphsd.com/live/09f5ee71140944a68f13567d7bf94829.flv
-龙祥时代电影,https://pull.scphsd.com/live/e5acc863380048de8244d21a93cfad5e.flv
-八大综合,https://pull.scphsd.com/live/19fd5c1c0eba43b7ab1c9b81533d3689.flv
-八大娱乐,https://pull.scphsd.com/live/234c90178c5942eea1ef9ae181952ea5.flv
-海豚综合,https://pull.scphsd.com/live/30d796c2651a46e497feb0d727065aec.flv
-新视觉,https://pull.scphsd.com/live/60877697787148cc84f8bbc18759cc73.flv
-求索纪实,https://pull.scphsd.com/live/0149a9490ecc4d9992afecab7985395e.flv
-大爱一台HD,http://iptv.52qdg.com/iptv.php?id=tw&pamid=001
-大爱二台HD,http://iptv.52qdg.com/iptv.php?id=tw&pamid=002
-东森新闻,http://iptv.52qdg.com/iptv.php?id=tw&pamid=003
-中天新闻台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=004
-中天综合台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=005
-中天娱乐台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=006
-東森超視,p2p://190.2.146.92:18912/5c72487c000667911d52abe7044c2b21.ts
-三立台湾,p2p://190.2.146.92:18912/5c72486a000b11721d5266cf1bf84bce.ts
-TVBS?精彩台,p2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
-中天新聞 ,p2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts
-民視 ,p2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
-華視 ,p2p://190.2.146.92:18912/5c2dd7470006324111f874bf40a40dd0.ts#p2p://190.2.146.92:18912/5b140968000d4f3517d25cf83e1e0c9f.ts#p2p://190.2.146.92:18912/5c72484f000e498b1d51fe2201d92dd3.ts
-中視 ,p2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts
-TVBS新聞 ,p2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
-非凡新聞 ,p2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
-衛視電影 ,p2p://190.2.146.92:18912/5c7249cf00095b611d57d8da587f1c48.ts
-東森新聞 ,p2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts
-三立新聞 ,p2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts
-中天亞洲 ,p2p://190.2.146.92:18912/5c724839000d2f361d51a7e41eb00016.ts
-亞洲旅遊 ,p2p://190.2.146.92:18912/5c724854000188081d520e6e279b2446.ts
-美亞電影 ,p2p://190.2.146.92:18912/5c724a0e000442831d58cdaa6a2c5c52.ts
-東森幼幼 ,p2p://190.2.146.92:18912/5c724866000564111d5255b84de26a1c.ts
-東森電影 ,p2p://190.2.146.92:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts
-東森戲劇 ,p2p://190.2.146.92:18912/5c724882000704081d52c386798d4d25.ts
-緯來電影 ,p2p://190.2.146.92:18912/5c7249d80003096d1d57fa6c33601be9.ts
-緯來戲劇 ,p2p://190.2.146.92:18912/5c72488e000bae061d52f38e705751dd.ts
-HBO HD ,p2p://190.2.146.92:18912/5c7249dd000ca2101d58106551ff3ed4.ts
-國家地理野生 ,p2p://190.2.146.92:18912/5c7249fb000db88c1d5885e333974925.ts
-星衛娛樂 ,p2p://190.2.146.92:18912/5c724a0a000180991d58bd4f6e533ad5.ts
-星衛電影 ,p2p://190.2.146.92:18912/5c724a05000626a61d58aaff0c3f3175.ts
-好萊塢電影 ,p2p://190.2.146.92:18912/5c7249e2000125281d5820ff23a165d1.ts
-MOMO親子 ,p2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55.ts
-迪士尼卡通 ,p2p://190.2.146.92:18912/5c72485c0008852e1d522f7314a34325.ts
-八大戲劇 ,p2p://190.2.146.92:18912/5c72488600080edc1d52d364104615a0.ts
-大愛 ,p2p://190.2.146.92:18912/5c7248470009cd451d51ddb92c7476f0.ts
-JET綜合 ,p2p://190.2.146.92:18912/5c724892000e3e1c1d5303da4a3c6c26.ts
-霹靂台灣 ,p2p://190.2.146.92:18912/5c7248580004e26e1d521ee9240c6230.ts
-ELTA體育3 ,p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
-東森綜合 ,p2p://190.2.146.92:18912/5c724877000e7b2d1d529a721b487255.ts
-TVBS歡樂 ,p2p://190.2.146.92:18912/5c72488a000a56b71d52e3a07060345e.ts
-
-
-日本 Ⅰ TOKYO,http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
-日本 Ⅰ 天气频道,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-日本 Ⅰ 全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-日本 Ⅰ 声优广播,http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
-日本 Ⅰ 日本购物,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-日本 Ⅰ 宝石GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1860888413_b600000.m3u8#https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
-日本 Ⅰ TBS NEWS,http://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
-日本 Ⅰ WOWOWO 电影,http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
-韩国 Ⅰ WFC,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
-韩国 Ⅰ KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
-韩国 Ⅰ UBC SBS,http://59.25.202.81:1935/live/UBCstream/chunklist_w1495115977.m3u8
-韩国 Ⅰ 朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-韩国 Ⅰ KOREA YTN,http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-韩国 Ⅰ BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-韩国 Ⅰ KTV 韩国电视,http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
-韩国 Ⅰ EBS 儿童频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-韩国 Ⅰ SBS 星级频道,https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
-韩国 Ⅰ SBS 影视频道,https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-韩国 Ⅰ YTN 联合新闻,http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
-韩国 Ⅰ 阿里郎WORLDworld,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-韩国 Ⅰ 阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-新马 Ⅰ 新传媒 8,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-新马 Ⅰ 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
-新马 Ⅰ 朝阳频道,http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-越南 Ⅰ 越南人民报,http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8#http://vietcago.net/vstv/thnd.m3u8#https://5952e4052a2e8.streamlock.net/live/smil:thienviet.smil/chunklist_w1106175008_b1544100_sleng.m3u8
-泰国 Ⅰ 泰国公共台,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-埃及 Ⅰ AVA 音乐频道,http://51.15.236.137/hls/stream.m3u8
-印度 Ⅰ 音乐电视台,http://104.237.60.234/live/gabruutv.m3u8?dsjtv.m3u8
-德国 Ⅰ 超级游艇,http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
-美国 Ⅰ 中国环球,http://live.cgtn.com/1000/prog_index.m3u8
-美国 Ⅰ 狗狗宠物,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-美国 Ⅰ 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-美国 Ⅰ 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-美国 Ⅰ 美国之音,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
-美国 Ⅰ 美国中央台,http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
-美国 Ⅰ 布兰奇电视,http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
-美国 Ⅰ 彭博财经台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-美国 Ⅰ FOX 体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-美国 Ⅰ MTV 音乐频道,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-法国 Ⅰ 巴黎调频,http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-法国 Ⅰ 热带音乐,http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
-法国 Ⅰ 中国环球,http://live.cgtn.com/1000f/prog_index.m3u8
-法国 Ⅰ 第五世界台,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-法国 Ⅰ 法国24台 (英语),http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
-法国 Ⅰ 法国24台 (法语),http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
-卡塔尔 Ⅰ 半岛新闻,http://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8#http://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
-卡塔尔 Ⅰ 卡斯体育,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-阿拉伯 Ⅰ 中国环球,http://live.cgtn.com/1000a/prog_index.m3u8
-阿联酋 Ⅰ ATV 1,http://85.132.81.184:8080/atv/index.m3u8
-阿联酋 Ⅰ ATV 2,http://85.132.81.184:8080/atv-2/index.m3u8
-阿联酋 Ⅰ ATV 4,http://85.132.81.184:8080/atv-4/index.m3u8
-阿联酋 Ⅰ 星空电影,http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
-阿联酋 Ⅰ 迪拜赛马,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-阿联酋 Ⅰ 迪拜萨马,http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-阿联酋 Ⅰ 阿布扎比,http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
-阿联酋 Ⅰ 阿布戏剧,http://adtv.ercdn.net/addrama/addrama_720p.m3u8
-阿联酋 Ⅰ 阿布石油,http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8
-阿联酋 Ⅰ 阿布体育1,http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-阿联酋 Ⅰ 阿布体育2,http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-俄罗斯 Ⅰ 军事频道,http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8
-俄罗斯 Ⅰ 中国环球,http://live.cgtn.com/1000r/prog_index.m3u8
-俄罗斯 Ⅰ 俄罗斯一台,http://a787201928-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
-俄罗斯 Ⅰ FM 音乐频道,http://rtmp.one.by:1200
-俄罗斯 Ⅰ OR 音乐频道,http://rtmp.one.by:2200/
-俄罗斯 Ⅰ HP 音乐频道,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
-俄罗斯 Ⅰ RU 音乐频道,http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
-俄罗斯 Ⅰ HD 时尚频道,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-乌克兰 Ⅰ M2 音乐频道,http://live.m2.tv/hls3/stream.m3u8
-西班牙 Ⅰ 皇马足球,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-西班牙 Ⅰ 中国环球,http://livees.cgtn.com/1000e/prog_index.m3u8
-西班牙 Ⅰ 西班牙四台,https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-西班牙 Ⅰ 西班牙五台,https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
-西班牙 Ⅰ 神性电视台,https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-西班牙 Ⅰ 活力电视台,https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_3.m3u8
-西班牙 Ⅰ 啵嘤卡通台,https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_3.m3u8
-意大利 Ⅰ Rai 吞咽,http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-意大利 Ⅰ Rai 幼幼,http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-意大利 Ⅰ Rai 电影,http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-意大利 Ⅰ Rai 溢价,http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
-意大利 Ⅰ 意大利电台,http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-意大利 Ⅰ V2 音乐频道,http://de1se01.v2beat.live/playlist.m3u8
-墨西哥 Ⅰ 墨西哥电视,http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-蒙古国 Ⅰ MNB,http://103.14.38.107:1935/live/mnb.stream/master.m3u8
-联合国 Ⅰ 联合国台,https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
-斯诺伐克 Ⅰ J O J 频道,http://nn2.joj.sk/hls/joj-540.m3u8
-斯洛伐克 Ⅰ WAU 频道,http://nn2.joj.sk/hls/wau-540.m3u8
-越南333HD,P2p://51.79.41.138:18912/5d7206e100001827115f40096c610f09.ts#P2p://51.79.41.138:18912/5d7206e100001827115f40096c610f09.ts
-越南5SHOPchnnu5HD,P2p://51.79.41.138:18912/5d7206e20008ea4c115f463361693692.ts#P2p://51.79.41.138:18912/5d7206e20008ea4c115f463361693692.ts
-越南7chHD,P2p://51.79.41.138:18912/5d7206e40002006c115f4c3e38da3cdd.ts#P2p://51.79.41.138:18912/5d7206e40002006c115f4c3e38da3cdd.ts
-越南FOXSPORT,P2p://51.79.41.138:18912/5bf4f3c3000ce37233bfbac57c7601f3.ts#P2p://51.79.41.138:18912/5bf4f3c3000ce37233bfbac57c7601f3.ts
-越南FOXSPORT2,P2p://51.79.41.138:18912/5c0f8a240000fe649b9b22b04be77536.ts#P2p://51.79.41.138:18912/5c0f8a240000fe649b9b22b04be77536.ts
-越南HTV3,P2p://51.79.41.138:18912/5c09fd92000ee7d685ee0bea73414b7b.ts#P2p://51.79.41.138:18912/5c09fd92000ee7d685ee0bea73414b7b.ts
-越南HTV4,P2p://51.79.41.138:18912/5befb737000e82aa1f4b3853035f4903.ts#P2p://51.79.41.138:18912/5befb737000e82aa1f4b3853035f4903.ts
-越南HTV7,P2p://51.79.41.138:18912/5b8e5fb00002026ba30d4d9f4e3c1f45.ts#P2p://51.79.41.138:18912/5b8e5fb00002026ba30d4d9f4e3c1f45.ts
-越南HTV9,P2p://51.79.41.138:18912/5b8e5fac000767b4a30d3f674191096b.ts#P2p://51.79.41.138:18912/5b8e5fac000767b4a30d3f674191096b.ts
-越南HTVCPHIM,P2p://51.79.41.138:18912/5c0f8a1c0003fcff9b9b042b38001b1c.ts#P2p://51.79.41.138:18912/5c0f8a1c0003fcff9b9b042b38001b1c.ts
-越南HTVCTHETHAO,P2p://51.79.41.138:18912/5c0f8a200006dd329b9b148759ad160d.ts#P2p://51.79.41.138:18912/5c0f8a200006dd329b9b148759ad160d.ts
-越南K+1,P2p://51.79.41.138:18912/5be79db50002be6dffa7917563c52836.ts#P2p://51.79.41.138:18912/5be79db50002be6dffa7917563c52836.ts
-越南K+NSHD,P2p://51.79.41.138:18912/5be79dbc000623fcffa7adb816774547.ts#P2p://51.79.41.138:18912/5be79dbc000623fcffa7adb816774547.ts
-越南K+PCHD,P2p://51.79.41.138:18912/5be79db8000f1cdfffa7a05a257150cc.ts#P2p://51.79.41.138:18912/5be79db8000f1cdfffa7a05a257150cc.ts
-越南K+PMHDVTC1,P2p://51.79.41.138:18912/5be79dbf000d8fd4ffa7bb54206e5c51.ts#P2p://51.79.41.138:18912/5be79dbf000d8fd4ffa7bb54206e5c51.ts
-越南MAXBYHBO,P2p://51.79.41.138:18912/5c09fd960008b51485ee19f401b51d94.ts#P2p://51.79.41.138:18912/5c09fd960008b51485ee19f401b51d94.ts
-越南VTC1,P2p://51.79.41.138:18912/5bf54128000ebc6734ee0dca6e8e4749.ts#P2p://51.79.41.138:18912/5bf54128000ebc6734ee0dca6e8e4749.ts
-越南VTC10netviet,P2p://51.79.41.138:18912/5bf4f3b900054db433bf91c1256026f2.ts#P2p://51.79.41.138:18912/5bf4f3b900054db433bf91c1256026f2.ts
-越南VTC14,P2p://51.79.41.138:18912/5bf4f3b200070be033bf76e640f64cea.ts#P2p://51.79.41.138:18912/5bf4f3b200070be033bf76e640f64cea.ts
-越南VTC16,P2p://51.79.41.138:18912/5bf4f3b5000b9f2233bf83c77c4f0a1e.ts#P2p://51.79.41.138:18912/5bf4f3b5000b9f2233bf83c77c4f0a1e.ts
-越南VTC3,P2p://51.79.41.138:18912/5bf5412c000e870834ee1d5b04cd4ece.ts#P2p://51.79.41.138:18912/5bf5412c000e870834ee1d5b04cd4ece.ts
-越南VTC4,P2p://51.79.41.138:18912/5c09fd880002e1b785ede1bd2771400e.ts#P2p://51.79.41.138:18912/5c09fd880002e1b785ede1bd2771400e.ts
-越南VTC5,P2p://51.79.41.138:18912/5c09fd8b000b22d285edef9817135410.ts#P2p://51.79.41.138:18912/5c09fd8b000b22d285edef9817135410.ts
-越南VTC6,P2p://51.79.41.138:18912/5c09fd8f0002043f85edfce6165c24da.ts#P2p://51.79.41.138:18912/5c09fd8f0002043f85edfce6165c24da.ts
-越南VTC7,P2p://51.79.41.138:18912/5bf541300005a57434ee2ab9644c6a93.ts#P2p://51.79.41.138:18912/5bf541300005a57434ee2ab9644c6a93.ts
-越南VTC9,P2p://51.79.41.138:18912/5bf54133000c4eb034ee38261edd6020.ts#P2p://51.79.41.138:18912/5bf54133000c4eb034ee38261edd6020.ts
-越南VTV1,P2p://51.79.41.138:18912/5bf4293900004c0130a88c792c291451.ts#P2p://51.79.41.138:18912/5bf4293900004c0130a88c792c291451.ts
-越南VTV2,P2p://51.79.41.138:18912/5c09fd7d0007783785edb7fe1f5146ff.ts#P2p://51.79.41.138:18912/5c09fd7d0007783785edb7fe1f5146ff.ts
-越南VTV3,P2p://51.79.41.138:18912/5bf4293c000a073130a89ab278da17ec.ts#P2p://51.79.41.138:18912/5bf4293c000a073130a89ab278da17ec.ts
-越南VTV5,P2p://51.79.41.138:18912/5c09fd8100022aa185edc6361ece378f.ts#P2p://51.79.41.138:18912/5c09fd8100022aa185edc6361ece378f.ts
-越南VTV6,P2p://51.79.41.138:18912/5bf429400001b28e30a8a82f4a025b78.ts#P2p://51.79.41.138:18912/5bf429400001b28e30a8a82f4a025b78.ts
-越南VTV7,P2p://51.79.41.138:18912/5bf429430008489b30a8b59c5e6b4502.ts#P2p://51.79.41.138:18912/5bf429430008489b30a8b59c5e6b4502.ts
-越南VTV8,P2p://51.79.41.138:18912/5c09fd84000ade2c85edd4306b452045.ts#P2p://51.79.41.138:18912/5c09fd84000ade2c85edd4306b452045.ts
-越南VTV9,P2p://51.79.41.138:18912/5bf429470000d1da30a8c348421a2c2c.ts#P2p://51.79.41.138:18912/5bf429470000d1da30a8c348421a2c2c.ts
-越南VTVcab1,P2p://51.79.41.138:18912/5c09fd9a0000ea0485ee279006b56813.ts#P2p://51.79.41.138:18912/5c09fd9a0000ea0485ee279006b56813.ts
-越南VTVcab19,P2p://51.79.41.138:18912/5bf4f3bc000b939c33bf9f1f534948e2.ts#P2p://51.79.41.138:18912/5bf4f3bc000b939c33bf9f1f534948e2.ts
-越南VTVcab20,P2p://51.79.41.138:18912/5bf4f3c00004612a33bfacdb3ead22d6.ts#P2p://51.79.41.138:18912/5bf4f3c00004612a33bfacdb3ead22d6.ts
-越南VTVcab2-PhimViet,P2p://51.79.41.138:18912/5c0f8a2b00030ca19b9b3e853bfe70b7.ts#P2p://51.79.41.138:18912/5c0f8a2b00030ca19b9b3e853bfe70b7.ts
-越南VTVcab3,P2p://51.79.41.138:18912/5c09fd9d000c633585ee36367e981901.ts#P2p://51.79.41.138:18912/5c09fd9d000c633585ee36367e981901.ts
-越南VTVcab5-ECHANNEL,P2p://51.79.41.138:18912/5c0f8a2e000c23c19b9b4c8e546f2dd2.ts#P2p://51.79.41.138:18912/5c0f8a2e000c23c19b9b4c8e546f2dd2.ts
-越南VTVcab7-DDRAMS,P2p://51.79.41.138:18912/5c0f8a32000400f39b9b5a1b68495ffa.ts#P2p://51.79.41.138:18912/5c0f8a32000400f39b9b5a1b68495ffa.ts
 CnnNewsP7p,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
 EspnP7p,p8p://0198.02686.cc:16871/5d1a69780009978d11bcf455a30b876a.ts
 ABCHDP7p,p8p://0198.02686.cc:16871/5d1a696200050e9f11bc9d3cb1d3a565.ts
@@ -1790,99 +1571,42 @@ Super_EntP7p,p8p://0198.02686.cc:16871/5d1a69eb00066bb811beb4be2e00f8bf.ts
 News1_(USA)P7p,p8p://0198.02686.cc:16871/5d1a69e600058ab011bea0fc8a6fa32d.ts
 CH.1P7p,p8p://0198.02686.cc:16871/5d1a6970000ba43811bcd59c32d704df.ts
 TGNP7p,p8p://0198.02686.cc:16871/5d1a69ee00020c6911bebf57495301ab.ts
-D Music,https://1765965335.rsc.cdn77.org/LS-50041-SIN-18/tracks-v3a1/mono.m3u8
-TV3 HD,https://1454048121.rsc.cdn77.org/LS-50041-SIN-17/tracks-v3a1/mono.m3u8
-Town TV Full HD,https://1661779960.rsc.cdn77.org/LS-50041-SIN-16/tracks-v3a1/mono.m3u8
-CTV8,https://1909041562.rsc.cdn77.org/LS-50041-SIN-15/tracks-v3a1/mono.m3u8
-Nice TV,https://1546733910.rsc.cdn77.org/LS-50041-SIN-14/tracks-v3a1/mono.m3u8
-Apsara TV,https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/tracks-v3a1/mono.m3u8
-TV9 HDTV,https://1014844237.rsc.cdn77.org/LS-50041-SIN-12/tracks-v3a1/mono.m3u8
-TV5,https://1612097999.rsc.cdn77.org/LS-50041-SIN-11/tracks-v3a1/mono.m3u8
-BTV News,https://1672046706.rsc.cdn77.org/LS-50041-SIN-10/tracks-v3a1/mono.m3u8
-ETV,https://1054166422.rsc.cdn77.org/LS-50041-SIN-9/tracks-v3a1/mono.m3u8
-Bayon TV,https://1523926405.rsc.cdn77.org/LS-50041-SIN-8/tracks-v3a1/mono.m3u8
-CNC News,https://1061752280.rsc.cdn77.org/LS-50041-SIN-7/tracks-v3a1/mono.m3u8
-MyTV,https://1737081326.rsc.cdn77.org/LS-50041-SIN-6/tracks-v3a1/mono.m3u8
-CTN,https://1004597868.rsc.cdn77.org/LS-50041-SIN-5/tracks-v3a1/mono.m3u8
-Rasmey Hang Meas HDTV,https://1363455353.rsc.cdn77.org/LS-50041-SIN-4/tracks-v3a1/mono.m3u8
-TVK,https://1749089154.rsc.cdn77.org/LS-50041-SIN-3/tracks-v3a1/mono.m3u8
-PNN,https://1345225764.rsc.cdn77.org/LS-50041-SIN-2/tracks-v3a1/mono.m3u8
-Hang Meas HDTV,https://1145067750.rsc.cdn77.org/LS-50041-SIN-1/tracks-v1a1/mono.m3u8
-Bull & Chicken Showtime,https://1396402344.rsc.cdn77.org/LS-50041-SIN-23/tracks-v3a1/mono.m3u8
-Thai Voice TV,https://1808558851.rsc.cdn77.org/LS-50041-SIN-24/tracks-v3a1/mono.m3u8
-Thai One,https://1521567559.rsc.cdn77.org/LS-50041-SIN-22/tracks-v3a1/mono.m3u8
-Thai TV7,https://1419021143.rsc.cdn77.org/LS-50041-SIN-21/tracks-v3a1/mono.m3u8
-Thai TV5,https://1905117544.rsc.cdn77.org/LS-50041-SIN-20/tracks-v3a1/mono.m3u8
-Thai TV3,https://1468481365.rsc.cdn77.org/LS-50041-SIN-19/tracks-v3a1/mono.m3u8
-印度AALAMISAHARA,P2p://51.79.41.138:18912/5b140a89000f379f17d6c65d66746e51.ts
-印度ALJAZEERA(半岛电视台),P2p://51.79.41.138:18912/5b140a84000533c717d6b0444e2a6dcd.ts
-印度B4UMOVIES,P2p://51.79.41.138:18912/5ce00638000468b5143ba8fb145c0645.ts
-印度FILMY,P2p://51.79.41.138:18912/5b140a890009bd5f17d6c4f567807bc6.ts
-印度IndiaTV,P2p://51.79.41.138:18912/5b140a890004b9ea17d6c3ad76bc421d.ts
-印度NDTV新德里電視台,P2p://51.79.41.138:18912/5b140a87000dc92517d6be2f7ee45257.ts
-印度SAHARABIH,P2p://51.79.41.138:18912/5b140a87000dc92517d6be2f7ee45257.ts
-印度SAHARAMP,P2p://51.79.41.138:18912/5b140a850000e96e17d6b31302f418d9.ts
-印度SAHARAMUM,P2p://51.79.41.138:18912/5b140a88000efa2e17d6c2654a1d3a44.ts
-印度SAHARANAT,P2p://51.79.41.138:18912/5b140a880009bb5717d6c10d55fc4fc1.ts
-印度SAHARANCR,P2p://51.79.41.138:18912/5b140a8800043fbe17d6bfa64e0f3a0d.ts
-印度SAHARAONE,P2p://51.79.41.138:18912/5b140a84000aafa217d6b1ac4c80417b.ts
-印度SAHARAUP,P2p://51.79.41.138:18912/5b140a890004b9ea17d6c3ad76bc421d.ts
-印度Sanskar,P2p://51.79.41.138:18912/5b140a89000f379f17d6c65d66746e51.ts
-阿联酋Saudi1,P2p://51.79.41.138:18912/5ce013e10007793e147105ee3d480df6.ts
-印度ZEEAction,P2p://51.79.41.138:18912/5d720286000607ee114e3e170c135faa.ts
-印度ZEEBusiness,P2p://51.79.41.138:18912/5d72027f0001061f114e217765a761f2.ts
-印度ZEEFLASH,P2p://51.79.41.138:18912/5b140a85000664f617d6b47b66ea0f3c.ts
-印度ZEEMPCHHATTISGA,P2p://51.79.41.138:18912/5ce0063400068e18143b99e7231b1e0b.ts
-印度ZEENews,P2p://51.79.41.138:18912/5d7202910006bf1f114e693e698c376d.ts
-印度ZEEPUNJABIHH,P2p://51.79.41.138:18912/5b140a8700088a7c17d6bcd74661512f.ts
-印度ZEERAJASTHAN,P2p://51.79.41.138:18912/5b140a8700088a7c17d6bcd74661512f.ts
-印度ZEETamil,P2p://51.79.41.138:18912/5d72027d00082cf8114e1b7c6a730caa.ts
-印度ZEETV,P2p://51.79.41.138:18912/5d720289000acccc114e4b086d2751b1.ts
-印度ZEE新闻台,P2p://51.79.41.138:18912/5b140a8700034bae17d6bb7f05807cf9.ts
-印度ZNEWS,P2p://51.79.41.138:18912/5b140a880009bb5717d6c10d55fc4fc1.ts
-印尼IGNWHD,P2p://51.79.41.138:18912/5c90a36e000e3df293e5ef3a082413ee.ts
-印尼KTVHD,P2p://51.79.41.138:18912/5d7202880002ee4a114e451c117c69b6.ts
-印尼SINEMAX,P2p://51.79.41.138:18912/5c90a38400007cfa93e641b024a37892.ts
-印尼SCTV,P2p://51.79.41.138:18912/5d72049a00086dbc11565cd425230002.ts
-印尼美都電視台MetroTV,P2p://51.79.41.138:18912/5d720498000ede7c115656aa12c95c83.ts
-Indonesia_AhsanTV,P2p://51.79.41.138:18912/5c90a38f000d5d0d93e66ff330fb347f.ts
-Indonesia_AlImanTV,P2p://51.79.41.138:18912/5c90a36b0001307b93e5e03742fc252d.ts
-Indonesia_BandungTV,P2p://51.79.41.138:18912/5c90a3660005cb2b93e5cdd76e806c25.ts
-Indonesia_CH6,P2p://51.79.41.138:18912/5ce00c89000c024f1454575767663639.ts
-Indonesia_INDO24TV,P2p://51.79.41.138:18912/5ce00c8d000518431454653273415942.ts
-Indonesia_jtv,P2p://51.79.41.138:18912/5ce00c7e000e647614542cfb105432b4.ts
-Indonesia_LANGSUNG,P2p://51.79.41.138:18912/5ce00c71000cf6a71453f9d526bb320e.ts
-Indonesia_MCineChannel,P2p://51.79.41.138:18912/5ce00c6a000015711453db3104cc6f65.ts
-Indonesia_Md,P2p://51.79.41.138:18912/5ce00c820009dcd714543b7221fc2f47.ts
-Indonesia_MetroTV,P2p://51.79.41.138:18912/5c90a37d0000886893e626582d0b0d52.ts
-Indonesia_MNCTV,P2p://51.79.41.138:18912/5c90a3720006e19393e5fcf6559b18ae.ts
-Indonesia_mutv,P2p://51.79.41.138:18912/5ce00c8600023c161454491e27f32dd7.ts
-Indonesia_PuldapiiTV,P2p://51.79.41.138:18912/5c90a3880009310293e6538257754588.ts
-Indonesia_quranhidayah,P2p://51.79.41.138:18912/5ce00c940005cfbf145480b81a213a70.ts
-Indonesia_rodjatv,P2p://51.79.41.138:18912/5ce00c77000831551454100d22990e9a.ts
-Indonesia_rtv5,P2p://51.79.41.138:18912/5ce00c7b0000cd1514541dc810e46a16.ts
-Indonesia_SCTV,P2p://51.79.41.138:18912/5ce00c90000deb241454732c78f67d15.ts
-Indonesia_tv9,P2p://51.79.41.138:18912/5ce00c6e00032f3c1453eb9d26ae0a1c.ts
-Indonesia_TVRI3,P2p://51.79.41.138:18912/5c90a3760000d4fe93e60b0f21ce0fb0.ts
-Indonesia_TVRIsport,P2p://51.79.41.138:18912/5c90a38c0002fa2193e6618c38c71a54.ts
-Indonesia_TVRI,P2p://51.79.41.138:18912/5c90a3790008ec5193e618db1ad4595e.ts
-Indonesia_WesalTV,P2p://51.79.41.138:18912/5c90a3800009c98793e6347127ac013b.ts
-Indosiar,P2p://51.79.41.138:18912/5d72049d000b4a34115669471a490adb.ts
-英國5SpikeChannel5斯派克5,P2p://51.79.41.138:18912/5b593cae00069ab4d37d028263a333b1.ts
-SkysportsMix,p2p://860825993:18912/5b2e22ad000c83552b1f701134782a1d.ts
-IndiaNews,p2p://860825993:18912/5b140a890009bd5f17d6c4f567807bc6.ts
-IndiaTV,p2p://860825993:18912/5b140a890004b9ea17d6c3ad76bc421d.ts
-ZNEWS,p2p://860825993:18912/5b140a880009bb5717d6c10d55fc4fc1.ts
-zoom,p2p://860825993:18912/5b140a860001636017d6b71a7ed41c74.ts
-SONYSIX,p2p://860825993:18912/5b140a85000b29c817d6b5b304247c00.ts
-STARSPORTS1,p2p://860825993:18912/5b140a84000533c717d6b0444e2a6dcd.ts
-mediacorp,p2p://860825993:18912/5b20e3af00036b8c4a06ffcf2b9c28ee.ts
-MEZZOLIVE,p2p://860825993:18912/5b14090b0006deff17d0f00a54266306.ts
-Sanskar,p2p://860825993:18912/5b140a89000f379f17d6c65d66746e51.ts
-NDTV24x7,p2p://860825993:18912/5b140a8700088a7c17d6bcd74661512f.ts
-NDTVINDIA,p2p://860825993:18912/5b140a87000dc92517d6be2f7ee45257.ts
-News18,p2p://860825993:18912/5b140a88000efa2e17d6c2654a1d3a44.ts
-TEN1,p2p://860825993:18912/5b140a84000aafa217d6b1ac4c80417b.ts
+
+東森超視,p2p://190.2.146.92:18912/5c72487c000667911d52abe7044c2b21.ts
+三立台湾,p2p://190.2.146.92:18912/5c72486a000b11721d5266cf1bf84bce.ts
+TVBS?精彩台,p2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
+中天新聞 ,p2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts
+民視 ,p2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
+華視 ,p2p://190.2.146.92:18912/5c2dd7470006324111f874bf40a40dd0.ts#p2p://190.2.146.92:18912/5b140968000d4f3517d25cf83e1e0c9f.ts#p2p://190.2.146.92:18912/5c72484f000e498b1d51fe2201d92dd3.ts
+中視 ,p2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts
+TVBS新聞 ,p2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
+非凡新聞 ,p2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
+衛視電影 ,p2p://190.2.146.92:18912/5c7249cf00095b611d57d8da587f1c48.ts
+東森新聞 ,p2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts
+三立新聞 ,p2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts
+中天亞洲 ,p2p://190.2.146.92:18912/5c724839000d2f361d51a7e41eb00016.ts
+亞洲旅遊 ,p2p://190.2.146.92:18912/5c724854000188081d520e6e279b2446.ts
+美亞電影 ,p2p://190.2.146.92:18912/5c724a0e000442831d58cdaa6a2c5c52.ts
+東森幼幼 ,p2p://190.2.146.92:18912/5c724866000564111d5255b84de26a1c.ts
+東森電影 ,p2p://190.2.146.92:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts
+東森戲劇 ,p2p://190.2.146.92:18912/5c724882000704081d52c386798d4d25.ts
+緯來電影 ,p2p://190.2.146.92:18912/5c7249d80003096d1d57fa6c33601be9.ts
+緯來戲劇 ,p2p://190.2.146.92:18912/5c72488e000bae061d52f38e705751dd.ts
+HBO HD ,p2p://190.2.146.92:18912/5c7249dd000ca2101d58106551ff3ed4.ts
+國家地理野生 ,p2p://190.2.146.92:18912/5c7249fb000db88c1d5885e333974925.ts
+星衛娛樂 ,p2p://190.2.146.92:18912/5c724a0a000180991d58bd4f6e533ad5.ts
+星衛電影 ,p2p://190.2.146.92:18912/5c724a05000626a61d58aaff0c3f3175.ts
+好萊塢電影 ,p2p://190.2.146.92:18912/5c7249e2000125281d5820ff23a165d1.ts
+MOMO親子 ,p2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55.ts
+迪士尼卡通 ,p2p://190.2.146.92:18912/5c72485c0008852e1d522f7314a34325.ts
+八大戲劇 ,p2p://190.2.146.92:18912/5c72488600080edc1d52d364104615a0.ts
+大愛 ,p2p://190.2.146.92:18912/5c7248470009cd451d51ddb92c7476f0.ts
+JET綜合 ,p2p://190.2.146.92:18912/5c724892000e3e1c1d5303da4a3c6c26.ts
+霹靂台灣 ,p2p://190.2.146.92:18912/5c7248580004e26e1d521ee9240c6230.ts
+ELTA體育3 ,p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
+東森綜合 ,p2p://190.2.146.92:18912/5c724877000e7b2d1d529a721b487255.ts
+TVBS歡樂 ,p2p://190.2.146.92:18912/5c72488a000a56b71d52e3a07060345e.ts
+
 
 华数TV-01,http://hls-ott-zhibo.wasu.tv/live/113/index.m3u8
 华数TV-02,http://hls-ott-zhibo.wasu.tv/live/180/index.m3u8
