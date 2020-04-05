@@ -156,9 +156,8 @@ TVB韩剧台,msc://CKDrama5
 華藝影剧台,p8p://0198.02686.cc:16871/5d1a69d700008c5a11be651dc2bd3d52.ts
 三立戏剧台,p8p://0198.02686.cc:16871/5d1a69f90000ad2611bee9f55d87748f.ts
 纬来电影,p2p://51.79.41.138:18912/5c7249d80003096d1d57fa6c33601be9.ts
-纬来戏剧,vjms://58.215.133.161:8500/live/cid=137#vjms://58.215.133.185:8500:3502/live/cid=137#vjms://58.215.133.184:8500:3502/live/cid=137
-纬来戏剧,vjms://23.237.33.155:8500:3502/live/cid=137
-纬来戏剧,P2p://190.2.146.92:18912/5c72488e000bae061d52f38e705751dd.ts
+纬来戏剧,vjms://58.215.133.161:8500/live/cid=137#vjms://58.215.133.194:8500:3502/live/cid=137#vjms://58.215.133.184:8500:3502/live/cid=137
+纬来戏剧,vjms://58.215.133.185:8500:3502/live/cid=137
 EYETV戏剧台,p8p://0198.02686.cc:16871/5d1a69a2000ca28211bd992d29a29542.ts
 大爱,mitv://190.2.146.92:18912/5c7248470009cd451d51ddb92c7476f0.ts
 大爱二台,p8p://0198.02686.cc:16871/5d1a69b8000386b311bdecc8d9c8c96a.ts
@@ -224,15 +223,16 @@ JET综合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 年代MUCH,vjms://58.215.133.194:8500:3502/live/cid=439#vjms://58.215.133.161:8500/live/cid=439#vjms://58.215.133.185:8500:3502/live/cid=439
 
 港台体育,#genre#
+Fox-体育1HD,p2p://51.79.41.138:18912/5b140a970005af9a17d6fa9c392512d4.ts
 FOXSPORT-3,vjms://58.215.133.161:8500/live/cid=95#vjms://58.215.133.185:8500:3502/live/cid=95
-FOX2,vjms://58.215.133.161:8500/live/cid=444#vjms://58.215.133.185:8500:3502/live/cid=444#vjms://58.215.133.185:8500:3502/live/cid=444
-FOX3,vjms://58.215.133.161:8500/live/cid=95#vjms://58.215.133.185:8500:3502/live/cid=95
+FOX2,vjms://58.215.133.161:8500/live/cid=444#vjms://58.215.133.194:8500:3502/live/cid=444#vjms://58.215.133.185:8500:3502/live/cid=444
+FOX3,vjms://58.215.133.161:8500/live/cid=95#vjms://58.215.133.194:8500:3502/live/cid=95#vjms://58.215.133.185:8500:3502/live/cid=95
 Espn,p8p://0198.02686.cc:16871/5d1a69780009978d11bcf455a30b876a.ts
 ESPN-2,p8p://0198.02686.cc:16871/5d1a6977000e2bcf11bcf19a3cdc6db3.ts
 ESPN-NEWS,p8p://0198.02686.cc:16871/5d1a69790005067111bcf7122cbdef5f.ts
 ESPN JP,vjms://58.215.133.161:8500/live/cid=410
 ELTA体育HD,vjms://58.215.133.161:8500/live/cid=266#vjms://58.215.133.185:8500:3502/live/cid=266
-ELTA体育HD,vjms://23.237.33.155:8500:3502/live/cid=266
+ELTA体育HD,vjms://58.215.133.194:8500:3502/live/cid=266
 ELTA体育2,P2p://51.79.41.138:18912/5b1409da0004ba1317d418157a2631bc.ts
 ELTA体育3 ,mitv://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 博斯高球1,vjms://58.215.133.161:8500/live/cid=265#vjms://58.215.133.185:8500:3502/live/cid=265
@@ -240,8 +240,7 @@ ELTA体育3 ,mitv://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 博斯高球1,vjms://23.237.33.155:8500:3502/live/cid=265
 博斯高球2,p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts
 博斯網球,p8p://0198.02686.cc:16871/5d4c07370004e10e9fd599bbf1aae42b.ts
-纬来体育,vjms://58.215.133.185:8500:3502/live/cid=202#vjms://58.215.133.161:8500/live/cid=202
-纬来体育,vjms://23.237.33.155:8500:3502/live/cid=202
+纬来体育,vjms://58.215.133.194:8500:3502/live/cid=202#vjms://58.215.133.161:8500/live/cid=202
 Z频道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
@@ -252,25 +251,20 @@ J-Sports-2,vjms://58.215.133.161:8500/live/cid=416#vjms://58.215.133.185:8500:35
 J-Sports-3,vjms://58.215.133.161:8500/live/cid=410#vjms://58.215.133.185:8500:3502/live/cid=410
 J-Sports-4,vjms://58.215.133.161:8500/live/cid=411#vjms://58.215.133.185:8500:3502/live/cid=411
 港台育乐,#genre#
-国家地理野生,vjms://58.215.133.161:8500/live/cid=263#vjms://58.215.133.185:8500:3502/live/cid=263
-国家地理野生,mitv://190.2.146.92:18912/5c7249fb000db88c1d5885e333974925.ts
-国家地理野生,vjms://23.237.33.155:8500:3502/live/cid=263
+国家地理野生,vjms://58.215.133.161:8500/live/cid=263#vjms://58.215.133.194:8500:3502/live/cid=263
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
-国家地理,vjms://58.215.133.161:8500/live/cid=115#vjms://58.215.133.185:8500:3502/live/cid=263
-国家地理,tvbus://4rCzF92tpigEaTDyFzUYgZox2deV8MRNanzviXfVbUsiJCWP49
+国家地理,vjms://58.215.133.161:8500/live/cid=115#vjms://58.215.133.147:8500:3502/live/cid=115
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
 探索频道,tvbus://3YTQyx5qi6o9dtJF1aoqCdPvaTb3EyE37w4EkeWwxESzBMe7EE
 探索频道(日本),vjms://58.215.133.161:8500/live/cid=496#vjms://58.215.133.185:8500:3502/live/cid=496
-探索亚洲,vjms://58.215.133.161:8500/live/cid=440#vjms://58.215.133.185:8500:3502/live/cid=440
-探索亚洲,vjms://23.237.33.155:8500:3502/live/cid=440
-探索科学,vjms://58.215.133.161:8500/live/cid=457#vjms://58.215.133.185:8500:3502/live/cid=457
-探索科学,vjms://23.237.33.155:8500:3502/live/cid=457
-动物星球,vjms://58.215.133.161:8500/live/cid=3#vjms://58.215.133.185:8500:3502/live/cid=3
+探索亚洲,vjms://58.215.133.194:8500:3502/live/cid=440#vjms://58.215.133.161:8500/live/cid=440#vjms://58.215.133.185:8500:3502/live/cid=440
+
+探索科学,vjms://58.215.133.161:8500/live/cid=457#vjms://58.215.133.194:8500:3502/live/cid=457#vjms://58.215.133.185:8500:3502/live/cid=457
+动物星球,vjms://58.215.133.194:8500:3502/live/cid=3#vjms://58.215.133.161:8500/live/cid=3#vjms://58.215.133.185:8500:3502/live/cid=3
 动物星球,http://cdn.5itv.tv//ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 动物星球,p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
-动物星球,vjms://23.237.33.155:8500:3502/live/cid=3
-TLC旅游生活,vjms://58.215.133.161:8500/live/cid=103#vjms://58.215.133.185:8500:3502/live/cid=103#vjms://58.215.133.185:8500:3502/live/cid=103
-TLC旅游生活,tvbus://4PHzrFyKUaoX7wSRTqhXWJyDxp9eR5vfz8e2uwE9iPSwGQ6Ap8
+TLC旅游生活,vjms://58.215.133.161:8500/live/cid=103#vjms://58.215.133.194:8500:3502/live/cid=103#vjms://58.215.133.185:8500:3502/live/cid=103
+
 FOOD美食,tvbus://3kdNHNLMdPo9No1qMRc2sBwBrU7rwQf4iaXxETo3ZF67b3kjbu
 亞洲美食頻道,tvbus://34wDUPKvLphNqSJ8411f9a3sWDXAGCDjd4TFBQuTQrv3SGHSHk
 FOOD-NETWORK,p8p://0198.02686.cc:16871/5d1a697c000f143811bd055d7544615f.ts
