@@ -137,9 +137,8 @@ HBO家庭,vjms://58.215.133.161:8500/live/cid=181#vjms://58.215.133.185:8500:350
 HBO家庭,vjms://23.237.33.155:8500:3502/live/cid=181
 HBO强档,vjms://58.215.133.161:8500/live/cid=238#vjms://58.215.133.185:8500:3502/live/cid=238
 HBO强档,vjms://23.237.33.155:8500:3502/live/cid=238
-HBO,vjms://58.215.133.161:8500/live/cid=261#vjms://58.215.133.185:8500:3502/live/cid=261
+HBO,vjms://58.215.133.194:8500:3502/live/cid=261#vjms://58.215.133.161:8500/live/cid=261#vjms://58.215.133.185:8500:3502/live/cid=261
 HBO,mitv://190.2.146.92:18912/5c7249dd000ca2101d58106551ff3ed4.ts
-HBO,vjms://23.237.33.155:8500:3502/live/cid=261
 东森电影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 东森电影,p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
 东森电影,mitv://190.2.146.92:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts
@@ -432,7 +431,7 @@ K频道(高清),p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 
 
 测试频道,#genre#
-星蕾TV-全球频道,#genre#
+
 新加坡8频道,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 CNC新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
 CHTV台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
