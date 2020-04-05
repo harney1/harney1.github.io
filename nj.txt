@@ -18,6 +18,13 @@ CCTV-5+体育,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 CCTV-17农村农业,http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 
 卫星频道,#genre#
+香港卫视 HD,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+澳门卫视 HD,http://220.158.149.26:8182/hls/TV00000000000000000140@HHZT.m3u8
+澳亚卫视 HD,http://stream.mastvnet.com/MASTV/sd/live.m3u8
+莲花卫视 HD,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
+澳门有线 HD1,http://202.175.127.77/live/show/ch1/index.m3u8
+澳门有线 HD2,http://202.175.127.77/live/show/ch2/index.m3u8
+澳门有线 HD3,http://202.175.127.77/live/show/ch3/index.m3u8
 鳳凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 鳳凰資訊,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 鳳凰電影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
@@ -118,7 +125,7 @@ CNN,vjms://58.215.133.161:8500/live/cid=428#vjms://58.215.133.185:8500:3502/live
 CNN,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
 CNN,vjms://23.237.33.155:8500:3502/live/cid=428
 BBC,vjms://58.215.133.161:8500/live/cid=418#vjms://58.215.133.185:8500:3502/live/cid=418
-BBC,vjms://23.237.33.155:8500:3502/live/cid=418
+BBC,vjms://58.215.133.194:8500:3502/live/cid=418
 半岛新闻,http://80.245.105.21:8006/4gtv/sd/litv-ftv10.m3u8
 半岛新闻,http://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8#http://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 新马 Ⅰ 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
@@ -166,7 +173,7 @@ EYETV戏剧台,p8p://0198.02686.cc:16871/5d1a69a2000ca28211bd992d29a29542.ts
 凤凰电影台,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 WarnerTV,http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 AXN,vjms://58.215.133.194:8500:3502/live/cid=2#vjms://58.215.133.161:8500/live/cid=2#vjms://58.215.133.185:8500:3502/live/cid=2#vjms://58.215.133.184:8500:3502/live/cid=2
-FOX1,vjms://58.215.133.161:8500/live/cid=97
+FOX1,vjms://58.215.133.194:8500:3502/live/cid=97#vjms://58.215.133.161:8500/live/cid=97
 FX,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
 BLUEANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
 好莱坞电影,mitv://190.2.146.92:18912/5c7249e2000125281d5820ff23a165d1.ts
@@ -2352,23 +2359,23 @@ ATV 亚视 HD,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cb
 澳门有线 HD1,http://202.175.127.77/live/show/ch1/index.m3u8
 澳门有线 HD2,http://202.175.127.77/live/show/ch2/index.m3u8
 澳门有线 HD3,http://202.175.127.77/live/show/ch3/index.m3u8
-RTHK31,p2p://147.135.39.171:9906/5a8160d0000ea5d945593ba368ad0bff.ts
-RTHK32,p2p://147.135.39.171:9906/5a8160d0000e5d5e45593b93288b0e9c.ts
-凤凰中文台,p2p://147.135.39.171:9906/5a847b19000a3cb25194df38656776ea.ts
-凤凰香港台,p2p://147.135.39.171:9906/5a847b19000a815c5194df483f003508.ts
-凤凰资讯台,p2p://147.135.39.171:9906/5a847b190009f0675194df293b804350.ts
-香港开电视,p2p://147.135.39.171:9906/5a84793500006ea0518d7a187ff810be.ts
-翡翠台,p2p://147.135.39.171:9906/5dfa617f00076797140d70a545994988.ts
-翡翠台(备),p2p://147.135.39.171:9906/5d62c7a0000afce5bebe1ae54b99735a.ts
-J2,p2p://147.135.39.171:9906/5defdab5000c62a56ea0b90a0b532a03.ts
-无线新闻台,p2p://147.135.39.171:9906/5dfa63a60001338a1415d76621bf735e.ts
-无线新闻台(备),p2p://147.135.39.171:9906/5d9a2df6000c88299cbecee47d987ebd.ts
-明珠台,p2p://147.135.39.171:9906/5defe1400004ed256eba461e3fa17ad5.ts
+RTHK31,mitv://147.135.39.171:9906/5a8160d0000ea5d945593ba368ad0bff.ts
+RTHK32,mitv://147.135.39.171:9906/5a8160d0000e5d5e45593b93288b0e9c.ts
+凤凰中文台,mitv://147.135.39.171:9906/5a847b19000a3cb25194df38656776ea.ts
+凤凰香港台,mitv://147.135.39.171:9906/5a847b19000a815c5194df483f003508.ts
+凤凰资讯台,mitv://147.135.39.171:9906/5a847b190009f0675194df293b804350.ts
+香港开电视,mitv://147.135.39.171:9906/5a84793500006ea0518d7a187ff810be.ts
+翡翠台,mitv://147.135.39.171:9906/5dfa617f00076797140d70a545994988.ts
+翡翠台(备),mitv://147.135.39.171:9906/5d62c7a0000afce5bebe1ae54b99735a.ts
+J2,mitv://147.135.39.171:9906/5defdab5000c62a56ea0b90a0b532a03.ts
+无线新闻台,mitv://147.135.39.171:9906/5dfa63a60001338a1415d76621bf735e.ts
+无线新闻台(备),mitv://147.135.39.171:9906/5d9a2df6000c88299cbecee47d987ebd.ts
+明珠台,mitv://147.135.39.171:9906/5defe1400004ed256eba461e3fa17ad5.ts
 无线财经资讯台,p2p://147.135.39.171:9906/5d9a2c87000b43e99cb934ee7df41659.ts
 ViuTV,p2p://147.135.39.171:9906/5d9a2e7b000d28609cc0d68b68a05dd1.ts
 ViuTVsix,p2p://147.135.39.171:9906/5d9a2e7c0000af799cc0d74673341867.ts
 耀才财经台,rtmp://202.69.69.180:443/webcast/bshdlive-pc
-Mediacorp5,p2p://147.135.39.171:9906/5d62c43e0003c695beb0e24026975b97.ts
+Mediacorp5,mitv://147.135.39.171:9906/5d62c43e0003c695beb0e24026975b97.ts
 Mediacorp8,p2p://147.135.39.171:9906/5d62c43e0005d8d3beb0e2bd6f2040a0.ts
 Suria,p2p://147.135.39.171:9906/5dc3d1b3000892f21458aab33c2d156a.ts
 Vasantham TV,p2p://147.135.39.171:9906/5dc3d1b300044c311458a99a48d4477d.ts
