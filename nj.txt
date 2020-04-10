@@ -272,7 +272,7 @@ J-Sports-4,vjms://58.215.133.161:8500/live/cid=411#vjms://58.215.133.185:8500:35
 动物星球,vjms://58.215.133.194:8500:3502/live/cid=3#vjms://58.215.133.161:8500/live/cid=3#vjms://58.215.133.185:8500:3502/live/cid=3
 动物星球,http://cdn.5itv.tv//ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 动物星球,p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
-TLC旅游生活,vjms://58.215.133.161:8500/live/cid=103#vjms://58.215.133.194:8500:3502/live/cid=103#vjms://58.215.133.185:8500:3502/live/cid=103
+TLC旅游生活,vjms://58.215.133.161:8500/live/cid=103#vjms://58.215.133.194:8500:3502/live/cid=103#vjms://58.215.133.185:8500:3502/live/cid=103#tvbus://4PHzrFyKUaoX7wSRTqhXWJyDxp9eR5vfz8e2uwE9iPSwGQ6Ap8
 FOOD美食,tvbus://3kdNHNLMdPo9No1qMRc2sBwBrU7rwQf4iaXxETo3ZF67b3kjbu
 亞洲美食頻道,tvbus://34wDUPKvLphNqSJ8411f9a3sWDXAGCDjd4TFBQuTQrv3SGHSHk
 FOOD-NETWORK,p8p://0198.02686.cc:16871/5d1a697c000f143811bd055d7544615f.ts
