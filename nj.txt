@@ -377,11 +377,7 @@ K频道(高清),p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 olala,https://plbl.m9.lfstrm.tv/olala/normal/0/mono.m3u8
 
 测试频道,#genre#
-FOX CRIME HD,p2p://lino.homeunix.com:6007/59fd14ae0007a794026544e32f606291.ts
-FOX 优质影院 HD,p2p://lino.homeunix.com:6007/59fd246a0009125502a2bba01b0f4bf5.ts
-FOX 动作电影 HD,p2p://lino.homeunix.com:6007/59fd244900002be402a238767364317b.ts
-FOX 家庭影院HD,p2p://lino.homeunix.com:6007/59fd229f000615aa029bb9ed79916213.ts
-FOX SPORTS 3 HD,p2p://lino.homeunix.com:6007/59fd0ab7000ca0d6023e595351427583.ts
+Fox 电影台,tvbus://2U2Qu5bvtfEdSMFeTT8dBCA7gY1tjsBYVrdKJL8P5mLvMWPseKvqZQP6N4GEy
 新加坡8频道,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 中视HD,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 华视HD,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
