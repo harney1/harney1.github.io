@@ -124,10 +124,10 @@ RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 CNBC,vjms://58.215.133.161:8500/live/cid=98#vjms://58.215.133.185:8500:3502/live/cid=98
 CNBC,p8p://0198.02686.cc:16871/5d1a69720002ca3711bcdb2830f420fe.ts
 CNBC,vjms://23.237.33.155:8500:3502/live/cid=98
-CNN,vjms://58.215.133.161:8500/live/cid=428#vjms://58.215.133.185:8500:3502/live/cid=428
+CNN,vjms://58.215.133.154:8500/live/cid=428#vjms://58.215.133.161:8500/live/cid=428#vjms://58.215.133.185:8500:3502/live/cid=428
 CNN,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
 CNN,vjms://23.237.33.155:8500:3502/live/cid=428
-BBC,vjms://58.215.133.161:8500/live/cid=418#vjms://58.215.133.185:8500:3502/live/cid=418
+BBC,vjms://58.215.133.154:8500/live/cid=418#vjms://58.215.133.161:8500/live/cid=418#vjms://58.215.133.185:8500:3502/live/cid=418
 BBC,vjms://58.215.133.194:8500:3502/live/cid=418
 半岛新闻,http://80.245.105.21:8006/4gtv/sd/litv-ftv10.m3u8
 半岛新闻,http://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8#http://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
@@ -138,7 +138,7 @@ BBC,vjms://58.215.133.194:8500:3502/live/cid=418
 HBO原创电影,vjms://58.215.133.194:8500:3502/live/cid=436#vjms://58.215.133.161:8500/live/cid=436#vjms://58.215.133.185:8500:3502/live/cid=436
 HBO家庭,vjms://58.215.133.194:8500:3502/live/cid=181#vjms://58.215.133.161:8500/live/cid=181#vjms://58.215.133.185:8500:3502/live/cid=181
 HBO强档,vjms://58.215.133.194:8500:3502/live/cid=238#vjms://58.215.133.161:8500/live/cid=238#vjms://58.215.133.185:8500:3502/live/cid=238
-HBO,vjms://58.215.133.194:8500:3502/live/cid=261#vjms://58.215.133.161:8500/live/cid=261#vjms://58.215.133.185:8500:3502/live/cid=261
+HBO,vjms://58.215.133.189:8500:3502/live/cid=261#vjms://58.215.133.194:8500:3502/live/cid=261#vjms://58.215.133.161:8500/live/cid=261#vjms://58.215.133.185:8500:3502/live/cid=261
 HBO,mitv://190.2.146.92:18912/5c7249dd000ca2101d58106551ff3ed4.ts
 东森电影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 东森电影,p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
@@ -261,7 +261,7 @@ J-Sports-2,vjms://58.215.133.161:8500/live/cid=416#vjms://58.215.133.185:8500:35
 J-Sports-3,vjms://58.215.133.161:8500/live/cid=410#vjms://58.215.133.185:8500:3502/live/cid=410
 J-Sports-4,vjms://58.215.133.161:8500/live/cid=411#vjms://58.215.133.185:8500:3502/live/cid=411
 港台育乐,#genre#
-国家地理野生,vjms://58.215.133.161:8500/live/cid=263#vjms://58.215.133.194:8500:3502/live/cid=263
+国家地理野生,vjms://58.215.133.189:8500:3502/live/cid=263#vjms://58.215.133.161:8500/live/cid=263#vjms://58.215.133.194:8500:3502/live/cid=263
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 国家地理,vjms://58.215.133.161:8500/live/cid=115#vjms://58.215.133.147:8500:3502/live/cid=115
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
@@ -272,7 +272,7 @@ J-Sports-4,vjms://58.215.133.161:8500/live/cid=411#vjms://58.215.133.185:8500:35
 动物星球,vjms://58.215.133.194:8500:3502/live/cid=3#vjms://58.215.133.161:8500/live/cid=3#vjms://58.215.133.185:8500:3502/live/cid=3
 动物星球,http://cdn.5itv.tv//ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 动物星球,p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
-TLC旅游生活,vjms://58.215.133.161:8500/live/cid=103#vjms://58.215.133.194:8500:3502/live/cid=103#vjms://58.215.133.185:8500:3502/live/cid=103#tvbus://4PHzrFyKUaoX7wSRTqhXWJyDxp9eR5vfz8e2uwE9iPSwGQ6Ap8
+TLC旅游生活,vjms://58.215.133.189:8500:3502/live/cid=103#vjms://58.215.133.161:8500/live/cid=103#vjms://58.215.133.194:8500:3502/live/cid=103#vjms://58.215.133.185:8500:3502/live/cid=103#tvbus://4PHzrFyKUaoX7wSRTqhXWJyDxp9eR5vfz8e2uwE9iPSwGQ6Ap8
 FOOD美食,tvbus://3kdNHNLMdPo9No1qMRc2sBwBrU7rwQf4iaXxETo3ZF67b3kjbu
 亞洲美食頻道,tvbus://34wDUPKvLphNqSJ8411f9a3sWDXAGCDjd4TFBQuTQrv3SGHSHk
 FOOD-NETWORK,p8p://0198.02686.cc:16871/5d1a697c000f143811bd055d7544615f.ts
@@ -377,13 +377,13 @@ K频道(高清),p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 olala,https://plbl.m9.lfstrm.tv/olala/normal/0/mono.m3u8
 
 测试频道,#genre#
-非凡新聞,vjms://58.215.133.189:8500:3502/live/cid=443#vjms://58.215.133.154:8500/live/cid=443
-三立新聞,vjms://58.215.133.189:8500:3502/live/cid=352#vjms://58.215.133.154:8500/live/cid=352
-TVBS HD,vjms://58.215.133.189:8500:3502/live/cid=349#vjms://58.215.133.154:8500/live/cid=349
-中天新聞,vjms://58.215.133.189:8500:3502/live/cid=407#vjms://58.215.133.154:8500/live/cid=407
-HBO原创电影,vjms://58.215.133.189:8500:3502/live/cid=436#vjms://58.215.133.154:8500/live/cid=436
-HBO家庭,vjms://58.215.133.189:8500:3502/live/cid=181#vjms://58.215.133.154:8500/live/cid=181
-HBO强档,vjms://58.215.133.189:8500:3502/live/cid=238#vjms://58.215.133.154:8500/live/cid=238
+FOXSPORT-3,vjms://58.215.133.154:8500/live/cid=95#vjms://58.215.133.189:8500:3502/live/cid=95
+FOX2,vjms://58.215.133.154:8500/live/cid=444#vjms://58.215.133.189:8500:3502/live/cid=444
+FOX3,vjms://58.215.133.154:8500/live/cid=95#vjms://58.215.133.189:8500:3502/live/cid=95
+ELTA体育HD,vjms://58.215.133.154:8500/live/cid=266#vjms://58.215.133.189:8500:3502/live/cid=266
+纬来体育,vjms://58.215.133.189:8500:3502/live/cid=202#vjms://58.215.133.154:8500/live/cid=202
+探索亚洲,vjms://58.215.133.189:8500:3502/live/cid=440#vjms://58.215.133.154:8500/live/cid=440
+探索科学,vjms://58.215.133.154:8500/live/cid=457#vjms://58.215.133.189:8500:3502/live/cid=457
 HBO,vjms://58.215.133.189:8500:3502/live/cid=261#vjms://58.215.133.154:8500/live/cid=261
 FOX电影,vjms://58.215.133.189:8500:3502/live/cid=94#vjms://58.215.133.154:8500/live/cid=94
 壹新聞,vjms://58.215.133.189:8500/live/cid=445
