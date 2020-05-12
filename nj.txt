@@ -80,7 +80,7 @@ CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 TVB无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 TVB无线新闻台,https://hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
 TVB无线新闻台,http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
-TVBS新聞,vjms://58.215.133.194:8500:3502/live/cid=348#vjms://58.215.133.161:8500/live/cid=348#vjms://58.215.133.185:8500:3502/live/cid=348
+TVBS新聞,vjms://58.215.133.189:8500:3502/live/cid=348#vjms://58.215.133.184:8500:3502/live/cid=348#vjms://58.215.133.154:8500/live/cid=348#vjms://58.215.133.194:8500:3502/live/cid=348#vjms://58.215.133.161:8500/live/cid=348#vjms://58.215.133.185:8500:3502/live/cid=348
 TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
 有线新闻台,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
 有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
@@ -91,12 +91,12 @@ TVBS新聞,P2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
 凤凰资讯,p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts
 凤凰资讯,rtmp://58.200.131.2:1935/livetv/fhzx
 凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv
-非凡新聞,vjms://58.215.133.194:8500:3502/live/cid=443#vjms://58.215.133.161:8500/live/cid=443#vjms://58.215.133.185:8500:3502/live/cid=443
+非凡新聞,vjms://58.215.133.189:8500:3502/live/cid=443#vjms://58.215.133.184:8500:3502/live/cid=443#vjms://58.215.133.154:8500/live/cid=443#vjms://58.215.133.194:8500:3502/live/cid=443#vjms://58.215.133.161:8500/live/cid=443#vjms://58.215.133.185:8500:3502/live/cid=443
 非凡新聞,mitv://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
 非凡新聞,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
 三立新聞,vjms://58.215.133.194:8500:3502/live/cid=352#vjms://58.215.133.161:8500/live/cid=352#vjms://58.215.133.161:8500:3502/live/cid=352
 三立新聞,mitv://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts
-東森新聞,vjms://58.215.133.194:8500:3502/live/cid=340#vjms://58.215.133.161:8500/live/cid=340#vjms://58.215.133.185:8500:3502/live/cid=340
+東森新聞,vjms://58.215.133.189:8500:3502/live/cid=340#vjms://58.215.133.184:8500:3502/live/cid=340#vjms://58.215.133.154:8500/live/cid=340#vjms://58.215.133.194:8500:3502/live/cid=340#vjms://58.215.133.161:8500/live/cid=340#vjms://58.215.133.185:8500:3502/live/cid=340
 東森新聞,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 東森新聞,P2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts
 東森新聞,mitv://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts
@@ -135,10 +135,10 @@ BBC,vjms://58.215.133.194:8500:3502/live/cid=418
 
 
 港台影视,#genre#
-HBO原创电影,vjms://58.215.133.194:8500:3502/live/cid=436#vjms://58.215.133.161:8500/live/cid=436#vjms://58.215.133.185:8500:3502/live/cid=436
-HBO家庭,vjms://58.215.133.194:8500:3502/live/cid=181#vjms://58.215.133.161:8500/live/cid=181#vjms://58.215.133.185:8500:3502/live/cid=181
-HBO强档,vjms://58.215.133.194:8500:3502/live/cid=238#vjms://58.215.133.161:8500/live/cid=238#vjms://58.215.133.185:8500:3502/live/cid=238
-HBO,vjms://58.215.133.189:8500:3502/live/cid=261#vjms://58.215.133.194:8500:3502/live/cid=261#vjms://58.215.133.161:8500/live/cid=261#vjms://58.215.133.185:8500:3502/live/cid=261
+HBO原创电影,vjms://58.215.133.189:8500:3502/live/cid=436#vjms://58.215.133.184:8500:3502/live/cid=436#vjms://58.215.133.194:8500:3502/live/cid=436#vjms://58.215.133.161:8500/live/cid=436#vjms://58.215.133.154:8500/live/cid=436#vjms://58.215.133.185:8500:3502/live/cid=436
+HBO家庭,vjms://58.215.133.189:8500:3502/live/cid=181#vjms://58.215.133.184:8500:3502/live/cid=181#vjms://58.215.133.194:8500:3502/live/cid=181#vjms://58.215.133.161:8500/live/cid=181#vjms://58.215.133.154:8500/live/cid=181#vjms://58.215.133.185:8500:3502/live/cid=181
+HBO强档,vjms://58.215.133.189:8500:3502/live/cid=238#vjms://58.215.133.184:8500:3502/live/cid=238#vjms://58.215.133.194:8500:3502/live/cid=238#vjms://58.215.133.161:8500/live/cid=238#vjms://58.215.133.154:8500/live/cid=238#vjms://58.215.133.185:8500:3502/live/cid=238
+HBO,vjms://58.215.133.189:8500:3502/live/cid=261#vjms://58.215.133.194:8500:3502/live/cid=261#vjms://58.215.133.161:8500/live/cid=261#vjms://58.215.133.154:8500/live/cid=261#vjms://58.215.133.185:8500:3502/live/cid=261#vjms://58.215.133.184:8500:3502/live/cid=261
 HBO,mitv://190.2.146.92:18912/5c7249dd000ca2101d58106551ff3ed4.ts
 东森电影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 东森电影,p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
@@ -157,7 +157,7 @@ HBO,mitv://190.2.146.92:18912/5c7249dd000ca2101d58106551ff3ed4.ts
 纬来电影台,P2p://190.2.146.92:18912/5c7249d80003096d1d57fa6c33601be9.ts
 纬来电影台,p8p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509.ts
 纬来电影台,p2p://170.178.164.250:6141/5b448afc0007f4650004373eda7b4dd8.ts
-FOX电影,vjms://58.215.133.194:8500:3502/live/cid=94#vjms://58.215.133.161:8500/live/cid=94#vjms://58.215.133.185:8500:3502/live/cid=94
+FOX电影,vjms://58.215.133.189:8500:3502/live/cid=94#vjms://58.215.133.184:8500:3502/live/cid=94#vjms://58.215.133.194:8500:3502/live/cid=94#vjms://58.215.133.154:8500/live/cid=94#vjms://58.215.133.161:8500/live/cid=94#vjms://58.215.133.185:8500:3502/live/cid=94
 FOX动作电影,P2p://51.79.41.138:18912/5b7267ae000b9c6c35cc884079c70164.ts
 FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 TVB星河,msc://CXHMovie
@@ -377,7 +377,20 @@ K频道(高清),p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 olala,https://plbl.m9.lfstrm.tv/olala/normal/0/mono.m3u8
 
 测试频道,#genre#
-
+HGTV-HD,mitv://51.79.41.138:18912/5b593bc300073eb4d3796cb908774fa7.ts
+松视1台,vjms://23.237.115.18:8500:3502/live/cid=262
+松视1台,vjms://23.237.115.18:8500:3502/live/cid=97
+Ci罪案侦缉.HD,p2p://190.2.146.92:18912/5b14098e0006282a17d2ef9371d76997.ts
+Nat_Geo People,http://47.240.60.73/xaors/mlxy.php?channel=40acf6ec9b997a05880d9c6da90c6316
+Nat_Geo HD,http://47.240.60.73/xaors/mlxy.php?channel=54a11a4c208e1d615235f25db0912e75
+Nat_Geo Wild,http://47.240.60.73/xaors/mlxy.php?channel=8a37e736a1342a1e6e36f549953dfe90
+History,http://47.240.60.73/xaors/mlxy.php?channel=1080ee4db8311690db6d14903a1e9e3d
+History 2,http://47.240.60.73/xaors/mlxy.php?channel=65c825988b8d08c2754e2a9442097a10
+Discovery_Science,http://47.240.60.73/xaors/mlxy.php?channel=f8909e2127ca00172106da82a4e72925
+Discovery Asia,http://47.240.60.73/xaors/mlxy.php?channel=358947976d2b9d3ae645d0afd20e344e
+Eve,http://47.240.60.73/xaors/mlxy.php?channel=ea161828292ae0b8b6e4061d251a55fe
+Dmax,http://47.240.60.73/xaors/mlxy.php?channel=de7df547c881ea6b5b3aedfbf02e4da4
+TLC,http://47.240.60.73/xaors/mlxy.php?channel=1a8645aa713ac3a30ae1df7eb019858d
 FOX2,vjms://58.215.133.154:8500/live/cid=444#vjms://58.215.133.189:8500:3502/live/cid=444
 FOX3,vjms://58.215.133.154:8500/live/cid=95#vjms://58.215.133.189:8500:3502/live/cid=95
 ELTA体育HD,vjms://58.215.133.154:8500/live/cid=266#vjms://58.215.133.189:8500:3502/live/cid=266
