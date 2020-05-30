@@ -378,20 +378,44 @@ K频道(高清),p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 olala,https://plbl.m9.lfstrm.tv/olala/normal/0/mono.m3u8
 
 测试频道,#genre#
-HGTV-HD,mitv://51.79.41.138:18912/5b593bc300073eb4d3796cb908774fa7.ts
-松视1台,vjms://23.237.115.18:8500:3502/live/cid=262
-松视1台,vjms://23.237.115.18:8500:3502/live/cid=97
-Ci罪案侦缉.HD,p2p://190.2.146.92:18912/5b14098e0006282a17d2ef9371d76997.ts
-Nat_Geo People,http://47.240.60.73/xaors/mlxy.php?channel=40acf6ec9b997a05880d9c6da90c6316
-Nat_Geo HD,http://47.240.60.73/xaors/mlxy.php?channel=54a11a4c208e1d615235f25db0912e75
-Nat_Geo Wild,http://47.240.60.73/xaors/mlxy.php?channel=8a37e736a1342a1e6e36f549953dfe90
-History,http://47.240.60.73/xaors/mlxy.php?channel=1080ee4db8311690db6d14903a1e9e3d
-History 2,http://47.240.60.73/xaors/mlxy.php?channel=65c825988b8d08c2754e2a9442097a10
-Discovery_Science,http://47.240.60.73/xaors/mlxy.php?channel=f8909e2127ca00172106da82a4e72925
-Discovery Asia,http://47.240.60.73/xaors/mlxy.php?channel=358947976d2b9d3ae645d0afd20e344e
-Eve,http://47.240.60.73/xaors/mlxy.php?channel=ea161828292ae0b8b6e4061d251a55fe
-Dmax,http://47.240.60.73/xaors/mlxy.php?channel=de7df547c881ea6b5b3aedfbf02e4da4
-TLC,http://47.240.60.73/xaors/mlxy.php?channel=1a8645aa713ac3a30ae1df7eb019858d
+东森戏剧,http://live.zbjh.cc/live/ws128.m3u8
+东森综合,http://live.zbjh.cc/live/ws131.m3u8
+纬来戏剧,http://live.zbjh.cc/live/ws132.m3u8
+纬来综合,http://live.zbjh.cc/live/ws133.m3u8
+纬来育来,http://live.zbjh.cc/live/ws135.m3u8
+纬来日本,http://live.zbjh.cc/live/ws136.m3u8
+纬来体育,http://live.zbjh.cc/live/ws138.m3u8
+EYE TV,http://live.zbjh.cc/live/ws139.m3u8
+ELTA 影剧,http://live.zbjh.cc/live/ws140.m3u8
+美食星球,http://live.zbjh.cc/live/ws141.m3u8
+国家地理悠人,http://live.zbjh.cc/live/ws143.m3u8
+美国国家地理,http://live.zbjh.cc/live/ws145.m3u8
+动物星球,http://live.zbjh.cc/live/ws151.m3u8
+卫视电影,http://live.zbjh.cc/live/ws101.m3u8
+FOX,http://live.zbjh.cc/live/ws104.m3u8
+FOX actionMOVIES,http://live.zbjh.cc/live/ws105.m3u8
+FOX familyMOVIES,http://live.zbjh.cc/live/ws106.m3u8
+FOX CRIME,http://live.zbjh.cc/live/ws107.m3u8
+FX,http://live.zbjh.cc/live/ws108.m3u8
+天映频道,http://live.zbjh.cc/live/ws109.m3u8
+天映经典CCM,http://live.zbjh.cc/live/ws110.m3u8
+RTHK31,http://live.zbjh.cc/live/ws102.m3u8
+RTHK32,http://live.zbjh.cc/live/ws103.m3u8
+华视GIS,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=46&ip=0 
+中视,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=47&ip=0 
+台视,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=45&ip=0 
+民视,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=44&ip=0 
+中天新闻,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=42&ip=0 
+TVBS HD新闻,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=38&ip=0 
+壹新闻,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=34&ip=0 
+东森新闻,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=33&ip=0 
+八大娱乐台,http://live.zbjh.cc/live/ws121.m3u8 
+八大第一台,http://live.zbjh.cc/live/ws122.m3u8 
+八大戏剧台,http://live.zbjh.cc/live/ws123.m3u8 
+三立综合台,http://live.zbjh.cc/live/ws124.m3u8 
+三立都会台,http://live.zbjh.cc/live/ws125.m3u8 
+三立戏剧台,http://live.zbjh.cc/live/ws126.m3u8 
+三立台湾台,http://live.zbjh.cc/live/ws127.m3u8
 FOX2,vjms://58.215.133.154:8500/live/cid=444#vjms://58.215.133.189:8500:3502/live/cid=444
 FOX3,vjms://58.215.133.154:8500/live/cid=95#vjms://58.215.133.189:8500:3502/live/cid=95
 ELTA体育HD,vjms://58.215.133.154:8500/live/cid=266#vjms://58.215.133.189:8500:3502/live/cid=266
