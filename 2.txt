@@ -1,181 +1,1233 @@
-﻿凤凰中文HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c6c0006fd67024502e414f10ff3
-凤凰资讯HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c48000e15630244781932ff7852
-凤凰香港HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c19000767ad0243becb40b07246
-TVB翡翠台,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
-TVB J2,P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
-TVB明珠台,P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
-TVB无线新闻台,P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5#P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
-TVB无线财经台,P2p://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8#P2p://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8#P2p://sdgdklwos.finetv.tv:9906/5ad32aed000d8fa649eaacf716d70340
-TVB星河台,P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c#P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
-寰宇新闻台,P2p://sdgdklwos.finetv.tv:9906/59fd2b5e0006d13802bde4340bc41e87
-TVB武术台,P2p://sdgdklwos.finetv.tv:9906/5a32174e0001f481d4b0ec8f67f06c2b
-天映经典台,P2p://sdgdklwos.finetv.tv:9906/5b2e01c400098d0f0c42edad22c37385
-天映频道HD,P2p://sdgdklwos.finetv.tv:9906/5b2f1ee9000d3e3d109cc71f4b240eb3
-卫视中文台HD,P2p://sdgdklwos.finetv.tv:9906/59fd0394000660a0022277050be47b46
-卫视电影台HD,P2p://sdgdklwos.finetv.tv:9906/59fd0369000ea5750221d12f32a532b8
-卫视閤家欢HD,P2p://sdgdklwos.finetv.tv:9906/59fd14190000e1040262fd2560d91f69
-卫视西片台HD,P2p://sdgdklwos.finetv.tv:9906/59fd1475000301e1026465123e2e3650
-好莱坞电影HD,P2p://sdgdklwos.finetv.tv:9906/5a141b66000b4be65f90135822b40e43
-星卫电影台HD,P2p://sdgdklwos.finetv.tv:9906/59fd086a00072cbb02355b236c4a3fcb
-星卫娱乐台HD,P2p://sdgdklwos.finetv.tv:9906/59fd332000050f8702dc318743ba40af
-美亚电影台HD,P2p://sdgdklwos.finetv.tv:9906/59fd08470008d4d60234d2d92e65644c
-VIU TVHD,P2p://sdgdklwos.finetv.tv:9906/59fd171800092000026eb35003107eef
-VIU TVHD,P2p://sdgdklwos.finetv.tv:9906/59fd171800092000026eb35003107eef
-VIU TV6HD,P2p://sdgdklwos.finetv.tv:9906/5ad32bae0001dd1049ed9be114c818f0
-VIU TV6HD,P2p://sdgdklwos.finetv.tv:9906/5ad32bae0001dd1049ed9be114c818f0
-RTHK31HD,P2p://sdgdklwos.finetv.tv:9906/5b1ea0dc000bba59d03063fa2f1a513c
-RTHK32HD,P2p://sdgdklwos.finetv.tv:9906/5b1ea120000af380d0316d6b59657817
-香港开电视,P2p://sdgdklwos.finetv.tv:9906/5acb61a30004069d2b801ab951492f07
-香港开电视,P2p://sdgdklwos.finetv.tv:9906/5acb61a30004069d2b801ab951492f07
-澳门莲花,P2p://sdgdklwos.finetv.tv:9906/5acb8740000253a62c1307843e7c4bc3
-星空卫视,P2p://sdgdklwos.finetv.tv:9906/5acb8af3000978192c217c90517245b7
-国兴卫视,P2p://sdgdklwos.finetv.tv:9906/59fd0565000d04390229912232d21634
-龙祥时代,P2p://sdgdklwos.finetv.tv:9906/59fd0d3200071b6e02480863224e5f4d
-民 视HD,P2p://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf
-中 视HD,P2p://sdgdklwos.finetv.tv:9906/59fd06ac000555a7022e8c862ebc1019
-华 视HD,P2p://sdgdklwos.finetv.tv:9906/59fd068a0005f99e022e07d55c2f581d
-台 视HD,P2p://sdgdklwos.finetv.tv:9906/59fd099c00008ebf023a04ce64d57ff4
-公 视HD,P2p://sdgdklwos.finetv.tv:9906/59fd0656000e66cd022d3ee840ad175d
-公 视3HD,P2p://sdgdklwos.finetv.tv:9906/5ac5da01000d09fc15e6046427920804
-一 新 闻HD,P2p://sdgdklwos.finetv.tv:9906/59fd08ad000509c00236604f613b08e7
-一 综 合HD,P2p://sdgdklwos.finetv.tv:9906/59fd06f600087a21022fae61787f061c
-东森幼幼HD,P2p://sdgdklwos.finetv.tv:9906/5a32188e00095e2bd4b5d0737fe325f5
-东森电影HD,P2p://sdgdklwos.finetv.tv:9906/59fd0cab0008230a0245f94a229777bd
-东森戏剧HD,P2p://sdgdklwos.finetv.tv:9906/59fd17a500022c250270d8533c186ce9
-东森洋片HD,P2p://sdgdklwos.finetv.tv:9906/59fd17860002b83302705f6a03a560d2
-东森综合HD,P2p://sdgdklwos.finetv.tv:9906/5a141ade0007bc435f8dff2d5b3453d7
-东森新闻HD,P2p://sdgdklwos.finetv.tv:9906/5a1427ee0009fb195fc1064a3af652d1
-东森财经HD,P2p://sdgdklwos.finetv.tv:9906/59fd1f94000ee56d028fd937397b7e63
-中视经典台,P2p://sdgdklwos.finetv.tv:9906/59fd09bd0002ab6d023a86337415321a
-中视新闻HD,P2p://sdgdklwos.finetv.tv:9906/59fd2282000219b8029b479b6fc21d86
-三立戏剧台,P2p://sdgdklwos.finetv.tv:9906/59fd274c0001400d02adfc6d23452c25
-三立综合台,P2p://sdgdklwos.finetv.tv:9906/59fd27240003732f02ad60c95d8e10a7
-三立新闻HD,P2p://sdgdklwos.finetv.tv:9906/59fd08fd000707490237995b3c9f2775
-三立都会台HD,P2p://sdgdklwos.finetv.tv:9906/59fd20f5000e6b4602953c0079210fd1
-三立台湾台HD,P2p://sdgdklwos.finetv.tv:9906/5a1425f00009bfad5fb93e0a6f7070c4
-中天亚洲台,P2p://sdgdklwos.finetv.tv:9906/59fd05260002b0730228985b2c380c8a
-中天新闻HD,P2p://sdgdklwos.finetv.tv:9906/59fd05020006070602280c953c2545e6
-中天新闻HD,P2p://sdgdklwos.finetv.tv:9906/5acb650d0006707f2b8d716537d413a9
-中天综合HD,P2p://sdgdklwos.finetv.tv:9906/59fd04bc00059d610226fb164a845fa5
-中天娱乐HD,P2p://sdgdklwos.finetv.tv:9906/59fd049e0006fb6e0226863427c16955
-八大第1台HD,P2p://sdgdklwos.finetv.tv:9906/59fd22540006fb57029a95244a947e57
-八大综合台HD,P2p://sdgdklwos.finetv.tv:9906/59fd22220005cbed0299d18627a207f7
-八大戏剧台HD,P2p://sdgdklwos.finetv.tv:9906/59fd21c7000edfe70298706f2ef217c7
-八大娱乐台HD,P2p://sdgdklwos.finetv.tv:9906/59fd38fe000e2eeb02f31f187a8b3f49
-阿里郎电视,P2p://sdgdklwos.finetv.tv:9906/59fd303f000e8d8702d0f510645c2ff4
-寰宇财经台,P2p://sdgdklwos.finetv.tv:9906/59fd2b98000b4fba02bec7ed4c560211
-寰宇综合HD,P2p://sdgdklwos.finetv.tv:9906/59fd383a000db1c102f021590c272f6e
-非凡商业台,P2p://sdgdklwos.finetv.tv:9906/5b07a59b0005c8ff766a65e653565438
-非凡新闻HD,P2p://sdgdklwos.finetv.tv:9906/59fd05f30007004f022bba4b77671d93
-台视新闻HD,P2p://sdgdklwos.finetv.tv:9906/59fd299b00054a3002b7020e67d657e3
-年代新闻HD,P2p://sdgdklwos.finetv.tv:9906/5a56230e0004af51617ff5935a3e292e
-亚洲新闻HD,P2p://sdgdklwos.finetv.tv:9906/5a56d833000e41286443908c2a501e55
-民视新闻台HD,P2p://sdgdklwos.finetv.tv:9906/59fd05930008403b022a439a3b9b7401
-民视台湾台HD,P2p://sdgdklwos.finetv.tv:9906/59fd0670000decc5022da459628c3d1a
-华视教育体育HD,P2p://sdgdklwos.finetv.tv:9906/59fd23240005c9a4029dc1561885012e
-龙华动画HD,P2p://sdgdklwos.finetv.tv:9906/59fd26690002a01402aa86134bf26468
-龙华洋片HD,P2p://sdgdklwos.finetv.tv:9906/59fd07650001a79102315e34781149f3
-龙华偶像HD,P2p://sdgdklwos.finetv.tv:9906/59fd38a1000ca5a002f1b363682d5b70
-龙华戏剧HD,P2p://sdgdklwos.finetv.tv:9906/59fd38840006b53d02f14094613f7615
-龙华影剧HD,P2p://sdgdklwos.finetv.tv:9906/59fd30d6000988d702d341a0202638f5
-龙华经典HD,P2p://sdgdklwos.finetv.tv:9906/59fd3363000e740302dd39b062856e0b
-龙华电影HD,P2p://sdgdklwos.finetv.tv:9906/5acb86bc0005dc212c1104ce762f31f7
-纬来育乐HD,P2p://sdgdklwos.finetv.tv:9906/59fd26ad000978f002ab917848d22993
-纬来综合HD,P2p://sdgdklwos.finetv.tv:9906/59fd206e00099d6f02932b6078c86d9a
-纬来戏剧HD,P2p://sdgdklwos.finetv.tv:9906/59fd20190002fb090291ddb256d73759
-纬来电影HD,P2p://sdgdklwos.finetv.tv:9906/59fd1feb0003d7be02912a31740004af
-纬来日本HD,P2p://sdgdklwos.finetv.tv:9906/5a142744000f25045fbe6f82276e0d88
-纬来体育HD,P2p://sdgdklwos.finetv.tv:9906/5a141bab0009ca9c5f91208265721808
-纬来精彩HD,P2p://sdgdklwos.finetv.tv:9906/5ac5d68600012bae15d868ee776c7fe2
-大爱电视HD,P2p://sdgdklwos.finetv.tv:9906/59fd173e0004273a026f46886dde4613
-信大电视HD,P2p://sdgdklwos.finetv.tv:9906/5afbd0d7000dfbc54833015a3ca55f37
-好消息二台,P2p://sdgdklwos.finetv.tv:9906/59fcf6310003171001ee2b72507f276b
-曼迪日本台,P2p://sdgdklwos.finetv.tv:9906/59fd3343000561bb02dcba5e474715ac
-迪士尼频道,P2p://sdgdklwos.finetv.tv:9906/59fd1766000a51cc026fe44f425c5788
-采昌影剧HD,P2p://sdgdklwos.finetv.tv:9906/59fd15cc000cd7cc0269a36a466420ca
-日舞电影HD,P2p://sdgdklwos.finetv.tv:9906/59fd30960001991702d2459c74bd52f1
-华纳电视HD,P2p://sdgdklwos.finetv.tv:9906/5a321796000072dfd4b2057134a263e5
-罪案侦缉HD,P2p://sdgdklwos.finetv.tv:9906/59fd2824000df04802b14b7973731f54
-世界影城HD,P2p://sdgdklwos.finetv.tv:9906/59fd29d600014b6302b7e78c36d43070
-靖天国际台HD,P2p://sdgdklwos.finetv.tv:9906/59fd32c800056a3402dad9e646096d29
-靖天日本台HD,P2p://sdgdklwos.finetv.tv:9906/59fd2893000bff8802b2fc847a9852a6
-靖天戏剧台HD,P2p://sdgdklwos.finetv.tv:9906/59fd36f80009b75202eb367f603a273f
-靖天电影台HD,P2p://sdgdklwos.finetv.tv:9906/59fd358c00069b9502e5a7d404d940d2
-靖天映画台HD,P2p://sdgdklwos.finetv.tv:9906/59fd3565000a788d02e5107642590dce
-靖天卡通台HD,P2p://sdgdklwos.finetv.tv:9906/59fd38e0000de06a02f2a9c951a975a6
-靖天育乐台HD,P2p://sdgdklwos.finetv.tv:9906/59fd3068000ea26902d195477bc86f19
-靖洋戏剧台HD,P2p://sdgdklwos.finetv.tv:9906/59fd259600089bb202a74f6123416e8d
-鸿基影剧台,P2p://sdgdklwos.finetv.tv:9906/59fd2a8b000cb57f02baad731b97024c
-佛卫慈悲台,P2p://sdgdklwos.finetv.tv:9906/59fd2a4f00097fcf02b9c2482e3e76cf
-亚洲旅游台,P2p://sdgdklwos.finetv.tv:9906/59fd0809000909e90233e0b820d34ea5
-亚洲美食HD,P2p://sdgdklwos.finetv.tv:9906/59fd27e40007382002b04fb323e85206
-美食星球HD,P2p://sdgdklwos.finetv.tv:9906/59fd07190004a07d0230361f798d3b15
-动物星球HD,P2p://sdgdklwos.finetv.tv:9906/59fd254500042de102a611e03cd83fa7
-高清探索HD,P2p://sdgdklwos.finetv.tv:9906/5acb89750000af6a2c1ba62e06531ad6
-探索亚洲HD,P2p://sdgdklwos.finetv.tv:9906/59fd15f7000e7852026a4bd030284bc8
-探索频道HD,P2p://sdgdklwos.finetv.tv:9906/59fcf587000c4fc201eb95c324ea0953
-探索科学HD,P2p://sdgdklwos.finetv.tv:9906/59fd166e000c7533026c1c1b4bf23d6b
-探索夏娃HD,P2p://sdgdklwos.finetv.tv:9906/59fd286b000e1cdb02b260d1385f3d28
-探索动力HD,P2p://sdgdklwos.finetv.tv:9906/59fd2846000cb99902b1cffa3bb33abb
-国家地理HD,P2p://sdgdklwos.finetv.tv:9906/59fd16240000683c026af7fe2edc67eb
-地理野生HD,P2p://sdgdklwos.finetv.tv:9906/59fd082b000c6ca7023466633fed4c93
-地理悠人HD,P2p://sdgdklwos.finetv.tv:9906/59fd2804000a86bb02b0cd8e6fa14a15
-历史频道1HD,P2p://sdgdklwos.finetv.tv:9906/59fd16f900060059026e396d395f3348
-历史频道2HD,P2p://sdgdklwos.finetv.tv:9906/59fd2b7900012c9002be4c3577197bb9
-MTV HD,P2p://sdgdklwos.finetv.tv:9906/59fd38c4000c84ed02f23c1b626a19ac
-AXN HD,P2p://sdgdklwos.finetv.tv:9906/59fd2573000c0b9e02a6c794631510c8
-HBO HD,P2p://sdgdklwos.finetv.tv:9906/59fd1566000391610268129978510d8e
-HBO温馨家庭,P2p://sdgdklwos.finetv.tv:9906/59fd152900015243026723c45811069b
-HBO原创巨献,P2p://sdgdklwos.finetv.tv:9906/59fd14fc0005019f026674e730ed03b5
-HBO强档巨献,P2p://sdgdklwos.finetv.tv:9906/59fd22e50004a1f8029ccaff41480126
-FX HD,P2p://sdgdklwos.finetv.tv:9906/59fd279b000c06e702af33d47d4c770a
-FOX HD,P2p://sdgdklwos.finetv.tv:9906/59fd14cf000321f60265c4a24ca93407
-FOX优质电影,P2p://sdgdklwos.finetv.tv:9906/59fd246a0009125502a2bba01b0f4bf5
-FOX家庭影院,P2p://sdgdklwos.finetv.tv:9906/59fd229f000615aa029bb9ed79916213
-FOX动作电影,P2p://sdgdklwos.finetv.tv:9906/59fd244900002be402a238767364317b
-FOX警匪电影,P2p://sdgdklwos.finetv.tv:9906/59fd14ae0007a794026544e32f606291
-ELTA综合HD,P2p://sdgdklwos.finetv.tv:9906/59fd26ca00086abe02ac0272796720c5
-ELTA影剧HD,P2p://sdgdklwos.finetv.tv:9906/59fd07e7000727bb02335b6b31754db5
-ELTA体育1台,P2p://sdgdklwos.finetv.tv:9906/59fd07ba000a4d260232ac6f507c5a84
-ELTA体育2台,P2p://sdgdklwos.finetv.tv:9906/59fd37f9000df20002ef2381617811bf
-TVBS HD,P2p://sdgdklwos.finetv.tv:9906/59fd20d3000f24fd0294b75f4a555e2a
-TVBS新闻台HD,P2p://sdgdklwos.finetv.tv:9906/59fd096d0003aa9702394e013b6206a2
-TVBS欢乐台HD,P2p://sdgdklwos.finetv.tv:9906/59fd20ae000635720294248563346fd6
-TVBS精采台HD,P2p://sdgdklwos.finetv.tv:9906/59fd250f000aa01602a54096673b0f2a
-EYETV戏剧HD,P2p://sdgdklwos.finetv.tv:9906/59fd35bd00061f9e02e6671d60d7011c
-EYETV旅游HD,P2p://sdgdklwos.finetv.tv:9906/59fd27c4000cb3b102afd41b5cc4003d
-JET综合台HD,P2p://sdgdklwos.finetv.tv:9906/59fd054a00006c030229246e6fa27a75
-MOMO亲子台,P2p://sdgdklwos.finetv.tv:9906/5a3b9d400006e7bcf9e47334508c3038
-ASTRO AEC,P2p://sdgdklwos.finetv.tv:9906/5b04fa270009e92c6bfca9d05e723d72
-ASTRO小太阳,P2p://sdgdklwos.finetv.tv:9906/5b04f9b200072af66bfae01c7c8f7421
-ASTRO华丽台,P2p://sdgdklwos.finetv.tv:9906/5b04f9000000c2aa6bf8272669213c39
-ASTRO欢喜台,P2p://sdgdklwos.finetv.tv:9906/5b04f9f5000224816bfbe48c31ca641f
-CATCHPLAY电影台,P2p://sdgdklwos.finetv.tv:9906/59fd26e9000849d802ac7b8a43f34f6a
-FYI HD,P2p://sdgdklwos.finetv.tv:9906/59fd32500009ea1902d9064f0d2c0edc
-BBC HD,P2p://sdgdklwos.finetv.tv:9906/59fd16bc000f2550026d4d870b85516d
-TVN HD,P2p://sdgdklwos.finetv.tv:9906/59fd248e000a1aa502a3488f618b6de7
-NBA HD,P2p://sdgdklwos.finetv.tv:9906/59fd169800027ee0026cbdab73845c4a
-CNN HD,P2p://sdgdklwos.finetv.tv:9906/59fd16db000b5f05026dc5a57b516fdb
-LUXE.TV,P2p://sdgdklwos.finetv.tv:9906/59fd32780006da1202d9a1c415a55c7e
-MY KIDS,P2p://sdgdklwos.finetv.tv:9906/59fd3515000d559a02e3d8b272784315
-DIVA HD,P2p://sdgdklwos.finetv.tv:9906/59fd33b00000188702de62ce5428150a
-SMART HD,P2p://sdgdklwos.finetv.tv:9906/59fd32970005fa4002da1a9d12c87a7d
-OUTDOOR,P2p://sdgdklwos.finetv.tv:9906/59fd15a600029d6902690c5b552d077d
-TEAVEL HD,P2p://sdgdklwos.finetv.tv:9906/59fd0b9100084afb0241abca38654efa
-BBC EARTH,P2p://sdgdklwos.finetv.tv:9906/59fd3223000ee20302d857cf1a981663
-NHK WORLD,P2p://sdgdklwos.finetv.tv:9906/59fd0a09000c3214023bb18461b51f7a
-CHANNEL[5],P2p://sdgdklwos.finetv.tv:9906/5a31fbf500092568d4461abc4b040214
-CHANNEL[8],P2p://sdgdklwos.finetv.tv:9906/5a31fc3f000ef04fd4473d4355630850
-CHANNEL[U],P2p://sdgdklwos.finetv.tv:9906/5a31fc73000836bdd44806ad15337fe5
-MTV LIVE HD,P2p://sdgdklwos.finetv.tv:9906/59fd338800019be502ddc6ec066c3089
-BBC LIFESTYLE,P2p://sdgdklwos.finetv.tv:9906/59fd320000071ba102d7cd137e585878
-MEZZO LIVEHD,P2p://sdgdklwos.finetv.tv:9906/59fd297e00073d5c02b691533fb45133
-FOX SPORTS3HD,P2p://sdgdklwos.finetv.tv:9906/59fd0ab7000ca0d6023e595351427583
-ELEVEN SPORTS+,P2p://sdgdklwos.finetv.tv:9906/59fd23c0000c1e7f02a0245c6964058b
-E!ENTERTAINMENT,P2p://sdgdklwos.finetv.tv:9906/59fd29f4000d9cec02b85fd97aba3e4f
-博斯无限HD,P2p://sdgdklwos.finetv.tv:9906/59fd149100031ddf0264d2721a4e5126
-博斯网球HD,P2p://sdgdklwos.finetv.tv:9906/59fd0790000c3d34023208dc252633c0
-博斯高球1HD,P2p://sdgdklwos.finetv.tv:9906/59fcf4c90006ba2c01e8ae1c1ec827ca
-博斯高球2HD,P2p://sdgdklwos.finetv.tv:9906/59fd073b0000c2280230b9e6743b0ab3
-博斯运动1HD,P2p://sdgdklwos.finetv.tv:9906/59fcf5fa00018d0c01ed543c25887aed
-博斯运动2HD,P2p://sdgdklwos.finetv.tv:9906/59fd3861000ae97702f0b8f522337286
+5G超清,#genre#
+新时代直播,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+Q群927823336,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+超高清4K,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+CCTV1超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+CCTV2超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+CCTV3超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+CCTV4超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+CCTV5超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+CCTV5+超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+CCTV-6电影HD,http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
+CCTV-6电影HD,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
+CCTV7超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+CCTV8超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+CCTV9超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+CCTV10超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+CCTV11超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+CCTV12超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+CCTV13超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV13高清,http://liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
+CCTV14超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+CCTV15超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+CCTV17超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+广东卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+浙江卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+重庆卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
+四川卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
+深圳卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
+山东卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
+辽宁卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
+江西卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
+湖南卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+湖北卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
+黑龙江卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
+河南卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
+河南卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
+河北卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
+河北卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
+海南卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
+安徽卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+安徽卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+贵州卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
+广西卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
+东南卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
+东方卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+吉林卫视超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000284703.m3u8
+
+央视超清,#genre#
+超高清4K,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+CCTV-1综合HD,http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+CCTV-1综合HD,http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/2300000/mnf.m3u8
+CCTV-2财经,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+CCTV-2财经,http://liveplay-kk.rtxapp.com/live/program/live/cctv2/1300000/mnf.m3u8
+CCTV-3综艺HD,http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
+CCTV-3综艺HD,http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/2300000/mnf.m3u8
+CCTV-4中文国际,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+CCTV-4中文国际,http://liveplay-kk.rtxapp.com/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-5体育HD,http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+CCTV-5体育HD,http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
+CCTV5+体育HD,http://liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+CCTV5+体育HD,http://liveplay-kk.rtxapp.com/live/program/live/cctv5phd/2300000/mnf.m3u8
+CCTV-6电影HD,http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
+CCTV-7军事农业,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+CCTV-7军事农业,http://liveplay-kk.rtxapp.com/live/program/live/cctv7/1300000/mnf.m3u8
+CCTV-8电视剧HD,http://liveplay-kk.rtxapp.com/live/program/live/cctv8hd/4000000/mnf.m3u8
+CCTV-8电视剧HD,http://liveplay-kk.rtxapp.com/live/program/live/cctv8hd/2300000/mnf.m3u8
+CCTV-9记录,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+CCTV-10科教HD,http://liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/mnf.m3u8
+CCTV-10科教HD,http://liveplay-kk.rtxapp.com/live/program/live/cctv10hd/2300000/mnf.m3u8
+CCTV-11戏曲,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+CCTV-11戏曲,http://liveplay-kk.rtxapp.com/live/program/live/cctv11/1300000/mnf.m3u8
+CCTV-12社会与法,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+CCTV-12社会与法,http://liveplay-kk.rtxapp.com/live/program/live/cctv12/1300000/mnf.m3u8
+CCTV13超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV13高清,http://liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
+CCTV-14少儿,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+CCTV-14少儿,http://liveplay-kk.rtxapp.com/live/program/live/cctvse/1300000/mnf.m3u8
+CCTV-15音乐,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+CCTV17超清,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+
+卫视超清,#genre#
+广东卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf.m3u8
+广东卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/gdwshd/2300000/mnf.m3u8
+深圳卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/szwshd/2300000/mnf.m3u8
+深圳卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
+电视剧频道,http://liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+电视剧频道,http://liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/2300000/mnf.m3u8
+北京卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
+北京卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/2300000/mnf.m3u8
+湖南卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
+湖南卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8
+湖北卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
+湖北卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/hbwshd/2300000/mnf.m3u8
+黑龙江卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/hljwshd/4000000/mnf.m3u8
+黑龙江卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/hljwshd/2300000/mnf.m3u8
+东南卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/dnwshd/4000000/mnf.m3u8
+东南卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/dnwshd/2300000/mnf.m3u8
+辽宁卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/lnwshd/4000000/mnf.m3u8
+辽宁卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/lnwshd/2300000/mnf.m3u8
+东方卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8
+东方卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/hddfws/2300000/mnf.m3u8
+浙江卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/zjwshd/4000000/mnf.m3u8
+浙江卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/zjwshd/2300000/mnf.m3u8
+山东卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/sdwshd/4000000/mnf.m3u8
+山东卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/sdwshd/2300000/mnf.m3u8
+江西卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/jxwshd/2300000/mnf.m3u8
+江西卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/jxwshd/4000000/mnf.m3u8
+安徽卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/ahwshd/2300000/mnf.m3u8
+安徽卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
+江苏卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/jswshd/2300000/mnf.m3u8
+江苏卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
+天津卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/tjwshd/2300000/mnf.m3u8
+天津卫视HD,http://liveplay-kk.rtxapp.com/live/program/live/tjwshd/4000000/mnf.m3u8
+四川卫视,http://liveplay-kk.rtxapp.com/live/program/live/scws/1300000/mnf.m3u8
+四川卫视,http://liveplay-kk.rtxapp.com/live/program/live/scws/1300000/mnf.m3u8
+河北卫视,http://liveplay-kk.rtxapp.com/live/program/live/hbws/1300000/mnf.m3u8
+河北卫视,http://liveplay-kk.rtxapp.com/live/program/live/hbws/1300000/mnf.m3u8
+广西卫视,http://liveplay-kk.rtxapp.com/live/program/live/gxws/1300000/mnf.m3u8
+广西卫视,http://liveplay-kk.rtxapp.com/live/program/live/gxws/1300000/mnf.m3u8
+吉林卫视,http://liveplay-kk.rtxapp.com/live/program/live/jlws/1300000/mnf.m3u8
+吉林卫视,http://liveplay-kk.rtxapp.com/live/program/live/jlws/1300000/mnf.m3u8
+江西卫视,http://liveplay-kk.rtxapp.com/live/program/live/jxws/1300000/mnf.m3u8
+江西卫视,http://liveplay-kk.rtxapp.com/live/program/live/jxws/1300000/mnf.m3u8
+重庆卫视,http://liveplay-kk.rtxapp.com/live/program/live/cqws/1300000/mnf.m3u8
+重庆卫视,http://liveplay-kk.rtxapp.com/live/program/live/cqws/1300000/mnf.m3u8
+内蒙古卫视,http://liveplay-kk.rtxapp.com/live/program/live/nmgws/1300000/mnf.m3u8
+内蒙古卫视,http://liveplay-kk.rtxapp.com/live/program/live/nmgws/1300000/mnf.m3u8
+辽宁卫视,http://liveplay-kk.rtxapp.com/live/program/live/lnws/1300000/mnf.m3u8
+辽宁卫视,http://liveplay-kk.rtxapp.com/live/program/live/lnws/1300000/mnf.m3u8
+贵州卫视,http://liveplay-kk.rtxapp.com/live/program/live/gzws/1300000/mnf.m3u8
+贵州卫视,http://liveplay-kk.rtxapp.com/live/program/live/gzws/1300000/mnf.m3u8
+安徽卫视,http://liveplay-kk.rtxapp.com/live/program/live/ahws/1300000/mnf.m3u8
+安徽卫视,http://liveplay-kk.rtxapp.com/live/program/live/ahws/1300000/mnf.m3u8
+兵团卫视,http://liveplay-kk.rtxapp.com/live/program/live/btws/1300000/mnf.m3u8
+兵团卫视,http://liveplay-kk.rtxapp.com/live/program/live/btws/1300000/mnf.m3u8
+云南卫视,http://liveplay-kk.rtxapp.com/live/program/live/ynws/1300000/mnf.m3u8
+云南卫视,http://liveplay-kk.rtxapp.com/live/program/live/ynws/1300000/mnf.m3u8
+新疆卫视,http://liveplay-kk.rtxapp.com/live/program/live/xjws/1300000/mnf.m3u8
+新疆卫视,http://liveplay-kk.rtxapp.com/live/program/live/xjws/1300000/mnf.m3u8
+河南卫视,http://liveplay-kk.rtxapp.com/live/program/live/hnws/1300000/mnf.m3u8
+河南卫视,http://liveplay-kk.rtxapp.com/live/program/live/hnws/1300000/mnf.m3u8
+东南卫视,http://liveplay-kk.rtxapp.com/live/program/live/dnws/1300000/mnf.m3u8
+东南卫视,http://liveplay-kk.rtxapp.com/live/program/live/dnws/1300000/mnf.m3u8
+旅游卫视,http://liveplay-kk.rtxapp.com/live/program/live/lyws/1300000/mnf.m3u8
+旅游卫视,http://liveplay-kk.rtxapp.com/live/program/live/lyws/1300000/mnf.m3u8
+陕西卫视,http://liveplay-kk.rtxapp.com/live/program/live/sxws/1300000/mnf.m3u8
+陕西卫视,http://liveplay-kk.rtxapp.com/live/program/live/sxws/1300000/mnf.m3u8
+艺术人文,http://liveplay-kk.rtxapp.com/live/program/live/ysrw/1300000/mnf.m3u8
+艺术人文,http://liveplay-kk.rtxapp.com/live/program/live/ysrw/1300000/mnf.m3u8
+宁夏卫视,http://liveplay-kk.rtxapp.com/live/program/live/nxws/1300000/mnf.m3u8
+宁夏卫视,http://liveplay-kk.rtxapp.com/live/program/live/nxws/1300000/mnf.m3u8
+青海卫视,http://liveplay-kk.rtxapp.com/live/program/live/qhws/1300000/mnf.m3u8
+青海卫视,http://liveplay-kk.rtxapp.com/live/program/live/qhws/1300000/mnf.m3u8
+山西卫视,http://liveplay-kk.rtxapp.com/live/program/live/shanxiws/1300000/mnf.m3u8
+山西卫视,http://liveplay-kk.rtxapp.com/live/program/live/shanxiws/1300000/mnf.m3u8
+魅力音乐,http://liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+魅力音乐,http://liveplay-kk.rtxapp.com/live/program/live/mlyyhd/2300000/mnf.m3u8
+都市剧场,http://liveplay-kk.rtxapp.com/live/program/live/dsjchd/2300000/mnf.m3u8
+都市剧场,http://liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
+纪实频道,http://liveplay-kk.rtxapp.com/live/program/live/jspdhd/2300000/mnf.m3u8
+纪实频道,http://liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+全纪实,http://liveplay-kk.rtxapp.com/live/program/live/qjshd/2300000/mnf.m3u8
+全纪实,http://liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
+五星体育HD,http://liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
+五星体育HD,http://liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+炫动卡通,http://liveplay-kk.rtxapp.com/live/program/live/xdkt/1300000/mnf.m3u8
+炫动卡通,http://liveplay-kk.rtxapp.com/live/program/live/xdkt/1300000/mnf.m3u8
+欢笑剧场,http://liveplay-kk.rtxapp.com/live/program/live/hxjchd/2300000/mnf.m3u8
+欢笑剧场,http://liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8
+动漫秀场,http://liveplay-kk.rtxapp.com/live/program/live/dmxchd/2300000/mnf.m3u8
+动漫秀场,http://liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
+极速汽车,http://liveplay-kk.rtxapp.com/live/program/live/jsqchd/2300000/mnf.m3u8
+极速汽车,http://liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
+
+大陆高清,#genre#
+CCTV-1HD,http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV2-HD,http://101.71.255.229:6610/zjhs/2/10082/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-3HD,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-4HD,http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-5HD,http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=M4V6U9F1K5XEQB9LOQL180K3XC5C&ts=1550812131
+CCTV-6,http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=253O8VQGGOYH9ZPV1Q9HUOK0JWBM&ts=1550812138
+CCTV-6,http://101.71.255.229:6610/zjhs/2/10065/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-7HD,http://101.71.255.229:6610/zjhs/2/10091/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-8HD,http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=HVT8F3KL0K503I0GFWI6FVK07KNA&ts=1550812157
+CCTV-9HD,http://101.71.255.229:6610/zjhs/2/10092/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-10HD,http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-11HD,http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-12HD,http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-13,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-14HD,http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-15HD,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CETV-1,http://101.71.255.229:6610/zjhs/2/10060/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+留学世界,http://101.71.255.229:6610/zjhs/2/10033/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=HMG3A7AA4UURM6UM0CDY9FJWNG57&ts=1550812456
+电影,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=DX5VIJZTDI4ZCN5K4S663GCPBBML&ts=1550812417
+电影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=U0L14XNX2GN19M0APIZKBZ1WC41Q&ts=1550812411
+动画,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+哈哈炫动,http://101.71.255.229:6610/zjhs/2/10051/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+优漫卡通,http://101.71.255.229:6610/zjhs/2/10053/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+安徽卫视高清,http://101.71.255.229:6610/zjhs/2/10003/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=AZ6PMX6PQ9VCTUDOY6A61RCNM20F&ts=1550812370
+贵州卫视高清,http://101.71.255.229:6610/zjhs/2/10015/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=6Y1VNBZQTNW1U6PYSQFNXMCZ5T03&ts=1550812363
+江西卫视高清,http://101.71.255.229:6610/zjhs/2/10029/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=VHVXWN6HTUI91FUJ3SYR38NJP2KE&ts=1550812355
+天津卫视高清,http://101.71.255.229:6610/zjhs/2/10048/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=XD1QMV2H08Q1W1IKWSR55GKXIPSM&ts=1550812337
+黑龙江清,http://101.71.255.229:6610/zjhs/2/10020/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=568DHXT30P9GSIFC8YJVIOXTD7XX&ts=1550812327
+四川卫视高清,http://101.71.255.229:6610/zjhs/2/10046/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=0478RTFXC1JIOH7AJFPJ68KR39T3&ts=1550812320
+湖北卫视,http://101.71.255.229:6610/zjhs/2/10022/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=2M6V73K7JI8JSUCWZ4QW514VGLJ1&ts=1550812313
+湖北卫视,http://101.71.255.229:6610/zjhs/2/10021/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+山东卫视高清,http://101.71.255.229:6610/zjhs/2/10040/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=BE923CW439LP89ZRIGB1C1QGS0NA&ts=1550812305
+深圳卫视高清,http://101.71.255.229:6610/zjhs/2/10045/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=O94ETMS349NFDLI86YRXAKN43F2E&ts=1550812286
+广东卫视高清,http://101.71.255.229:6610/zjhs/2/10013/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=6WU5B7EXKF30QFY878O8HTGR4RS6&ts=1550812276
+浙江卫视高清,http://101.71.255.229:6610/zjhs/2/10059/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=MED5SCIVX3563RJCOZN4U169TUIG&ts=1550812266
+江苏卫视高清,http://101.71.255.229:6610/zjhs/2/10028/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=QIB11UUULOI9YB2MO36UPDL85WOY&ts=1550812258
+湖南卫视高清,http://101.71.255.229:6610/zjhs/2/10024/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=YIJ4QQ5O5IL8JQ5OUU81FKGCVQ3J&ts=1550812250
+东方卫视高清,http://101.71.255.229:6610/zjhs/2/10009/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=HAOVE52HEB0VAF2FN240FDFJNQMS&ts=1550812236
+北京卫视高清,http://101.71.255.229:6610/zjhs/2/10005/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=LM6GJJ91Z1B8HDZNMEYNK8LB4965&ts=1550812227
+河北卫视高清,http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+北京卫视,http://101.71.255.229:6610/zjhs/2/10004/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+内蒙卫视,http://101.71.255.229:6610/zjhs/2/10035/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=2KUW3F0OEDBTP8XUCK6VJDFIUZK5&ts=1550812399
+安徽卫视,http://101.71.255.229:6610/zjhs/2/10002/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+兵团卫视,http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+东方卫视,http://101.71.255.229:6610/zjhs/2/10008/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+东南卫视,http://101.71.255.229:6610/zjhs/2/10010/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+甘肃卫视,http://101.71.255.229:6610/zjhs/2/10011/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+广东卫视,http://101.71.255.229:6610/zjhs/2/10012/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+广西卫视,http://101.71.255.229:6610/zjhs/2/10014/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+河南卫视,http://101.71.255.229:6610/zjhs/2/10018/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+黑龙江视,http://101.71.255.229:6610/zjhs/2/10019/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+湖南卫视,http://101.71.255.229:6610/zjhs/2/10023/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+吉林卫视,http://101.71.255.229:6610/zjhs/2/10025/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+江苏卫视,http://101.71.255.229:6610/zjhs/2/10027/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+金鹰卡通,http://101.71.255.229:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+卡酷少儿,http://101.71.255.229:6610/zjhs/2/10031/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+辽宁卫视,http://101.71.255.229:6610/zjhs/2/10032/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+旅游卫视,http://101.71.255.229:6610/zjhs/2/10034/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+宁夏卫视,http://101.71.255.229:6610/zjhs/2/10036/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+青海卫视,http://101.71.255.229:6610/zjhs/2/10038/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+山东卫视,http://101.71.255.229:6610/zjhs/2/10039/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+山西卫视,http://101.71.255.229:6610/zjhs/2/10041/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+陕西卫视,http://101.71.255.229:6610/zjhs/2/10042/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+深圳卫视,http://101.71.255.229:6610/zjhs/2/10044/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+四川卫视,http://101.71.255.229:6610/zjhs/2/10046/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+天津卫视,http://101.71.255.229:6610/zjhs/2/10047/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+西藏卫视,http://101.71.255.229:6610/zjhs/2/10049/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+新疆卫视,http://101.71.255.229:6610/zjhs/2/10050/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+云南卫视,http://101.71.255.229:6610/zjhs/2/10054/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+浙江卫视,http://101.71.255.229:6610/zjhs/2/10058/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+重庆卫视,http://101.71.255.229:6610/zjhs/2/10081/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱悬念,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱经典,http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱都市,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱解密,http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱院线,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱浪漫,http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱科幻,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱时尚,http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
+港台频道,#genre#
+★全网通专区★↓,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+凤凰中文①,vjms://221.131.105.75:8500/live/cid=400
+凤凰中文②,vjms://58.215.133.154:8500/live/cid=400
+澳亚卫视①,http://tv998.club/gz168.php?id=ayws
+澳亚卫视②,vjms://221.131.105.75:8500/live/cid=337
+澳亚卫视②,http://tv998.club/gz168.php?id=ayws
+翡翠台HD①,vjms://221.131.105.75:8500/live/cid=362
+翡翠台HD②,http://diyp.top/agent/uhd.php?id=xgfeicui_1500
+翡翠台HD③,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=10&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
+明珠台①,vjms://58.215.133.154:8500/live/cid=367
+明珠台②,vjms://221.131.105.75:8500/live/cid=367
+无线新闻HD①,http://cdn.elibei.com/pull?pinyin=wxxw
+无线新闻HD②,http://tv998.club/hk998.php?id=9&xl=1
+无线财经①,http://cdn.elibei.com/pull?pinyin=wxcj
+无线财经②,mitv://fccseuro.pvbox.live:18912/5b1409fd0000321517d49fa47bea1ace.ts
+有线新闻,http://cdn.elibei.com/pull?pinyin=yxxw
+V,http://tv998.club/gz168.php?id=v
+MTV,http://tv998.club/gz168.php?id=mtv
+澳门有线①台,http://202.175.127.77/live/show/ch1/index.m3u8
+澳门互动新闻台,http://202.175.127.77/live/show/ch2/index.m3u8
+星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
+★秒开测试★↓,http://cdn.elibei.com/pull?pinyin=tvbfc
+TVB翡翠台,http://cdn.elibei.com/pull?pinyin=tvbfc
+TVB無綫新聞台,http://cdn.elibei.com/pull?pinyin=wxxw
+TVB無綫財經資訊台,http://cdn.elibei.com/pull?pinyin=wxcj
+香港有線新聞,http://cdn.elibei.com/pull?pinyin=yxxw
+香港ATV,http://cdn.elibei.com/pull?pinyin=atv
+香港開电视,http://cdn.elibei.com/pull?pinyin=kds
+香港NOW新闻,http://cdn.elibei.com/pull?pinyin=nownews
+NOW直播台,http://cdn.elibei.com/pull?pinyin=nowlive
+NOW体育,http://cdn.elibei.com/pull?pinyin=nowsport
+TVBj2,http://cdn.elibei.com/pull?pinyin=tvbj2
+中视,http://cdn.elibei.com/pull?pinyin=twzs
+华视,http://cdn.elibei.com/pull?pinyin=twhs
+台视,http://cdn.elibei.com/pull?pinyin=twts
+民视,http://cdn.elibei.com/pull?pinyin=twms
+三立LIVE新闻,http://cdn.elibei.com/pull?pinyin=twsllive
+中天新闻,http://cdn.elibei.com/pull?pinyin=twztxw
+TVBS新闻,http://cdn.elibei.com/pull?pinyin=twtvbsxw
+壹新闻,http://cdn.elibei.com/pull?pinyin=twyxw
+CHTV台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
+动物星球,vjms://58.215.133.189:8500:3502/live/cid=3
+迪士尼,vjms://58.215.133.189:8500:3502/live/cid=361
+AXNHD1,vjms://58.215.133.189:8500:3502/live/cid=2
+TLC旅游,vjms://58.215.133.189:8500:3502/live/cid=103
+ELTA体育1台,vjms://58.215.133.189:8500:3502/live/cid=266
+纬来体育,vjms://58.215.133.189:8500:3502/live/cid=202
+FOX体育2台,vjms://58.215.133.189:8500:3502/live/cid=444
+FOX体育3台,vjms://58.215.133.189:8500:3502/live/cid=95
+博斯高球,vjms://58.215.133.189:8500:3502/live/cid=265
+AXNHD,http://tv998.club/gz168.php?id=axn
+BBC,http://tv998.club/gz168.php?id=bbc
+卫视国际电影,http://tv998.club/gz168.php?id=wsgjdy
+卫视体育,http://tv998.club/gz168.php?id=wsty
+探索,http://tv998.club/gz168.php?id=ts
+TVBS新聞臺,http://6688.tv0668.com:10080/vhls/88888888/88888888_live.m3u8
+三立新聞臺,http://6688.tv0668.com:10080/vhls/88888889/88888889_live.m3u8
+TVB J2,http://cdn.elibei.com/pull?pinyin=tvbj2
+TVB J2线路①,mitv://fccseuro.pvbox.live:18912/5dbeb1ce0004b0eb3cdb153f4f2c0e31.ts
+TVB J2线路②,mitv://fccseuro.pvbox.live:18912/5dbeb1ce0004b0eb3cdb153f4f2c0e31.ts
+
+欢看港澳❤,#genre#
+1翡翠,mitv://fccseuro.pvbox.live:18912/5d1220350000ba27b4933f786c1c19e3.ts
+2翡翠,mitv://fccseuro.pvbox.live:18912/5dbeb1c60000e0463cdaf50554c93804.ts
+无线新闻,mitv://fccseuro.pvbox.live:18912/5dbeb1c40003f9a410a2565a7d8d92d4.ts
+1J2,mitv://fccseuro.pvbox.live:18912/5dbeb1ce0004b0eb3cdb153f4f2c0e31.ts
+2J2,mitv://fccseuro.pvbox.live:18912/5d122036000a06619753a560332694a8.ts
+J5,mitv://fccseuro.pvbox.live:18912/5b14095400047cf53e3473d9c02ef381.ts
+明珠,mitv://fccseuro.pvbox.live:18912/5dbeb1ca000ccc503cdb07b23a321f0c.ts
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+TVB星河,mitv://fccseuro.pvbox.live:18912/5d65048c0003e9ae43db80dad0a1af9d.ts
+VIUTV6,mitv://fccseuro.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts
+VIU,mitv://fccseuro.pvbox.live:18912/5dbeb1c7000938683cdafb0f5bd34044.ts
+星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
+凤凰中文台 HD,mitv://fccseuro.pvbox.live:18912/5b14092b0007595626f44df3b97060cb.ts
+凤凰资讯台 HD,mitv://fccseuro.pvbox.live:18912/5b14092b00090483675e74ee2e7efbd8.ts
+凤凰香港台 HD,mitv://fccseuro.pvbox.live:18912/5b14092b000ab0583d567c3e6d55c487.ts
+TVB娱乐,mitv://fccseuro.pvbox.live:18912/5b140a99000c97f5656b4fa5d6c2533b.ts
+莲花卫视,mitv://fccseuro.pvbox.live:18912/5b1409fb00088a46edaf118e021b6b38.ts
+WBTV,mitv://fccseuro.pvbox.live:18912/5b140a1600043fc9cd8417a7f6040dfb.ts
+CHINA MOVIE,mitv://fccseuro.pvbox.live:18912/5b14095e00097ea87a04c9f21d673917.ts
+中华美食频道,mitv://fccseuro.pvbox.live:18912/5b14092b00012661df2e73b04ff6176b.ts
+RTHK31,mitv://fccseuro.pvbox.live:18912/5badd38d000891c4eae9d5c75d67c494.ts
+RTHK32,mitv://fccseuro.pvbox.live:18912/5badd3910003a73de8a59da1504a2464.ts
+BEIN SPORTS,mitv://fccsovh.pvbox.live:18912/5cf559ed000079fb8e6f50ff7673526f.ts
+WWE,mitv://fccsovh.pvbox.live:18912/5cffd5d90007249667b57e585ad6e0af.ts
+TVB US 1,mitv://fccsovh.pvbox.live:18912/5cffd79b00082246191a57dc4d96d59c.ts
+TVB US 2,mitv://fccsovh.pvbox.live:18912/5cffd79d0004cbb6963999f7dee45612.ts
+TVBHD,mitv://fccsovh.pvbox.live:18912/5cf559f800003d1bbad176332c9de847.ts
+
+欢看台湾❤,#genre#
+ELTA影劇,mitv://fccsovh.pvbox.live:18912/5b1409dc0006a1ca6be14f6006d562d6.ts
+ELTA綜合,mitv://fccsovh.pvbox.live:18912/5b1409db0002d1cfe10aceff385449f8.ts
+EYETV旅遊,mitv://fccseuro.pvbox.live:18912/5b140916000c98189f8b8b83a0221ef5.ts
+中天亞洲,mitv://fccsovh.pvbox.live:18912/5b1409220008c84fe902d5ab99825465.ts
+CNN,mitv://fccsovh.pvbox.live:18912/5b140954000dc92a3909c23567145acd.ts
+民視,mitv://fccsovh.pvbox.live:18912/5c2dd73c0002b607fc69cf0f8123e477.ts
+台视 HD,mitv://fccseuro.pvbox.live:18912/5b14095f000570bed0fc4fad4ae6cec2.ts
+大愛,mitv://fccsovh.pvbox.live:18912/5b1409db0005716897dcad3475fe62b2.ts
+中視,mitv://fccsovh.pvbox.live:18912/5c2dd743000549bfe219541635cbee49.ts
+華視,mitv://fccsovh.pvbox.live:18912/5c2dd747000632418fad3d5d6192e36f.ts
+公視,mitv://fccseuro.pvbox.live:18912/5b1409600001a0b2f2deec889425a77f.ts
+亚洲旅游台 HD,mitv://fccsovh.pvbox.live:18912/5b140917000941831d58f5cbea1509ac.ts
+好消息,mitv://fccsovh.pvbox.live:18912/5bdbf38a000e2c4935e990335c7ec7b6.ts
+BBC EARTH  HD,mitv://fccseuro.pvbox.live:18912/5b1408f200071c8b1f36298ea985fcbf.ts
+國家地理野生,mitv://fccsovh.pvbox.live:18912/5b1409170007d3427577583c60df8661.ts
+國家地理HD,http://192.154.103.75:8080/ZZ_hbo/ZZ_hbo.m3u8
+CN卡通HD,mitv://fccsovh.pvbox.live:18912/5b593933000710c565c97caa75e93f95.ts
+TLC,mitv://fccsovh.pvbox.live:18912/5b13f6f10002d2ef9b9d5ab37df052ce.ts
+動物星球,mitv://fccsovh.pvbox.live:18912/5b14096100006f33573def4a3329b20b.ts
+迪士尼卡通,mitv://fccsovh.pvbox.live:18912/5b1409f30004f6ec5f8635b4b8538014.ts
+CN卡通,mitv://fccsovh.pvbox.live:18912/5b140917000efaaccaf9855c4a74d50c.ts
+東森呦呦,mitv://fccsovh.pvbox.live:18912/5b140a9a00071c28d00ae908049b1246.ts
+緯來綜合,mitv://fccseuro.pvbox.live:18912/5b1409230004f71e7d5dc8d1776b10c2.ts
+八大第壹,mitv://fccsovh.pvbox.live:18912/5b14096a00044003d475c17fc884877f.ts
+八大綜合,mitv://fccsovh.pvbox.live:18912/5b14092c0004b9c22a7d0c8d68eff30b.ts
+三立臺灣,mitv://fccsovh.pvbox.live:18912/5c2dd74a000cbd46f83b97758dadc6af.ts
+三立都會,mitv://fccseuro.pvbox.live:18912/5c2dd74e0008135f98061afa4450b57f.ts
+衛視中文臺,mitv://fccsovh.pvbox.live:18912/5b14096a00006f07ab9e1941b4529a7b.ts
+東森綜合,mitv://fccsovh.pvbox.live:18912/5b1409f1000dc91b574350273e2f56d6.ts
+靖天育樂,mitv://fccsovh.pvbox.live:18912/5b1408f2000e063f91db20929db07985.ts
+中天綜合,mitv://fccsovh.pvbox.live:18912/5b14096a0007d3450c87c1ef7ed574cc.ts
+中華美食,mitv://fccseuro.pvbox.live:18912/5b14092b00012661df2e73b04ff6176b.ts
+中天娛樂,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+東森戲劇,mitv://fccsovh.pvbox.live:18912/5b1409f20000320b5734fb18422005e7.ts
+八大戲劇,mitv://fccsovh.pvbox.live:18912/5b1409690000706a6d9dad7480eed23d.ts
+TVBS歡樂,mitv://fccsovh.pvbox.live:18912/5b1409600006657b5be74d1fbbfdd7b7.ts
+緯來戲劇,mitv://fccsovh.pvbox.live:18912/5b1409f3000a72b5763b1a34ab1030c0.ts
+龍祥時代,mitv://fccsovh.pvbox.live:18912/5b14092200071c61067c541fd2ceabf2.ts
+JET 综合,mitv://fccsovh.pvbox.live:18912/5b1409f3000126270ca65ab9be2e70d6.ts
+靖天映畫,mitv://fccsovh.pvbox.live:18912/5b14093f0002d1c284b27817e2fbe0f1.ts
+壹電視新聞,mitv://fccsovh.pvbox.live:18912/5c2dd75c000b56815360377ee7c224e6.ts
+年代新聞,mitv://fccsovh.pvbox.live:18912/5c2dd76000032856e3b05845c82e0b77.ts
+東森新聞,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b319c64140c03704883d.ts
+中天新聞,mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527ba0c6fb284f0b9861.ts
+民視新聞,mitv://fccsovh.pvbox.live:18912/5c2dd73500017585f0a0f3ed3e15e5fd.ts
+三立新聞,mitv://fccsovh.pvbox.live:18912/5c2dd73800094069b253f4b5a138ed62.ts
+TVBS新聞,mitv://fccsovh.pvbox.live:18912/5c2dd76300095ef4b443ea412ea53efe.ts
+TVBS綜合,mitv://fccsovh.pvbox.live:18912/5b140960000c982b95a632f68cb7873d.ts
+東森財經,mitv://fccseuro.pvbox.live:18912/5b1409f30008c77659c1c29b0216c2f5.ts
+非凡商业HD,mitv://fccsovh.pvbox.live:18912/5b140a9a0001dd5b646cdd65b1748f97.ts
+非凡新聞,mitv://fccsovh.pvbox.live:18912/5c2dd766000ecf4aee11dceee89f94e0.ts
+衛視電影,mitv://fccseuro.pvbox.live:18912/5c2dd76a000ca6147907f534891ef65e.ts
+東森電影,mitv://fccsovh.pvbox.live:18912/5b1409f20009bbe281ffe7b699b8ccda.ts
+偉來電影,mitv://fccsovh.pvbox.live:18912/5b140922000ebd5b65820c35557c54ec.ts
+HBO,mitv://fccsovh.pvbox.live:18912/5b140969000be13c0cfc86fe60fae30e.ts
+東森洋片,mitv://fccsovh.pvbox.live:18912/5b14092300021ad1076b0d328d567031.ts
+好萊塢電影,mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba.ts
+衛視洋片HD,mitv://fccsovh.pvbox.live:18912/5b14098f00030ea40538018022108897.ts
+CINEMAX,mitv://fccsovh.pvbox.live:18912/5b14096000043ff9d8d644e74afa7324.ts
+FOX SPORTS HD,mitv://fccseuro.pvbox.live:18912/5b3c4f980000c85652052fc832d068cb.ts
+FOX SPORTS 2,mitv://fccseuro.pvbox.live:18912/5b3c4f980006aaf37d9cfdbc70d2774e.ts
+緯來體育,mitv://fccsovh.pvbox.live:18912/5b140921000be144ebde3f3f719d5ce1.ts
+緯來育樂,mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5effe974b72f7352b.ts
+偉來日本,mitv://fccsovh.pvbox.live:18912/5b14092b000efa4c0ed04837d4c1239e.ts
+國興衛視,mitv://fccsovh.pvbox.live:18912/5b1409f2000ebd78c6a1de7f026e83a1.ts
+Z頻道,mitv://fccsovh.pvbox.live:18912/5b14094a00088a563096f00aa87c2c91.ts
+CATCHPLAY HD,mitv://fccsovh.pvbox.live:18912/5b1409db000126a9933e38ed4496938e.ts
+八大娛樂,mitv://fccsovh.pvbox.live:18912/5b14096a00062806326e31d329fe22dd.ts
+HBO強檔,mitv://fccsovh.pvbox.live:18912/5b14096900084dd9c11cc16c5611eb76.ts
+HBO原創,mitv://fccsovh.pvbox.live:18912/5b14096a000a35a18cfea51d3f86d8c2.ts
+大愛二臺,mitv://fccsovh.pvbox.live:18912/5bdbf3990002e4dc703253ad20a400ea.ts
+MTV LIVE HD,mitv://fccsovh.pvbox.live:18912/5b1408f100084d6ad3bc16c5fe3a319a.ts
+TVN,mitv://fccseuro.pvbox.live:18912/5b14090b000aaf9ddf77bfe598a6f6ac.ts
+EYETV戲劇,mitv://fccsovh.pvbox.live:18912/5b14093e000e43399a6af7c08d3cdd97.ts
+龍華洋片,mitv://fccsovh.pvbox.live:18912/5b140917000c1e9b6979810e84e0e7d5.ts
+龍華戲劇,mitv://fccsovh.pvbox.live:18912/5b14091600088a8c8e851e426dd9ad32.ts
+龍華動畫,mitv://fccsovh.pvbox.live:18912/5b1409170002d1e24e49c7557a3c1df2.ts
+龍華偶像,mitv://fccsovh.pvbox.live:18912/5b1409180001262645e601af722b9d5a.ts
+龍華電影,mitv://fccsovh.pvbox.live:18912/5b140922000d123144e4bee8a5f2c4ac.ts
+好消息 2,mitv://fccsovh.pvbox.live:18912/5b140922000a72b29f1cfb9b2ccebe31.ts
+ELTA體育 HD,mitv://fccsovh.pvbox.live:18912/5b140917000aaf8f456a7d2dff0dbc34.ts
+美亞電影,mitv://fccsovh.pvbox.live:18912/5b14098f0007961555aceecec68bb109.ts
+星衛電影,mitv://fccsovh.pvbox.live:18912/5b140940000a727a1de978c32eaafddd.ts
+星衛娛樂臺,mitv://fccsovh.pvbox.live:18912/5b1408f1000d124926f6932e1bafe127.ts
+美食星球,mitv://fccsovh.pvbox.live:18912/5b140917000d8becfd7949265b2f087b.ts
+高爾夫網球,mitv://fccsovh.pvbox.live:18912/5b1409530005ae3a96484fc7df8e6bab.ts
+中視新聞,mitv://fccsovh.pvbox.live:18912/5b14095e000f3774fcef729d8154a4de.ts
+環宇綜合,mitv://fccsovh.pvbox.live:18912/5b14098e00034c1079e6fefb81d5a09e.ts
+新視覺,mitv://fccsovh.pvbox.live:18912/5b1409230000ac4799b19076200305f5.ts
+Ci罪案偵緝 HD,mitv://fccsovh.pvbox.live:18912/5b14098e0006282ac4f7f6003df3dd97.ts
+靖天電影,mitv://fccsovh.pvbox.live:18912/5b14093f0000e91e26d71880e87dc6ee.ts
+地理悠人,mitv://fccsovh.pvbox.live:18912/5b14093f000b29ff31145c70b91aa9df.ts
+壹電視綜合,mitv://fccsovh.pvbox.live:18912/5b1409400006a235ed9ac7c11684ffbf.ts
+天映频道,mitv://fccseuro.pvbox.live:18912/5d650486000c7ef469a1d747fa43ffe4.ts
+V音樂,mitv://fccsovh.pvbox.live:18912/5b593be200077048271019733f9b940b.ts
+CHC 家庭影院 HD,mitv://fccsovh.pvbox.live:18912/5b14092b0004ba23cdc5e091a9c5ebaf.ts
+CHC 高清電影 HD,mitv://fccsovh.pvbox.live:18912/5b140953000b29efbe3765b99c2847cf.ts
+探索頻道,mitv://fccsovh.pvbox.live:18912/5b14092b000cd4e0b0471160f8444ee1.ts
+DISCOVERY科學頻道 HD,mitv://fccsovh.pvbox.live:18912/5b14093f000e802b5d1076d3bb86c136.ts
+探索動力,mitv://fccsovh.pvbox.live:18912/5b14093f000628019efe4e42aa0b1d2c.ts
+CHC 動作電影 HD,mitv://fccsovh.pvbox.live:18912/5b14092b0002d180bb997909614fd585.ts
+FASHIONTV HD,mitv://fccsovh.pvbox.live:18912/5b1409dc00021a61125ef3116945d064.ts
+FOX HD,mitv://fccsovh.pvbox.live:18912/5b14098e000c5aec0703ff2d1deb991a.ts
+FOX MOVIES HD,mitv://fccseuro.pvbox.live:18912/5b7267ae000b9c6c21aaa44500f9afe5.ts
+FOX PLUS HD,mitv://fccsovh.pvbox.live:18912/5b140977000ab01d585a8480a4ebc703.ts
+FRANCE 24（English）,mitv://fccsovh.pvbox.live:18912/5b14090b0008c74adc26c418e1c483f2.ts
+CNBC,mitv://fccsovh.pvbox.live:18912/5b59394400007aa8a2ae8fd035025c25.ts
+ASN_HD,mitv://118.163.81.13:8911/59ec2b0f000175d8b9be48953bd0c3c2.ts
+AXN,mitv://fccsovh.pvbox.live:18912/5b14092200038877146fe606046a1c01.ts
+CNBC ASIA CHANNEL,mitv://fccsovh.pvbox.live:18912/5b1409400000e91c00bfadfc3394efd0.ts
+TV5MONDE,mitv://fccsovh.pvbox.live:18912/5b1409220005714c9dfa10bcf1d40f00.ts
+BLOOMBERG,mitv://fccsovh.pvbox.live:18912/5b13f6f10000e96ee08b885e71a238f9.ts
+BLOOMBERG,mitv://fccseuro.pvbox.live:18912/5bdbf3bc000ca38ad5820a42b124689c.ts
+CHANNEL V HD,mitv://fccsovh.pvbox.live:18912/5b1409dc0004f6ab72aefc47973e3aff.ts
+FOX家庭,mitv://fccsovh.pvbox.live:18912/5b14098e000945caf5e4be649b0460c3.ts
+FOX動作,mitv://fccsovh.pvbox.live:18912/5b140977000904d6def2b7bfc5996a48.ts
+FOX警匪HD,mitv://fccsovh.pvbox.live:18912/5b14098e000e434e2fd3bf4c7f40c797.ts
+FXHD,mitv://fccsovh.pvbox.live:18912/5b593b240003f7479ab172d999faab15.ts
+时尚频道,mitv://fccsovh.pvbox.live:18912/5bdbf3b50009e59e8992603a2e3607b2.ts
+NBA,mitv://fccsovh.pvbox.live:18912/5b593bea000144c60f07fcc94343e1f2.ts
+OUTDOOR HD,mitv://fccsovh.pvbox.live:18912/5b1409db000a72d40e2026669c5d5666.ts
+SKY NEWS HD,mitv://fccseuro.pvbox.live:18912/5b13f6f0000c1dd6202eb6d5ad79dd64.ts
+SUNDANCE HD,mitv://fccsovh.pvbox.live:18912/5b1408f2000c5b2d92ac8a46800d7872.ts
+FOX体育,mitv://fccsovh.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts
+亞洲美食,mitv://fccsovh.pvbox.live:18912/5b1409da000c9801a4076cb81fb32896.ts
+靖天卡通,mitv://fccsovh.pvbox.live:18912/5b14093e0009fa21731f8fbaf987c62d.ts
+BBC LIFESTYLE CHANNEL,mitv://fccsovh.pvbox.live:18912/5b1408f2000906bde57c80135ed2e130.ts
+靖天國際,mitv://fccsovh.pvbox.live:18912/5b1408f1000efa28c90a5fac79b7a6c2.ts
+靖天戲劇,mitv://fccsovh.pvbox.live:18912/5b14093e000c1de9b5dea6e7363ae268.ts
+博斯高球二台,mitv://fccsovh.pvbox.live:18912/5b1409dc00088a664e1240e447ab417b.ts
+博斯運動,mitv://fccsovh.pvbox.live:18912/5b1409f3000dc9235ceb20d49cb3dbbc.ts
+緯來精彩,mitv://fccsovh.pvbox.live:18912/5b14094a0000e9516c6bb63a161e2615.ts
+曼迪日本臺,mitv://fccsovh.pvbox.live:18912/5b1408f1000aecee29419a87f70b7785.ts
+衛視合家歡,mitv://fccsovh.pvbox.live:18912/5b14096a0001dd418df7b0cf26ad4d95.ts
+三立戲劇臺,mitv://fccsovh.pvbox.live:18912/5b140916000e8094bd3e4a9f9cc7006c.ts
+三立綜合,mitv://fccsovh.pvbox.live:18912/5b14091700012642eefad1d530a8ae79.ts
+DIVA,mitv://fccsovh.pvbox.live:18912/5b1408f10005adef68e21f8dec771746.ts
+靖天日本,mitv://fccsovh.pvbox.live:18912/5b140916000ab0160767020b5c1e54b5.ts
+都市劇場,mitv://fccsovh.pvbox.live:18912/5b140921000e805ea374e7eca0991ade.ts
+環宇財經,mitv://fccsovh.pvbox.live:18912/5b1408f30002585a492180b7d5e0d989.ts
+環宇新聞,mitv://fccsovh.pvbox.live:18912/5b1408f30005adec5f7f531e0d42a29f.ts
+LUXE_TV,mitv://fccsovh.pvbox.live:18912/5b1408f2000402a9f667d6d8a8a6c381.ts
+鴻基影劇臺,mitv://fccsovh.pvbox.live:18912/5b14095e000b67b9c440b2f7436deed5.ts
+靖洋戲劇臺,mitv://fccsovh.pvbox.live:18912/5b1409170006660304afc97c409d8a0f.ts
+FYI,mitv://fccsovh.pvbox.live:18912/5b1408f20005adce1b494c1e0e9d1bab.ts
+LIFETIME,mitv://fccsovh.pvbox.live:18912/5b593bd20009b7c80420191fa22bc431.ts
+EVE HD,mitv://fccsovh.pvbox.live:18912/5b14093f00043fac65b1cbd52ba18117.ts
+E! ENTERTAINMENT,mitv://fccsovh.pvbox.live:18912/5b140977000403685d35720d57db655a.ts
+CHANNEL_NEWS_ASIA,mitv://fccsovh.pvbox.live:18912/5b20e3af00008deea2f7ce34f2229c1a.ts
+BABY TV,mitv://fccsovh.pvbox.live:18912/5b14090b00030e822cb28641ef871c91.ts
+MY KIDS,mitv://fccseuro.pvbox.live:18912/5b1409da000a356ec84bbd394ed0a32f.ts
+FOXNEWS,mitv://fccsovh.pvbox.live:18912/5b593b140008b0a8b4def1ff835570b9.ts
+FOX SPORTS 3 HD,mitv://fccsovh.pvbox.live:18912/5b1409400002d18b5cbef98012f02000.ts
+DWTV,mitv://fccsovh.pvbox.live:18912/5b14098f0005711e10757987c378a314.ts
+HBO SIGNATURE WEST,mitv://fccsovh.pvbox.live:18912/5b593bbb00085133d676fe7d3a9716d3.ts
+CINEMAWORLD,mitv://fccsovh.pvbox.live:18912/5b1409770005ae3c6c0384974b8ace2f.ts
+SMART知识台,mitv://fccsovh.pvbox.live:18912/5b1408f2000257986add60639583d4c6.ts
+HISTORY HD,mitv://fccsovh.pvbox.live:18912/5b1408f300071d3b168710326061c261.ts
+HISTORY2 HD,mitv://fccsovh.pvbox.live:18912/5b1408f3000402b2246606b96c49529a.ts
+HKS,mitv://fccsovh.pvbox.live:18912/5b14096a000c1de2580d2cb9743ae218.ts
+NICK.JR,mitv://fccsovh.pvbox.live:18912/5b14098f000ba3b0a0b83a583d8d7fbe.ts
+ALJAZEERA,mitv://fccsovh.pvbox.live:18912/5b1409fc00025783370fad26796d9310.ts
+BOOMERANG,mitv://fccsovh.pvbox.live:18912/5b1409da000811249b84244220a4ab11.ts
+MEZZO LIVEHD,mitv://fccsovh.pvbox.live:18912/5b14090b0006deff79ee12ec3b02e022.ts
+EVE,mitv://fccsovh.pvbox.live:18912/5bdbf3a000041d6abcb0433451f16f86.ts
+SKY NEWS HD,mitv://fccseuro.pvbox.live:18912/5bdbf3c0000900895708450e640585c3.ts
+原住民族电视,mitv://fccsovh.pvbox.live:18912/5bdbf387000760a7e096a3225c6ed52c.ts
+TVN,mitv://fccsovh.pvbox.live:18912/5bdbf3a70003296c733d602b50acc227.ts
+客家电视,mitv://fccsovh.pvbox.live:18912/5bdbf38e000519508784bb09ebeacf4d.ts
+LUXE TV,mitv://fccsovh.pvbox.live:18912/5bdbf3ae0006e6cac753f975290d4d15.ts
+博斯高球1DH,mitv://fccsovh.pvbox.live:18912/5bdbf395000ad5cbf41ad04a67a90600.ts
+佛卫慈悲台,mitv://fccsovh.pvbox.live:18912/5bdbf39c000a41545bb103d6dbe573dd.ts
+壹电视新闻台,mitv://fccsovh.pvbox.live:18912/5bdbf3a3000abb1b6dcadf91cc941809.ts
+
+欢看新闻❤,#genre#
+CCTV13,http://107.148.240.185:13164/v/cctv.php?id=2000204602.m3u8
+CNBC,mitv://fccsovh.pvbox.live:18912/5b1409400000e91c00bfadfc3394efd0.ts
+CNNHD,mitv://fccsovh.pvbox.live:18912/5b593947000cff32cb71e19dc90973db.ts
+CNN,mitv://fccsovh.pvbox.live:18912/5b140954000dc92a3909c23567145acd.ts
+BBC HD,mitv://fccsovh.pvbox.live:18912/5b140953000257fbce7dc3b0e10ce90f.ts
+BBC LIFESTYLE HD,mitv://fccsovh.pvbox.live:18912/5b1408f2000906bde57c80135ed2e130.ts
+BBC EARTH HD,mitv://fccseuro.pvbox.live:18912/5b1408f200071c8b1f36298ea985fcbf.ts
+TV5,mitv://fccsovh.pvbox.live:18912/5b1409220005714c9dfa10bcf1d40f00.ts
+今日俄罗斯,mitv://fccsovh.pvbox.live:18912/5b1409fc00006f1fe7b8259e7a0801c4.ts
+TVBS,mitv://fccsovh.pvbox.live:18912/5b140960000c982b95a632f68cb7873d.ts
+TVBS新闻,mitv://fccsovh.pvbox.live:18912/5b1409600008c73b7a88bdb183a33614.ts
+三立新闻,mitv://fccsovh.pvbox.live:18912/5b14090b000e80305cff1962bbb9f4b3.ts
+东森新闻,mitv://fccsovh.pvbox.live:18912/5b1409520005add41dab0b7092d63018.ts
+中天新闻,mitv://fccsovh.pvbox.live:18912/5b14096a000dc917444d7b7ebefa488d.ts
+中视新闻台,mitv://fccsovh.pvbox.live:18912/5b14095e000f3774fcef729d8154a4de.ts
+互动新闻,mitv://fccsovh.pvbox.live:18912/5b1409fc000a355e13f90e3707138e05.ts
+台视新闻台,mitv://fccsovh.pvbox.live:18912/5b14090b0004b9dac772b507ce89ffe8.ts
+寰宇新闻频道,mitv://fccsovh.pvbox.live:18912/5b1408f30005adec5f7f531e0d42a29f.ts
+年代新闻,mitv://fccsovh.pvbox.live:18912/5b1409fd000a726908ab5c9c5950d2f2.ts
+东森财经,mitv://fccseuro.pvbox.live:18912/5b1409f30008c77659c1c29b0216c2f5.ts
+非凡新闻,mitv://fccsovh.pvbox.live:18912/5b14092c0001a04c5ca4430b581e022d.ts
+FOX新闻,mitv://fccsovh.pvbox.live:18912/5b25fce60007c58e5f5729cefb38b5a1.ts
+
+多国频道,#genre#
+BBC,vjms://58.215.133.154:8500/live/cid=418
+CNN,vjms://58.215.133.154:8500/live/cid=428
+FIGHTING TV,vjms://58.215.133.154:8500/live/cid=408
+kids,vjms://58.215.133.154:8500/live/cid=494
+J,vjms://58.215.133.154:8500/live/cid=495
+Discovery,vjms://58.215.133.154:8500/live/cid=496
+GOLF NTWORK,vjms://58.215.133.154:8500/live/cid=409
+Green,vjms://58.215.133.154:8500/live/cid=412
+日本钓鱼,vjms://58.215.133.154:8500/live/cid=55
+日本钓鱼,vjms://58.215.133.154:8500/live/cid=55
+日本電視台,vjms://58.215.133.154:8500/live/cid=492
+日FIGHTING TV,vjms://58.215.133.154:8500/live/cid=408
+日FIGHTING TV,vjms://58.215.133.154:8500/live/cid=408
+日-Family theather,vjms://58.215.133.154:8500/live/cid=493
+日-kids,vjms://58.215.133.154:8500/live/cid=494
+日-J,vjms://58.215.133.154:8500/live/cid=495
+日-J,vjms://58.215.133.154:8500/live/cid=495
+日-Discovery,vjms://58.215.133.154:8500/live/cid=496
+日-Discovery,vjms://58.215.133.154:8500/live/cid=496
+日-Movie Plus,vjms://58.215.133.154:8500/live/cid=497
+KBS1,vjms://58.215.133.154:8500/live/cid=140
+日本星空电影1台,vjms://58.215.133.154:8500/live/cid=326
+日本星空电影2台,vjms://58.215.133.154:8500/live/cid=191
+日本星空电影3台,vjms://58.215.133.154:8500/live/cid=193
+Movieplus,vjms://58.215.133.154:8500/live/cid=497
+日本频道,vjms://58.215.133.154:8500/live/cid=492
+日本剧场,vjms://58.215.133.154:8500/live/cid=493
+日-MTV,vjms://58.215.133.154:8500/live/cid=52
+日本电视剧,vjms://58.215.133.154:8500/live/cid=213
+WOWOWプライム,vjms://58.215.133.154:8500/live/cid=205
+日-Sports,vjms://58.215.133.154:8500/live/cid=414
+日-Sports1,vjms://58.215.133.154:8500/live/cid=415
+日-Sports2,vjms://58.215.133.154:8500/live/cid=416
+HISTORY,vjms://58.215.133.154:8500/live/cid=219
+NHKG,vjms://58.215.133.154:8500/live/cid=317
+NHKE,vjms://58.215.133.154:8500/live/cid=318
+MGS,vjms://58.215.133.154:8500/live/cid=319
+SUN,vjms://58.215.133.154:8500/live/cid=320
+KIDS,vjms://58.215.133.154:8500/live/cid=494
+ANIMAX,vjms://58.215.133.154:8500/live/cid=498
+迪士尼,vjms://58.215.133.154:8500/live/cid=499
+HBO,vjms://58.215.133.154:8500/live/cid=261
+CCTV-大富,vjms://58.215.133.154:8500/live/cid=170
+KBSWORLD,vjms://58.215.133.154:8500/live/cid=216
+TBSNEWS,vjms://58.215.133.154:8500/live/cid=220
+日本动画,vjms://58.215.133.154:8500/live/cid=316
+TVTOKD,vjms://58.215.133.154:8500/live/cid=315
+TVO7,vjms://58.215.133.154:8500/live/cid=322
+TBS,vjms://58.215.133.154:8500/live/cid=314
+TBS1,vjms://58.215.133.154:8500/live/cid=221
+朝日1,vjms://58.215.133.154:8500/live/cid=223
+BS洋片,vjms://58.215.133.154:8500/live/cid=307
+NHKBSP,vjms://58.215.133.154:8500/live/cid=303
+BS-TBS,vjms://58.215.133.154:8500/live/cid=305
+
+欢看体育❤,#genre#
+CCTV5 体育HD,http://liveplaykk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
+CCTV5 体育赛事 HD,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+风云足球,http://117.59.8.4/PLTV/88888888/224/3221227538/index.m3u8
+广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+博斯无限,mitv://fccsovh.pvbox.live:18912/5b14098f000127133afe280dd5ad6fc0.ts
+博斯网球 HD,mitv://fccsovh.pvbox.live:18912/5b14098f0009bb6e14a3fa68c8943dcb.ts
+博斯运动,mitv://fccsovh.pvbox.live:18912/5b1409f3000dc9235ceb20d49cb3dbbc.ts
+博斯高球1 DH,mitv://fccsovh.pvbox.live:18912/5bdbf395000ad5cbf41ad04a67a90600.ts
+ELTA体育3,mitv://fccsovh.pvbox.live:18912/5b25fc8c00046f12b7377b1649fb574f.ts
+博斯高球Ⅱ HD,mitv://fccsovh.pvbox.live:18912/5b1409dc00088a664e1240e447ab417b.ts
+ELTA体育 HD,mitv://fccsovh.pvbox.live:18912/5b140917000aaf8f456a7d2dff0dbc34.ts
+纬来体育,mitv://fccseuro.pvbox.live:18912/5c2dd76e00049e3344339aa3bb808190.ts
+NBA Canada,mitv://fccsovh.pvbox.live:18912/5cffd5d4000b327e4bf5d5288bdb458c.ts
+FOX SPORTS 3,mitv://fccseuro.pvbox.live:18912/5bee539c0001809239d8003a45175d51.ts
+FOX SPORTS 3 HD,mitv://fccsovh.pvbox.live:18912/5b1409400002d18b5cbef98012f02000.ts
+BEIN SPORT 1,mitv://fccseuro.pvbox.live:18912/5bee51100008b6bebeadfedc930b61a9.ts
+BEIN SPORT 2,mitv://fccseuro.pvbox.live:18912/5bee51140001fa6af6537605e0860d7a.ts
+BEIN SPORT 3,mitv://fccseuro.pvbox.live:18912/5bee510d000165c1a726386fa6ba4363.ts
+BEIN SPORT 03,mitv://fccseuro.pvbox.live:18912/5bee512200082d97db7955745337f024.ts
+BEIN SPORT 04,mitv://fccseuro.pvbox.live:18912/5bee51260001a6e12ab6a194ab7857fa.ts
+BEIN SPORT 05,mitv://fccseuro.pvbox.live:18912/5bee51290009941f6928e11723b483f3.ts
+BEIN SPORT 06,mitv://fccseuro.pvbox.live:18912/5bee512d00052eb16dac5cd080e2c603.ts
+BEIN SPORT 07,mitv://fccseuro.pvbox.live:18912/5bee5130000c7bf9027dae3996750ae3.ts
+BEIN SPORT 08,mitv://fccseuro.pvbox.live:18912/5bee51340004cf7b5114a729c5641364.ts
+BEIN SPORT 09,mitv://fccseuro.pvbox.live:18912/5bee5137000ceab12d9c09b073fd8577.ts
+BEIN SPORT 10,mitv://fccseuro.pvbox.live:18912/5bee513b00072a1a02d44d11462de7ed.ts
+BEIN SPORT 11,mitv://fccseuro.pvbox.live:18912/5bee513f00018c2f1c87330afc00927c.ts
+BEIN SPORT 12,mitv://fccseuro.pvbox.live:18912/5bee51420009b6747cf6983522f06f66.ts
+BEIN SPORT 5 MAX,mitv://fccseuro.pvbox.live:18912/5bee50fb0001752d7bcd839098eb426e.ts
+BEIN SPORT 7 MAX,mitv://fccseuro.pvbox.live:18912/5bee510200036c7519d3f66c0ea9613c.ts
+BEIN SPORT 9 MAX,mitv://fccseuro.pvbox.live:18912/5bee51090003f9ebedf75e2552afee12.ts
+SKY SPORT 1,mitv://fccseuro.pvbox.live:18912/5bee51e700069538a4892ea06107c6eb.ts
+SKY SPORT 2,mitv://fccseuro.pvbox.live:18912/5bee51ea000c8b37493fb71e1fe3cfc4.ts
+SKY SPORT 3,mitv://fccseuro.pvbox.live:18912/5bee51ee0002f636997b4dc1c350b335.ts
+SKY SPORT F1,mitv://fccsovh.pvbox.live:18912/5b2e22ac0000d4b00b85d0281ab50d4a.ts
+SKY SPORTS ARENA,mitv://fccseuro.pvbox.live:18912/5bee4fdd000baa3c19cf80076af13462.ts
+SKY SPORTS ARENA,mitv://fccsovh.pvbox.live:18912/5b2e22ab00001d83afcd31cd4acd79e0.ts
+SKY SPORTS ACTION,mitv://fccseuro.pvbox.live:18912/5bee5081000b61a019d200986d231967.ts
+SKY SPORTS ACTIONS,mitv://118.163.81.13:11893/5b2e22aa0004a5332b1f62567389445c.ts
+SKY SPORTS NEWS,mitv://fccseuro.pvbox.live:18912/5bee5093000337378c5b973540563d7a.ts
+SKY SPORTS NEWS,mitv://fccsovh.pvbox.live:18912/5b2e22ae0002bd033d498034f9b7f16f.ts
+SKY SPORTS CRICKET,mitv://fccseuro.pvbox.live:18912/5bee50850003e6b473f54b205a128048.ts
+SKY SPORTS CRICKET,mitv://fccsovh.pvbox.live:18912/5b2e22ab0005990ea9a6920d5519c322.ts
+SKY SPORTS GOLF,mitv://fccseuro.pvbox.live:18912/5bee5088000b42fd799419726707e23c.ts
+SKY SPORTS GOLF,mitv://fccsovh.pvbox.live:18912/5b2e22ad00005a74a34f6494ff28c336.ts
+SKY SPORTS MAINEVENT,mitv://fccseuro.pvbox.live:18912/5bee507e0000795b19d1f2110d81174c.ts
+SKY SPORTS MAIN EVENT,mitv://fccsovh.pvbox.live:18912/5b2e22ad000838ea22ed0e6a01d154df.ts
+SKY SPORTS PREMIERLEAGUE,mitv://fccseuro.pvbox.live:18912/5bee508c0002adb119d2294d2fbe76cd.ts
+SKY SPORTS PREMIUM LEAGUE,mitv://fccsovh.pvbox.live:18912/5b2e22ab000ad7fd934d5216b0fdb203.ts
+SKY SPORTS FOOTBALL,mitv://fccsovh.pvbox.live:18912/5b2e22ac0005d678a7b10d89f29ae867.ts
+STAR SPORTS 1,mitv://fccseuro.pvbox.live:18912/5bee55dc0004a19a19e6ea4a68542781.ts
+STAR SPORTS 2,mitv://fccseuro.pvbox.live:18912/5bee55df000bc10919e6f7d75b5c489a.ts
+EURO SPORT 2,mitv://fccseuro.pvbox.live:18912/5bee4eb700049db1decdb7a2bfd6f8b1.ts
+EURO SPORT 2 IT,mitv://fccseuro.pvbox.live:18912/5bee51c80006548a6679c2e7b0e9713d.ts
+SPORT 2,mitv://fccseuro.pvbox.live:18912/5bee5565000dea0076734460280a5f80.ts
+YAS SPORTS,mitv://fccseuro.pvbox.live:18912/5bee553b00031c9919e4750542353428.ts
+WIN SPORTS,mitv://fccseuro.pvbox.live:18912/5bee5420000f418619e026aa78a35460.ts
+CLARO SPORTS,mitv://fccseuro.pvbox.live:18912/5bee52d2000e6fc519db0dbb7ac86c66.ts
+新视觉,mitv://fccsovh.pvbox.live:18912/5b1409230000ac4799b19076200305f5.ts
+Space,mitv://fccsovh.pvbox.live:18912/5cffd7a8000e552429c6b62101c45bdb.ts
+SportNet Ontario,mitv://fccsovh.pvbox.live:18912/5cffd5cd000ca041459d5aa0ae1c224c.ts
+SportNet One,mitv://fccsovh.pvbox.live:18912/5cffd5cf000a3eab579a490e1bc4c2cb.ts
+SportNet World,mitv://fccsovh.pvbox.live:18912/5cffd5d10003ce25684f251b033260f4.ts
+SportNet 360,mitv://fccsovh.pvbox.live:18912/5cffd5d2000e8986400c156c873330d6.ts
+
+欢看新马❤,#genre#
+TV1,mitv://fccseuro.pvbox.live:18912/5bdfc2980006d6ed25cb7978728de51f.ts
+TV2,mitv://fccsovh.pvbox.live:18912/5bdfc29b000e4652be251f86725aa84e.ts
+TV3,mitv://fccsovh.pvbox.live:18912/5bdfc29f00057bd1f2e09b1b6f7e18f1.ts
+ntv7,mitv://fccseuro.pvbox.live:18912/5bdfc2a300070c4dd6f13ccf45179d3d.ts
+TV8,mitv://fccseuro.pvbox.live:18912/5bdfc2a700006e98dd3d4514269c4ba4.ts
+TV9,mitv://fccseuro.pvbox.live:18912/5bdfc2aa000be3f816198cdb36343054.ts
+Astro AWANI,mitv://fccsovh.pvbox.live:18912/5d6504550000cf8cf1bc36fa7f9e5977.ts
+Astro NAURA,mitv://fccseuro.pvbox.live:18912/5c3b4bb1000212204e0aece02c962d48.ts
+Astro CITRA,mitv://fccseuro.pvbox.live:18912/5d65046d0008eb4a991e1f4ae2c3ad40.ts
+Astro OASIS,mitv://fccseuro.pvbox.live:18912/5d650462000f1dd798a507ac8c575fb1.ts
+Astro PRIMA,mitv://fccseuro.pvbox.live:18912/5d65048100087188f3c59f71b5135d27.ts
+Astro RIA,mitv://fccseuro.pvbox.live:18912/5d65046b000f1df0866b06a6f07a8506.ts
+Astro WARNA,mitv://fccseuro.pvbox.live:18912/5d6504580009a2163c8fb6df64b243d6.ts
+ASTRO CERIA,mitv://fccseuro.pvbox.live:18912/5d6504850001c472897c66ea9289f4ca.ts
+AL HIJRAH,mitv://fccsovh.pvbox.live:18912/5b20e39a000edc28a1b1e9b4ecdcd46a.ts
+BERNAMA,mitv://fccseuro.pvbox.live:18912/5d6504800000d025996b1668b34812ae.ts
+SURIA,mitv://fccseuro.pvbox.live:18912/5b20e3ae000daac38fc7b1d740353d2d.ts
+CHANNEL 5,mitv://fccseuro.pvbox.live:18912/5b140a14000d4ee13442842379c13554.ts
+Channel 8,mitv://fccseuro.pvbox.live:18912/5bcd6bdb0006c246ff2fe6619637c6ce.ts
+Channel U,mitv://fccseuro.pvbox.live:18912/5bcd6bdf00017fadea19f7110df3e721.ts
+CHANNEL NEWS ASIA,mitv://fccsovh.pvbox.live:18912/5b20e3af00008deea2f7ce34f2229c1a.ts
+SONY HD,mitv://fccseuro.pvbox.live:18912/5d65048e00009342c02c8c6cc43ebe62.ts
+OH!K,mitv://fccseuro.pvbox.live:18912/5d65049100074058f96b611b456ee051.ts
+Kix,mitv://fccseuro.pvbox.live:18912/5d65047e00051ab5094b47655ecd612f.ts
+Astro ARENA,mitv://fccseuro.pvbox.live:18912/5e64a276000ddf6a9cadc1297ecd4a88.ts
+Astro SUPERSPORT1,mitv://fccseuro.pvbox.live:18912/5d65048300014a5e999f8d7b1a49b199.ts
+Astro SUPERSPORT2,mitv://fccseuro.pvbox.live:18912/5e649e17000d46482148535bbc0ed826.ts
+Astro SUPERSPORT2,mitv://fccseuro.pvbox.live:18912/5b3c4fa2000688aa5aa621472923c54f.ts
+Astro SUPERSPORT3,mitv://fccseuro.pvbox.live:18912/5d6504660004a05bdfa8fe3a783e77e2.ts
+Astro SUPERSPORT4,mitv://fccseuro.pvbox.live:18912/5b3c4fa1000c601f7d3f18f0fb1c0fd2.ts
+WWE,mitv://fccseuro.pvbox.live:18912/5e64a27a00039efd1f86dcc3021f0697.ts
+TVN HD11,mitv://fccseuro.pvbox.live:18912/5d65048f000ded4374f36c3cf1389cef.ts
+Astro Aod,mitv://fccseuro.pvbox.live:18912/5e649e1e0005e1a7d73736fc46288df1.ts
+Astro AOD,mitv://fccseuro.pvbox.live:18912/5d66315100033ff6d13347691aec4636.ts
+Astro aod,mitv://fccseuro.pvbox.live:18912/5b3c4fa4000612361293fdaa606af3b2.ts
+Astro 欢喜,mitv://fccseuro.pvbox.live:18912/5d650431000dec1fbf393dee64581a71.ts
+Astro 全佳,mitv://fccseuro.pvbox.live:18912/5e649e220009754d4384bbb792209988.ts
+Astro 双星,mitv://fccseuro.pvbox.live:18912/5e649e230009b284029b65996ffda7b5.ts
+Astro 华丽,mitv://fccseuro.pvbox.live:18912/5e649e20000e77475449fc9201cd428d.ts
+Astro 小太阳,mitv://fccseuro.pvbox.live:18912/5d6504530000188b14dee327e7376d4f.ts
+Astro 爱奇艺,mitv://fccseuro.pvbox.live:18912/5e64a26d000826390a29110ffc7ef0a0.ts
+Astro AEC(备),mitv://fccseuro.pvbox.live:18912/5cbd60a3000c7aa1cfc1431f7c3a5e0a.ts
+Astro aec,mitv://fccsovh.pvbox.live:18912/5e649e1c000aa68affe80c9ee5e10372.ts
+Astro AEC,mitv://fccseuro.pvbox.live:18912/5d65046a0003ac636e49af018f7fe169.ts
+天映频道,mitv://fccseuro.pvbox.live:18912/5d650486000c7ef469a1d747fa43ffe4.ts
+天映经典,mitv://fccseuro.pvbox.live:18912/5d650488000e67a1569d3d90dd5f5f88.ts
+Okey,mitv://fccseuro.pvbox.live:18912/5e64abfa0000b17fb997031aa3918332.ts
+DISNEY CHANNEL,mitv://fccsovh.pvbox.live:18912/5b593aed00003621ed362e9625bb2592.ts
+DISNEY JR(backup),mitv://fccsovh.pvbox.live:18912/5b593af10003ba9226a9bb5a7cf2fa24.ts
+DISNEY JR,mitv://fccsovh.pvbox.live:18912/5cf559e50008d2028bf2c54e54a7c56d.ts
+DISNEY XD,mitv://fccsovh.pvbox.live:18912/5b593af500034b9c8be1f948de0574d4.ts
+BOO,mitv://fccseuro.pvbox.live:18912/5b3c4f9f000c861e2a0376f830a06fe2.ts
+CN卡通,mitv://fccsovh.pvbox.live:18912/5b140917000efaaccaf9855c4a74d50c.ts
+FOXSPORTS,mitv://fccseuro.pvbox.live:18912/5b3c4f980000c85652052fc832d068cb.ts
+fox movie,mitv://fccseuro.pvbox.live:18912/5b3c4f9c000341463ca09c45fce48218.ts
+HBO HD,mitv://fccsovh.pvbox.live:18912/5b140969000be13c0cfc86fe60fae30e.ts
+TVB 星河臺,mitv://fccseuro.pvbox.live:18912/5d65048c0003e9ae43db80dad0a1af9d.ts
+VASANTHAM,mitv://fccseuro.pvbox.live:18912/5b20e3af00036b8c28619c6ff14a3dd0.ts
+FOXSPORTS2,mitv://fccseuro.pvbox.live:18912/5b3c4f980006aaf37d9cfdbc70d2774e.ts
+Fox Family HD,mitv://fccseuro.pvbox.live:18912/5e0484640001945b5b635b946df4f759.ts
+ASTRO CRICKET HD,mitv://fccsovh.pvbox.live:18912/5cbd61720004604e8a21b3037b4c2bb3.ts
+HBOCA,mitv://fccsovh.pvbox.live:18912/5cf559de000079adcdde0dc544e5ef7a.ts
+HBOCA2,mitv://fccsovh.pvbox.live:18912/5cffd799000ddb761e0369fa71c185da.ts
+Movie Network 1,mitv://fccsovh.pvbox.live:18912/5cffd5c70005b65a43832252d11e5f2d.ts
+NBA Canada,mitv://fccsovh.pvbox.live:18912/5cffd5d4000b327e4bf5d5288bdb458c.ts
+Family,mitv://fccsovh.pvbox.live:18912/5cffd5e200012f5b69c95d038194a79b.ts
+TVBHD,mitv://fccsovh.pvbox.live:18912/5cf559f800003d1bbad176332c9de847.ts
+TVB US 1,mitv://fccsovh.pvbox.live:18912/5cffd79b00082246191a57dc4d96d59c.ts
+TVB US 2,mitv://fccsovh.pvbox.live:18912/5cffd79d0004cbb6963999f7dee45612.ts
+Bein Sports,mitv://fccsovh.pvbox.live:18912/5cf559ed000079fb8e6f50ff7673526f.ts
+KBS World,mitv://fccseuro.pvbox.live:18912/5e0484590006d2da6f5efc60367eb1c3.ts
+HBO Family HD,mitv://fccseuro.pvbox.live:18912/5e04845f00006322c8309bf18299e66d.ts
+Fox Movies Premium,mitv://fccseuro.pvbox.live:18912/5e0484610006590822b373742c08ac33.ts
+Fox HD,mitv://fccseuro.pvbox.live:18912/5e04846300020dc81ba169d207375c02.ts
+Ch 288,mitv://fccseuro.pvbox.live:18912/5e7ae8970003cef5936942cbd4d25584.ts
+Ch 289,mitv://fccseuro.pvbox.live:18912/5e7ae899000224006541de16feae3ed8.ts
+CGTN,mitv://fccseuro.pvbox.live:18912/5b3c4f9d0000f9b461bb02db9c3aa334.ts
+
+欢看韩国❤,#genre#
+CGV영화,mitv://fccsovh.pvbox.live:18912/5b140a0b0001de0f9db033fb58ce10fc.ts
+Mnet,mitv://fccsovh.pvbox.live:18912/5b140a0c0002578a7ca0f1fbd5ef9629.ts
+SBSGolf,mitv://fccsovh.pvbox.live:18912/5b140a0b000d120ceab2ee71c32ac49c.ts
+바둑TV,mitv://fccsovh.pvbox.live:18912/5b140a0b000627f2e388b59a610c90f1.ts
+JTBC3스포츠,mitv://fccsovh.pvbox.live:18912/5b140a0b0000321047f0f4715b80d822.ts
+KBS1,mitv://fccsovh.pvbox.live:18912/5b140a0a000c1deaf30ce47216f220b3.ts
+KBS2,mitv://fccsovh.pvbox.live:18912/5b140a09000ebd1849f53c8f936eb0a9.ts
+KBS Drama,mitv://fccsovh.pvbox.live:18912/5b140a0c0009f8c15c7104d3fb0c154c.ts
+KBS Kids,mitv://fccsovh.pvbox.live:18912/5b140a0c0005340c5a19f0393da9bf36.ts
+MBC Drama,mitv://fccsovh.pvbox.live:18912/5b140a0b000e807fc932a171034a922b.ts
+BilliardsTV,mitv://fccsovh.pvbox.live:18912/5b140a0a0001dd3f381e34f711e441b0.ts
+SBS Sports,mitv://fccsovh.pvbox.live:18912/5b140a0b000ba3eb46deaab24f917810.ts
+阿里郎电视台,mitv://fccsovh.pvbox.live:18912/5b1408f30000ac64eddfeb9bab87ae23.ts
+MBN,mitv://fccsovh.pvbox.live:18912/5b140a0a000dc9492ccbee456f16c169.ts
+FTV,mitv://fccsovh.pvbox.live:18912/5b140a0c00084d4b1354253b7aa6ffa0.ts
+OCN영화,mitv://fccsovh.pvbox.live:18912/5b140a0b00047d0bfca97aad3b3ec504.ts
+SBS Plus,mitv://fccsovh.pvbox.live:18912/5b140a0c0000e96186a190fd4093ed81.ts
+SpoTV2,mitv://fccsovh.pvbox.live:18912/5b140a0a0006a28eef30b39a17e7efed.ts
+YTNHD,mitv://fccsovh.pvbox.live:18912/5b140a0c0006a200b6ec6e160a351537.ts
+한국경제TV,mitv://fccsovh.pvbox.live:18912/5b140a0c0003c5da003be58f50dcf6ae.ts
+EBS1,mitv://fccsovh.pvbox.live:18912/5b140a0b00088a7c2e088b8f12cab4c6.ts
+디즈니채널,mitv://fccsovh.pvbox.live:18912/5b140a0a000a35eaee80500935488a57.ts
+NGC,mitv://fccsovh.pvbox.live:18912/5b140a0a00088aa134af2bafefed7ecb.ts
+﻿TV조선,mitv://fccsovh.pvbox.live:18912/5b140a0a000388ab7049cda85e9a870a.ts
+nba,mitv://fccsovh.pvbox.live:18912/5b140a0c000be0e79bb8e72479d7f914.ts
+JGOLF,mitv://fccseuro.pvbox.live:18912/5b1289d500043f916bf82167cc871897.ts
+
+欢看欧美❤,#genre#
+Bloomberg,mitv://fccsovh.pvbox.live:18912/5b13f6f10000e96ee08b885e71a238f9.ts
+ABCNEWS,mitv://fccsovh.pvbox.live:18912/5b59390300092aa36949c3a9a36981eb.ts
+DISNEYCHANNEL,mitv://fccsovh.pvbox.live:18912/5b593aed00003621ed362e9625bb2592.ts
+HBO ZONE EAST,mitv://fccseuro.pvbox.live:18912/5b593bbf0007e64132621463dec245d3.ts
+SHOWTIME,mitv://fccsovh.pvbox.live:18912/5b593ca6000a671a6a8254afa5c6a259.ts
+CNN,mitv://fccsovh.pvbox.live/5ee38a200005a3ed54bc9bbd7ded637b.ts
+CINEMAX,mitv://fccsovh.pvbox.live:18912/5b14096000043ff9d8d644e74afa7324.ts
+AXN HD,mitv://fccseuro.pvbox.live:18912/5bee539100076342d0f4a766569dfd39.ts
+AXN HD,mitv://fccseuro.pvbox.live:18912/5bee52500009f73c6759dc6e77440f8f.ts
+HISTORYHD,mitv://fccseuro.pvbox.live:18912/5b593bc7000552962e8565f6d539815f.ts
+SPIKEHD,mitv://fccsovh.pvbox.live:18912/5b593cae00069ab4cc064b07ae58cf1d.ts
+AMCHD,mitv://fccsovh.pvbox.live:18912/5b59390f00089d8d5e48e1b6d7b9b2d5.ts
+DIY NETWORK,mitv://fccsovh.pvbox.live:18912/5b593af90004cd300c9bdc9975eece9f.ts
+IDHD,mitv://fccsovh.pvbox.live:18912/5b593bcb00009977d783201146f84fd1.ts
+SYFY,mitv://fccsovh.pvbox.live:18912/5b593cb2000428d6575f79a4be103fd2.ts
+SYFY,mitv://fccsovh.pvbox.live/5ee38b9a0006196d54c2606c1f0b54a8.ts
+ANIMALPLANET,mitv://fccsovh.pvbox.live:18912/5b5939130005971d4f247d9ea9194679.ts
+TBSHD,mitv://fccsovh.pvbox.live:18912/5b593cb600034f853b379f22836d8366.ts
+BBCAMERICA,mitv://fccsovh.pvbox.live:18912/5b5939170002ff27139e866972121b88.ts
+ESPN2,mitv://fccsovh.pvbox.live:18912/5b593b0100016afb2611343f1ea1f537.ts
+ESPN2,mitv://fccsovh.pvbox.live/5ee38b170007c62354c061213728643a.ts
+BETHD,mitv://fccsovh.pvbox.live:18912/5b59391b0002ff76e9e57a4f9d961b7e.ts
+ESPNNEWS,mitv://fccsovh.pvbox.live:18912/5b593b050000cac7e5846d23629c86f8.ts
+TNTHD,mitv://fccsovh.pvbox.live:18912/5b593cbe000ae51a615b06888245181b.ts
+BRAVOHD,mitv://fccsovh.pvbox.live:18912/5b59391f000148a8629bb3664b669bb1.ts
+ESPNU,mitv://fccsovh.pvbox.live:18912/5b593b08000d56ba2cd96dbcc71a2d92.ts
+MLBNETWORK,mitv://fccsovh.pvbox.live:18912/5b593bda000bf009f671f7f9b3653205.ts
+FOODNETWORK,mitv://fccsovh.pvbox.live:18912/5b593b0c000caf354ce3fd73c13365a1.ts
+MSNBCHD,mitv://fccsovh.pvbox.live:18912/5b593bde000d62341de323a1b06ed9c2.ts
+TRUTV,mitv://fccsovh.pvbox.live:18912/5b593cc60006374fccbd37b9c6121b0f.ts
+FOXHD,mitv://fccsovh.pvbox.live:18912/5b593b10000836ae82c538c53e834415.ts
+MTV,mitv://fccsovh.pvbox.live:18912/5b593be200077048271019733f9b940b.ts
+MTV,mitv://fccsovh.pvbox.live/5ee38be20002852654c378c2548b729c.ts
+VELOCITYHD,mitv://fccsovh.pvbox.live:18912/5b593cca000340787e8a9df3e0188378.ts
+FOXNEWS,mitv://fccsovh.pvbox.live:18912/5b593b140008b0a8b4def1ff835570b9.ts
+NATGEO,mitv://fccsovh.pvbox.live:18912/5b593be6000692ffb22bb6b976f6bf84.ts
+VH1,mitv://fccsovh.pvbox.live:18912/5b593cce00005873101a85044b981db5.ts
+VH1,mitv://fccsovh.pvbox.live/5ee38bac00059f1d54c2a69d5aad6e4c.ts
+FOXSPORTS1,mitv://fccsovh.pvbox.live:18912/5b593b1800090110c450664fdf6e0013.ts
+NBATV,mitv://fccsovh.pvbox.live:18912/5b593bea000144c60f07fcc94343e1f2.ts
+NBATV,mitv://fccsovh.pvbox.live/5ee38be60004e74854c388fe06bf5a9b.ts
+WETV,mitv://fccsovh.pvbox.live:18912/5b593cd20000362a28c0f7dd4edf4f29.ts
+CARTOONNETWORK,mitv://fccsovh.pvbox.live:18912/5b593933000710c565c97caa75e93f95.ts
+FOXSPORTS2,mitv://fccsovh.pvbox.live:18912/5b593b1c00097e8b4bcc2d3b5fe4387e.ts
+NBCGOLF,mitv://fccsovh.pvbox.live:18912/5b593bee0000bb8a12d8d41d9805ea16.ts
+CBSHD,mitv://fccsovh.pvbox.live:18912/5b59393700075d001f88b33e06c310ac.ts
+NBCHD,mitv://fccsovh.pvbox.live:18912/5b593bf1000ccd51e093c4ab2777a628.ts
+NBCSNHD,mitv://fccsovh.pvbox.live:18912/5b593c8f000428baab5b6385ff6acf35.ts
+WWENETWORK,mitv://fccsovh.pvbox.live:18912/5b593cdd0007b4d46c1adfa49136c4dc.ts
+NFLNETWORK,mitv://fccsovh.pvbox.live:18912/5b593c93000493e06e47e77dc1b59a69.ts
+HALLMARK,mitv://fccsovh.pvbox.live:18912/5b593baf000ba09887e54d25b5632d9b.ts
+NICKTOONS,mitv://fccsovh.pvbox.live:18912/5b593c97000172ab40f3d5eda14cd700.ts
+HBO EAST,mitv://fccsovh.pvbox.live:18912/5b593bb70009322f4dfa17046e63a6c0.ts
+OWN,mitv://fccsovh.pvbox.live:18912/5b593c9e000e6959da483ce67e3004dd.ts
+CWHD,mitv://fccsovh.pvbox.live:18912/5b593ae9000434589ba378e9b7721d3f.ts
+HBO SIGNATURE WEST,mitv://fccsovh.pvbox.live:18912/5b593bbb00085133d676fe7d3a9716d3.ts
+SCIENCE,mitv://fccsovh.pvbox.live:18912/5b593ca2000d3c2da77c35ae99f23db0.ts
+ABC,mitv://fccsovh.pvbox.live/5ee38a0d000ef0bd54bc53e61fe8497b.ts
+AE,mitv://fccsovh.pvbox.live/5ee38a0f000c140d54bc5afb56676d83.ts
+AMC,mitv://fccsovh.pvbox.live/5ee38a1100028aea54bc605a4ab7325f.ts
+Animal,mitv://fccsovh.pvbox.live/5ee38a120009379654bc65f743446a92.ts
+BBCAmerica,mitv://fccsovh.pvbox.live/5ee38a13000dfc7d54bc6b18563f75ae.ts
+BET,mitv://fccsovh.pvbox.live/5ee38a150004b05254bc70863c05428b.ts
+Boomerang,mitv://fccsovh.pvbox.live/5ee38a16000ae2f054bc760538735679.ts
+Bravo,mitv://fccsovh.pvbox.live/5ee38a180000a23f54bc7b3539ad1520.ts
+CBS,mitv://fccsovh.pvbox.live/5ee38a1900074f5954bc80d203b10088.ts
+Cinemax,mitv://fccsovh.pvbox.live/5ee38a1a000c8e2054bc8612587e5336.ts
+CMT,mitv://fccsovh.pvbox.live/5ee38a1c000341b854bc8b81366d4c5c.ts
+Cartoon,mitv://fccsovh.pvbox.live/5ee38a1d0008bdc354bc90d012e343aa.ts
+CNBC,mitv://fccsovh.pvbox.live/5ee38a1e000dfc4e54bc9610680d6155.ts
+Comedy,mitv://fccsovh.pvbox.live/5ee38a21000d083954bca1892f640b99.ts
+CW,mitv://fccsovh.pvbox.live/5ee38a240008435354bcac0918775b0d.ts
+DestinationAmerica,mitv://fccsovh.pvbox.live/5ee38b0a000c4e4354c02f8208522059.ts
+Discovery,mitv://fccsovh.pvbox.live/5ee38b0c00074c3454c0360a3fc90ee7.ts
+Disney,mitv://fccsovh.pvbox.live/5ee38b0d000df95c54c03ba81cb8582f.ts
+DisneyJr,mitv://fccsovh.pvbox.live/5ee38b0f0003b8c754c040d80257408a.ts
+DisneyXD,mitv://fccsovh.pvbox.live/5ee38b1100020d7454c0483a01a12135.ts
+Doityourself(DIY),mitv://fccsovh.pvbox.live/5ee38b120007893b54c04d8a06e61430.ts
+E!,mitv://fccsovh.pvbox.live/5ee38b14000a288454c0560622dd54b6.ts
+ESPN,mitv://fccsovh.pvbox.live/5ee38b160001934154c05ba3120e42f6.ts
+FoodNetwork,mitv://fccsovh.pvbox.live/5ee38b18000eb04e54c066cf05af54ee.ts
+FOX,mitv://fccsovh.pvbox.live/5ee38b1a0005a10754c06c4d1605101c.ts
+FoxBusiness,mitv://fccsovh.pvbox.live/5ee38b1c000c8b0254c075e24db51dcd.ts
+FoxNews,mitv://fccsovh.pvbox.live/5ee38b1e0003018254c07b4177ec4d53.ts
+Freeform,mitv://fccsovh.pvbox.live/5ee38b1f0008f74d54c080b06d1435a4.ts
+FoxSports1(FS1),mitv://fccsovh.pvbox.live/5ee38b20000e731754c085ff761465a8.ts
+FoxSports2(FS2),mitv://fccsovh.pvbox.live/5ee38b2200061acc54c08bac25ec6422.ts
+FX,mitv://fccsovh.pvbox.live/5ee38b400005dd9754c100cc68b26760.ts
+FXMovieChannel,mitv://fccsovh.pvbox.live/5ee38b41000d418754c1069962a9173a.ts
+FXX,mitv://fccsovh.pvbox.live/5ee38b430003b83654c10bf86332401e.ts
+GolfChannel,mitv://fccsovh.pvbox.live/5ee38b44000aa1f954c111a53ec07d69.ts
+GameShowNetwork,mitv://fccsovh.pvbox.live/5ee38b470000247d54c11aad689e75a8.ts
+HallmarkChannel,mitv://fccsovh.pvbox.live/5ee38b480006577754c1202c6e12451e.ts
+HBO,mitv://fccsovh.pvbox.live/5ee38b49000eed0b54c1264655a81dbb.ts
+HGTV,mitv://fccsovh.pvbox.live/5ee38b4b00061a9754c12bd47fa61427.ts
+History,mitv://fccsovh.pvbox.live/5ee38b4c000eec9054c131fe56af0419.ts
+HLN,mitv://fccsovh.pvbox.live/5ee38b4e00070e6554c137cb44c340f8.ts
+InvestigationDiscovery,mitv://fccsovh.pvbox.live/5ee38b4f000df89554c13d7825794584.ts
+Lifetime,mitv://fccsovh.pvbox.live/5ee38b510005a01554c143255a0e3dbe.ts
+LifetimeMovieNetwork,mitv://fccsovh.pvbox.live/5ee38b520009add954c14816197d6e7d.ts
+MLBNetwork,mitv://fccsovh.pvbox.live/5ee38b54000024bb54c14d75312e1613.ts
+MotorTrend,mitv://fccsovh.pvbox.live/5ee38b5500083fa354c15371778f2230.ts
+Science,mitv://fccsovh.pvbox.live/5ee38b940000237f54c247756b785b90.ts
+Showtime,mitv://fccsovh.pvbox.live/5ee38b950009ea2554c24dde34375906.ts
+StarZ,mitv://fccsovh.pvbox.live/5ee38b970004318d54c254376d44090b.ts
+SundanceTV,mitv://fccsovh.pvbox.live/5ee38b98000e71b254c25abf6c663cec.ts
+TBS,mitv://fccsovh.pvbox.live/5ee38b9b000c895b54c265fa3f4876cf.ts
+TurnerClassicMovies(TCM),mitv://fccsovh.pvbox.live/5ee38b9d0003f40754c26b97033a0318.ts
+Telemundo,mitv://fccsovh.pvbox.live/5ee38b9e000b583554c2716462317740.ts
+TennisChannel,mitv://fccsovh.pvbox.live/5ee38ba000020bd454c276d2282e2123.ts
+TLC,mitv://fccsovh.pvbox.live/5ee38ba100087b8c54c27c60076875db.ts
+TNT,mitv://fccsovh.pvbox.live/5ee38ba2000dba6c54c281a041b25194.ts
+TravelChannel,mitv://fccsovh.pvbox.live/5ee38ba40004ab2854c2871e7a837eee.ts
+truTV,mitv://fccsovh.pvbox.live/5ee38ba5000a26cf54c28c6e51f14fad.ts
+TVLand,mitv://fccsovh.pvbox.live/5ee38ba70001177154c291ec5b071912.ts
+Univision,mitv://fccsovh.pvbox.live/5ee38ba80006561754c2972c375d3564.ts
+USANetwork,mitv://fccsovh.pvbox.live/5ee38baa000e346954c2a0ff1e7f14cc.ts
+WeTV,mitv://fccsovh.pvbox.live/5ee38bad000bd1fc54c2ac1b4e3b46dd.ts
+WWENetwork,mitv://fccsovh.pvbox.live/5ee38baf0008b88854c2b32071fb0e6a.ts
+YESNetwork,mitv://fccsovh.pvbox.live/5ee38bb0000e348654c2b86f51d81e95.ts
+MSNBC,mitv://fccsovh.pvbox.live/5ee38be0000800fe54c3725951f51215.ts
+NationalGeographic,mitv://fccsovh.pvbox.live/5ee38be3000931ff54c37e5f50573448.ts
+NatGeoWild,mitv://fccsovh.pvbox.live/5ee38be4000eadf354c383af212f0ad4.ts
+NBC,mitv://fccsovh.pvbox.live/5ee38be7000add0f54c38e6d2e854100.ts
+NBCSports(NBCSN),mitv://fccsovh.pvbox.live/5ee38be90007c3aa54c395710a5a114b.ts
+NFLNetwork,mitv://fccsovh.pvbox.live/5ee38bea000e33ae54c39aff32531f0f.ts
+Nickelodeon,mitv://fccsovh.pvbox.live/5ee38bec000c4b5a54c3a25232581980.ts
+Nicktoons,mitv://fccsovh.pvbox.live/5ee38bee000284f354c3a7a26dd75f0a.ts
+OneAmericaNewsNetwork,mitv://fccsovh.pvbox.live/5ee38bef00083dc354c3ad0123e75dbc.ts
+OprahWinfreyNetwork(OWN),mitv://fccsovh.pvbox.live/5ee38bf10000228054c3b2bd57bd7f20.ts
+Oxygen,mitv://fccsovh.pvbox.live/5ee38bf20005db5a54c3b81c29864154.ts
+Paramount,mitv://fccsovh.pvbox.live/5ee38bf400020aa854c3bef24b6237a0.ts
+PBS,mitv://fccsovh.pvbox.live/5ee38bf5000cc55b54c3c59a65803b2b.ts
+POP,mitv://fccsovh.pvbox.live/5ee38bf700033c2754c3caf91bcd6b67.ts
+
+欢看葡萄牙❤,#genre#
+RTP 2,mitv://fccseuro.pvbox.live:18912/5bee4de1000f1002541d3090c32eb7b4.ts
+RTP 2,mitv://fccseuro.pvbox.live:18912/5bee555e000169b34144450ab5b70482.ts
+Panda Biggs,mitv://fccseuro.pvbox.live:18912/5bee55500002c8b350dbb0c2400d93bc.ts
+PFC,mitv://fccseuro.pvbox.live:18912/5bee50530008483911e3e951d6a5bf1c.ts
+PFC,mitv://fccseuro.pvbox.live:18912/5bee5553000866a51cba4025a3187020.ts
+ARTV,mitv://fccseuro.pvbox.live:18912/5bee51d6000130a091b0452e0cf8c526.ts
+ARTV,mitv://fccseuro.pvbox.live:18912/5bee538d000cc84494597e2ea34dcd71.ts
+Porto Canal,mitv://fccseuro.pvbox.live:18912/5bee555700007169c5054cf5eb197be8.ts
+A&E,mitv://fccseuro.pvbox.live:18912/5bee537f000e17f2eb9f7077175335ea.ts
+RTP 1,mitv://fccseuro.pvbox.live:18912/5bee555a0009ba1727fb91b380f8091b.ts
+A Bola TV,mitv://fccseuro.pvbox.live:18912/5bee53830004fd2e2c044d3ce5107f6f.ts
+Afro Music,mitv://fccseuro.pvbox.live:18912/5bee5386000cc0a2b28b06f62f767269.ts
+RTP 3,mitv://fccseuro.pvbox.live:18912/5bee55610008855cc94c067d84633e0c.ts
+AMC,mitv://fccseuro.pvbox.live:18912/5bee538a000442252216375b4001b2ff.ts
+Sic,mitv://fccseuro.pvbox.live:18912/5bee5565000dea0076734460280a5f80.ts
+SIC Mulher,mitv://fccseuro.pvbox.live:18912/5bee556900099b7c708ee11f94542871.ts
+SIC Mulher,mitv://fccseuro.pvbox.live:18912/5bee55d1000d73cca61bddd49122cbc5.ts
+AXN,mitv://fccseuro.pvbox.live:18912/5bee539100076342d0f4a766569dfd39.ts
+SIC Noticias,mitv://fccseuro.pvbox.live:18912/5bee55bc000cc815b8ca3f00d0c0124b.ts
+SIC Radical,mitv://fccseuro.pvbox.live:18912/5bee55c00004b8abf8710c10189cdcba.ts
+Sport TV 1,mitv://fccseuro.pvbox.live:18912/5bee55c3000c7bf1b2cf4b9c542a1b2b.ts
+Sport TV 2,mitv://fccseuro.pvbox.live:18912/5bee55ca000c3ec6103cfe5c0554cf70.ts
+Sport TV 3,mitv://fccseuro.pvbox.live:18912/5bee55ce0007003126802387db4b9b4e.ts
+Sport TV 5,mitv://fccseuro.pvbox.live:18912/5bee55d500052326cd6d7c95b377dc7f.ts
+Sport TV +,mitv://fccseuro.pvbox.live:18912/5bee55d8000d870558727cd992730036.ts
+Sporting TV,mitv://fccseuro.pvbox.live:18912/5bee55e300077df95ff96199666b8d94.ts
+Jim Jam,mitv://fccseuro.pvbox.live:18912/5bee55260000bdfd0aca1279e8affc77.ts
+MCS Extreme,mitv://fccseuro.pvbox.live:18912/5bee552900099f7ae86ca5b917368b1c.ts
+MCS LifeStyle,mitv://fccseuro.pvbox.live:18912/5bee552d0001d4797afea4f819639939.ts
+Motors TV,mitv://fccseuro.pvbox.live:18912/5bee5530000a4ef8383ecce313b1d2d5.ts
+Motor Vision,mitv://fccseuro.pvbox.live:18912/5bee553400021173344e469c5f220a98.ts
+Kombat Sports,mitv://fccseuro.pvbox.live:18912/5bee55370009a71c7ce26510c597ad89.ts
+MTV Portuga,mitv://fccseuro.pvbox.live:18912/5bee553e00096e262c5fa9ad98544cdd.ts
+NAT GEO Wild,mitv://fccseuro.pvbox.live:18912/5bee55420006f0efb73c8d5d25668382.ts
+SYFY,mitv://fccseuro.pvbox.live:18912/5bee55e6000ecb2cfff539ad796b0dc3.ts
+TLC,mitv://fccseuro.pvbox.live:18912/5bee55ea00058e575bb92e06a79fb116.ts
+Toros TV,mitv://fccseuro.pvbox.live:18912/5bee55ed000a65da43c253982bef2c4c.ts
+Travel Channel,mitv://fccseuro.pvbox.live:18912/5bee55f1000baa0541751e49495fd21f.ts
+TV Cine 1,mitv://fccseuro.pvbox.live:18912/5bee55f50003611f73ca9254837e86b3.ts
+TV Cine 2,mitv://fccseuro.pvbox.live:18912/5bee55f8000921a68cf30314356144bf.ts
+TV Cine 3,mitv://fccseuro.pvbox.live:18912/5bee55fc00010a311e5933b28e75bc90.ts
+TV Cine 4,mitv://fccseuro.pvbox.live:18912/5bee55ff0007e915ba7049327479988f.ts
+TV Galicia,mitv://fccseuro.pvbox.live:18912/5bee56030000f396d271b49e76fa64bb.ts
+TV Globo Premium,mitv://fccseuro.pvbox.live:18912/5bee56060007dd7c47632704faafe221.ts
+NAT GEO,mitv://fccseuro.pvbox.live:18912/5bee5545000d832f59bdf65403ebfef4.ts
+Nickelodeon,mitv://fccseuro.pvbox.live:18912/5bee55490004fd2bdb5a159abc9dd80f.ts
+Odisseia,mitv://fccseuro.pvbox.live:18912/5bee554c000badfb84a21cc9cef472c5.ts
+
+欢看电影❤,#genre#
+CCTV6 电影 HD,http://107.148.240.185:13164/v/cctv.php?id=2000203303.m3u8
+CHC 家庭影院 HD,mitv://fccsovh.pvbox.live:18912/5b14092b0004ba23cdc5e091a9c5ebaf.ts
+CHINA MOVIE,mitv://fccseuro.pvbox.live:18912/5b14095e00097ea87a04c9f21d673917.ts
+CINEMAWORLD,mitv://fccsovh.pvbox.live:18912/5b1409770005ae3c6c0384974b8ace2f.ts
+FOX CRIME HD,mitv://fccsovh.pvbox.live:18912/5b14098e000e434e2fd3bf4c7f40c797.ts
+FOX HD,mitv://fccsovh.pvbox.live:18912/5b14098e000c5aec0703ff2d1deb991a.ts
+FOX优质,mitv://fccsovh.pvbox.live:18912/5b140977000ab01d585a8480a4ebc703.ts
+FOX动作,mitv://fccsovh.pvbox.live:18912/5b140977000904d6def2b7bfc5996a48.ts
+FOX 家庭影院HD,mitv://fccsovh.pvbox.live:18912/5b14098e000945caf5e4be649b0460c3.ts
+FX 福克斯影视 HD,mitv://fccsovh.pvbox.live:18912/5b1409da000ebd4705346add1747aa23.ts
+HBO HD,mitv://fccsovh.pvbox.live:18912/5b140969000be13c0cfc86fe60fae30e.ts
+好莱坞电影,mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba.ts
+星卫电影,mitv://fccsovh.pvbox.live:18912/5b140940000a727a1de978c32eaafddd.ts
+东森洋片,mitv://fccsovh.pvbox.live:18912/5b14092300021ad1076b0d328d567031.ts
+东森电影 HD,mitv://fccsovh.pvbox.live:18912/5b1409f20009bbe281ffe7b699b8ccda.ts
+珠江电影,mitv://fccsovh.pvbox.live:18912/5b14094900043fac4aecf6e0b43220fa.ts
+伟来电影,mitv://fccsovh.pvbox.live:18912/5b140922000ebd5b65820c35557c54ec.ts
+美亚电影台 HD,mitv://fccsovh.pvbox.live:18912/5b14098f0007961555aceecec68bb109.ts
+卫视中文,mitv://fccsovh.pvbox.live:18912/5b14096a00006f07ab9e1941b4529a7b.ts
+卫视合家欢,mitv://fccsovh.pvbox.live:18912/5b14096a0001dd418df7b0cf26ad4d95.ts
+卫视西片 HD,mitv://fccsovh.pvbox.live:18912/5b14098f00030ea40538018022108897.ts
+卫视电影,mitv://fccsovh.pvbox.live:18912/5b140960000aafcc5b0e2fd6870e128c.ts
+高清影院,mitv://fccseuro.pvbox.live:18912/5b140a1600025764e0c01b4269103f01.ts
+龙华洋片,mitv://fccsovh.pvbox.live:18912/5b140917000c1e9b6979810e84e0e7d5.ts
+
+欢看多国❤,#genre#
+テレビ朝日,mitv://fccsovh.pvbox.live:18912/5c4aa977000a3ef334cdf4283beeb195.ts
+ABCテレビ,mitv://fccsovh.pvbox.live:18912/5b140a560004f7909c637ff7e3bc2b7c.ts
+BSTBS,mitv://fccsovh.pvbox.live:18912/5b140a5700006ef8524697a1217aa23e.ts
+BSアニマックス,mitv://fccsovh.pvbox.live:18912/5b140a65000d8c12c57bdebcb3717757.ts
+BSジャパン,mitv://fccsovh.pvbox.live:18912/5b140a5700029495d45d795007142af4.ts
+BSフジ.181,mitv://fccsovh.pvbox.live:18912/5b140a5700043fd8d4b7c9eb253cf0cd.ts
+BS日テレ,mitv://fccsovh.pvbox.live:18912/5b140a56000e060945621299e210c77a.ts
+BS朝日1,mitv://fccsovh.pvbox.live:18912/5b140a580003c58b5ab704926c5fb503.ts
+JSPORTS1,mitv://fccsovh.pvbox.live:18912/5b140a6600006f2522f1e492ae1d408a.ts
+JSPORTS2,mitv://fccsovh.pvbox.live:18912/5b140a660005710580e272d4145127e7.ts
+JSPORTS3,mitv://fccsovh.pvbox.live:18912/5b140a6600021b13fab3bea45e676162.ts
+JSPORTS4,mitv://fccsovh.pvbox.live:18912/5b140a660003c59bbbb422f5a196f735.ts
+MBS毎日放送,mitv://fccsovh.pvbox.live:18912/5b140a5600030e8255032d9d933cdc79.ts
+NHK1,mitv://fccsovh.pvbox.live:18912/5b14095e00071c214bd08bb65570715e.ts
+NHKEテレ,mitv://fccsovh.pvbox.live:18912/5b140a550002d191080cab914876c8bf.ts
+NHK総合,mitv://fccsovh.pvbox.live:18912/5b140a550000ac16c94c9528195b7fe1.ts
+NHKBS1,mitv://fccsovh.pvbox.live:18912/5b140a56000a72bc7e64821f037a94f0.ts
+NHKBSプレミア,mitv://fccsovh.pvbox.live:18912/5b140a56000c1de1bcdf0a9b9ebfba24.ts
+NHKEテレ大阪,mitv://fccsovh.pvbox.live:18912/5b140a5600012647ae086d8071421c85.ts
+NHK総合大阪,mitv://fccsovh.pvbox.live:18912/5b140a55000d121205412c1b730b72eb.ts
+SKY.Aスポーツ,mitv://fccsovh.pvbox.live:18912/5b140a65000126e9382ed99770c6f6d6.ts
+TBS,mitv://fccsovh.pvbox.live:18912/5b140a57000c1dd37467873b1b794e6a.ts
+TOKYOMX,mitv://fccsovh.pvbox.live:18912/5b140a55000aec9dd07fadbb9978e863.ts
+WOWOWシネマ,mitv://fccsovh.pvbox.live:18912/5b140a5700079606f38435a636d6ad97.ts
+WOWOWプライム,mitv://fccsovh.pvbox.live:18912/5b140a5800021a39f51d26eb61e78035.ts
+WOWOWライブ,mitv://fccsovh.pvbox.live:18912/5b140a570005eb2180ca27195b9aae33.ts
+アニマルプラネ,mitv://fccsovh.pvbox.live:18912/5b140a65000a79e1047c47fccd3be0cf.ts
+キッズステーシ,mitv://fccsovh.pvbox.live:18912/5b140a6500088a5639c228b7f51b40b1.ts
+グリーンチャン,mitv://fccsovh.pvbox.live:18912/5b140a57000aafbd10b6362b8046cc6d.ts
+ゴルフネットHD,mitv://fccsovh.pvbox.live:18912/5b140a650005719e1f89d8e2ca90e121.ts
+スターチャンネ,mitv://fccsovh.pvbox.live:18912/5b140a57000904a7b38458a39b6cf8e6.ts
+テレビ大阪,mitv://fccsovh.pvbox.live:18912/5b140a560006df2474742a2983ae2b38.ts
+テレビ東京,mitv://fccsovh.pvbox.live:18912/5b140a580000321ee6eef290364892c7.ts
+フジテレビ,mitv://fccsovh.pvbox.live:18912/5b140a5500088a25d5aed3ec09ad0a0a.ts
+ファミリー劇場,mitv://fccsovh.pvbox.live:18912/5b140a64000e43cebc2e1f958d7523bd.ts
+日テレ,mitv://fccsovh.pvbox.live:18912/5b140a55000627fde23de065f45b3f11.ts
+日テレG HD,mitv://fccsovh.pvbox.live:18912/5b140a6600071d145805256d65a6e14f.ts
+日本映画専門,mitv://fccsovh.pvbox.live:18912/5b140a64000664f71d34a97f651e3452.ts
+時代劇専門,mitv://fccsovh.pvbox.live:18912/5b140a64000c5c51dd912e968041697f.ts
+読売テレビ,mitv://fccsovh.pvbox.live:18912/5b140a5600088ad9cd10192b20355fe3.ts
+関西テレビ,mitv://fccsovh.pvbox.live:18912/5b140a57000dc935529f2004a44af5e2.ts
+NHK,mitv://fccsovh.pvbox.live:18912/5b14095f000388c5dea5635fcbb9c55b.ts
+Sun TV,mitv://fccseuro.pvbox.live:18912/5d72027a0001bd21a79ca5b4c1207f92.ts
+Star Vijay,mitv://fccseuro.pvbox.live:18912/5d72027b000e602d0c545784b6f85222.ts
+Zee Tamil,mitv://fccseuro.pvbox.live:18912/5d72027d00082cf804eac2882b8f20fb.ts
+Zee Business,mitv://fccseuro.pvbox.live:18912/5d72027f0001061f02d2fea35099ec57.ts
+Thanthi TV,mitv://fccseuro.pvbox.live:18912/5d720280000a157edb51bcb4847e8a24.ts
+Makkal TV,mitv://fccseuro.pvbox.live:18912/5d720282000da8e9f4d4e4224bef0d9b.ts
+Raj Musix,mitv://fccseuro.pvbox.live:18912/5d7202840007b317a5955ca359401636.ts
+Zee Actions,mitv://fccseuro.pvbox.live:18912/5d720286000607ee305e3bbfec999a5e.ts
+KTV UK,mitv://fccseuro.pvbox.live:18912/5d7202880002ee4a0fe290304ebcdecf.ts
+Zee TV HD,mitv://fccseuro.pvbox.live:18912/5d720289000accccd9d792bec1461ddb.ts
+Zee Cinema HD,mitv://fccseuro.pvbox.live:18912/5d72028b00032b96e844a9ae59456424.ts
+Colors HD,mitv://fccseuro.pvbox.live:18912/5d72028c000a9001c89bb459e73987c7.ts
+Starplus HD,mitv://fccseuro.pvbox.live:18912/5d72028e0003e26d78adec4537b5951e.ts
+Picture HD,mitv://fccseuro.pvbox.live:18912/5d72028f000d6c091c9108c186f7361e.ts
+Zee News,mitv://fccseuro.pvbox.live:18912/5d7202910006bf1f2cd673017abf0462.ts
+Asianet,mitv://fccseuro.pvbox.live:18912/5d7202930001fa440ea50e7f24e13dc2.ts
+Times Now,mitv://fccseuro.pvbox.live:18912/5d720294000b83d20b0211c7a9192c12.ts
+BIG THRILL,mitv://fccsovh.pvbox.live:18912/5b140a85000b29c8dd1aabae8fd0e600.ts
+ARYNEWSASID,mitv://fccsovh.pvbox.live:18912/5b140a84000533c7eedd7311fb0bcbfb.ts
+BIG GANGA TALKIES,mitv://fccsovh.pvbox.live:18912/5b140a84000aafa20cc60b016d52d79c.ts
+SAHARA MP,mitv://fccsovh.pvbox.live:18912/5b140a850000e96e03eb38779e2580a8.ts
+BIG MAHARA HD,mitv://fccsovh.pvbox.live:18912/5b140a85000664f67fff6d3b7928c8de.ts
+SAHARA NAT,mitv://fccsovh.pvbox.live:18912/5b140a880009bb576f526b4f50a130d4.ts
+ZING,mitv://fccsovh.pvbox.live:18912/5b140a86000d4efe4058ca427f6e8f43.ts
+B4U音乐台,mitv://fccsovh.pvbox.live:18912/5b140a8600016360927d52154ed75eb0.ts
+ZEE新闻台,mitv://fccsovh.pvbox.live:18912/5b140a8700034baefafa774ef3889943.ts
+SAHARA NCR,mitv://fccsovh.pvbox.live:18912/5b140a8800043fbe062b3cc58f4410a4.ts
+BETHAT TV,mitv://fccsovh.pvbox.live:18912/5b140a860007963be56e4c9f2a039a34.ts
+SAHARA UP,mitv://fccsovh.pvbox.live:18912/5b140a890004b9ea2b781de450a6901a.ts
+ZEE PUNJABI HH,mitv://fccsovh.pvbox.live:18912/5b140a8700088a7c95c2f22515f12f17.ts
+SAHARA BIH,mitv://fccsovh.pvbox.live:18912/5b140a87000dc92508c3a9a9406ab7ee.ts
+AALAMI SAHARA,mitv://fccsovh.pvbox.live:18912/5b140a89000f379f44ed92e2f4081325.ts
+SAHARA MUM,mitv://fccsovh.pvbox.live:18912/5b140a88000efa2e91a13b0e0f83e0c8.ts
+FILMY,mitv://fccsovh.pvbox.live:18912/5b140a890009bd5fb38548389f6f2db4.ts
+MADANITV,mitv://fccsovh.pvbox.live:18912/5ce0062e000cfe07031c4830827ef1fb.ts
+ZEE MP CHHATTISGA,mitv://fccsovh.pvbox.live:18912/5ce0063400068e1863e2b5808f446cda.ts
+b4u movies INDIA,mitv://fccsovh.pvbox.live:18912/5ce00638000468b5a15aee09a6be7ab8.ts
+Libya AI Watanya,mitv://fccsovh.pvbox.live:18912/5ce013b7000c3da98819ada3325ae30a.ts
+DUBAI,mitv://fccsovh.pvbox.live:18912/5ce013bb000609c9a0072fdec8118d40.ts
+ALKASS TWO HD,mitv://fccsovh.pvbox.live:18912/5ce013be000cf45250e9baa26ec3e7b1.ts
+abu dhabi TV,mitv://fccsovh.pvbox.live:18912/5ce013c200045f2e40227f1bab169387.ts
+AL Emart TV,mitv://fccsovh.pvbox.live:18912/5ce013c5000b8727829870864c130dad.ts
+AL Arabiya,mitv://fccsovh.pvbox.live:18912/5ce013c90005cd4d3e3be5cc7714bb0f.ts
+SUDAN,mitv://fccsovh.pvbox.live:18912/5ce013cd000c3d79654a28be7ebeb51c.ts
+Qatar TV HD,mitv://fccsovh.pvbox.live:18912/5ce013d1000923d94ae3379598a631b3.ts
+AL Jazeera Arabic,mitv://fccsovh.pvbox.live:18912/5ce013d50005537d67864b820f43cd84.ts
+Oman TV HD,mitv://fccsovh.pvbox.live:18912/5ce013da00060b6763da5f6c72e2e6e8.ts
+DUBAL SPORTS 1,mitv://fccsovh.pvbox.live:18912/5ce013dd000de8cfb6bca1878ad2a09f.ts
+Saudi1,mitv://fccsovh.pvbox.live:18912/5ce013e10007793eb03b63fe46ee3d40.ts
+TVRI,mitv://fccseuro.pvbox.live:18912/5d72048f000a56679cd838f2a57430b9.ts
+AnTV,mitv://fcvs.live.maoq.pw:18912/5d72049100073c761a3bd10901bbc38d.ts
+Kompass TV,mitv://fcvs.live.maoq.pw:18912/5d7204930003e5fbd86907499ccd430d.ts
+Metro TV,mitv://fcvs.live.maoq.pw:18912/5d720498000ede7c8767df87c7b658e2.ts
+SCTV,mitv://fcvs.live.maoq.pw:18912/5d72049a00086dbc53123cc8fb8385ae.ts
+Indosiar,mitv://fccseuro.pvbox.live:18912/5d72049d000b4a345181aa1968e2984e.ts
+RCTI,mitv://fcvs.live.maoq.pw:18912/5d72049f0005545787c787f78689501c.ts
+Indonesia_Ahsan TV,mitv://fccseuro.pvbox.live:18912/5c90a38f000d5d0d96810ef56d446c18.ts
+Indonesia_M Cine Channel,mitv://fccsovh.pvbox.live:18912/5ce00c6a00001571f3b03db933c2fdb4.ts
+Indonesia_tv9,mitv://fccsovh.pvbox.live:18912/5ce00c6e00032f3c8127f8e2301f6431.ts
+Indonesia_LANGSUNG,mitv://fccsovh.pvbox.live:18912/5ce00c71000cf6a71c5a590469d9b16c.ts
+Indonesia_rodjatv,mitv://fccsovh.pvbox.live:18912/5ce00c7700083155b4e9cc6e2cc8c1b0.ts
+Indonesia_rtv5,mitv://fccsovh.pvbox.live:18912/5ce00c7b0000cd15104b112f6c4aed2e.ts
+Indonesia_jtv,mitv://fccsovh.pvbox.live:18912/5ce00c7e000e647667862531e1ff1395.ts
+Indonesia_Md,mitv://fccsovh.pvbox.live:18912/5ce00c820009dcd74f3e7bc4118cb5c1.ts
+Indonesia_mutv,mitv://fccsovh.pvbox.live:18912/5ce00c8600023c168edff6ca27143e67.ts
+Indonesia_CH6,mitv://fccsovh.pvbox.live:18912/5ce00c89000c024f2549a4e9a234ff29.ts
+Indonesia_INDO24 TV,mitv://fccsovh.pvbox.live:18912/5ce00c8d00051843e09b6bcfae3d4fd8.ts
+Indonesia_SCTV,mitv://fccsovh.pvbox.live:18912/5ce00c90000deb249ae1a461b3ee4378.ts
+Indonesia_quran hidayah,mitv://fccsovh.pvbox.live:18912/5ce00c940005cfbfdc58fc731bc42f98.ts
+Indonesia_Bandung TV,mitv://fccseuro.pvbox.live:18912/5c90a3660005cb2bb7f532ae202cca58.ts
+Indonesia_AlIman TV,mitv://fccseuro.pvbox.live:18912/5c90a36b0001307be2e2cf9e48d38f66.ts
+sinema X,mitv://fccseuro.pvbox.live:18912/5c90a36e000e3df268beb2677adb41f0.ts
+Indonesia_MNC TV,mitv://fccseuro.pvbox.live:18912/5c90a3720006e193b04cfb3fe5f817ac.ts
+Indonesia_TVRI 3,mitv://fccseuro.pvbox.live:18912/5c90a3760000d4fea4dad9542462f22c.ts
+Indonesia_TVRI,mitv://fccseuro.pvbox.live:18912/5c90a3790008ec51748f676285f0a722.ts
+Indonesia_Metro TV,mitv://fccseuro.pvbox.live:18912/5c90a37d000088689bf7644454109ada.ts
+Indonesia_Wesal TV,mitv://fccseuro.pvbox.live:18912/5c90a3800009c987013e4cba153c38fa.ts
+MGI TV,mitv://fccseuro.pvbox.live:18912/5c90a38400007cfa16b5978e5a7c22da.ts
+Indonesia_Puldapii TV,mitv://fccseuro.pvbox.live:18912/5c90a38800093102f54c211a65f2940f.ts
+Indonesia_TVRI sport HD,mitv://fccseuro.pvbox.live:18912/5c90a38c0002fa21fee4a87adc7ae6e7.ts
+A&E BR,mitv://fccseuro.pvbox.live:18912/5bee4dd40002191e63bcb4b2f938f266.ts
+Universal BR,mitv://fccseuro.pvbox.live:18912/5bee5375000a15e89605f0c76c862efb.ts
+AMC BR,mitv://fccseuro.pvbox.live:18912/5bee4dd7000903176b747707d6697b31.ts
+Arte 1,mitv://fccseuro.pvbox.live:18912/5bee4dde0006f88c98fb31ef797c818a.ts
+Animal Planet BR,mitv://fccseuro.pvbox.live:18912/5bee4ddb0001bdbad038ead6acc17492.ts
+Band BR,mitv://fccseuro.pvbox.live:18912/5bee4de500068da0867eb498a4ca051f.ts
+Band News BR,mitv://fccseuro.pvbox.live:18912/5bee4de9000ac8e0031bb45d96370a77.ts
+Band Sports,mitv://fccseuro.pvbox.live:18912/5bee4df00009ebcfc019a6598968cccc.ts
+VH1 BR,mitv://fccseuro.pvbox.live:18912/5bee4df40001a6a6b2b9227d2c6ceb2c.ts
+BIS BR,mitv://fccseuro.pvbox.live:18912/5bee4dfa000f1f1b7e0a1f608817ffb5.ts
+Boomerang BR,mitv://fccseuro.pvbox.live:18912/5bee4dfe0006bf7b1b23ffc6f29dddbf.ts
+Cartoon Network BR,mitv://fccseuro.pvbox.live:18912/5bee4e13000dfd326a54437eaffba007.ts
+Cinemax BR,mitv://fccseuro.pvbox.live:18912/5bee4e170005871325807a02e43bb085.ts
+Canal Sony,mitv://fccseuro.pvbox.live:18912/5bee4e710005da67a239737b87f3c428.ts
+Combate,mitv://fccseuro.pvbox.live:18912/5bee4e750000ebb3d594fa5fa033b0f7.ts
+Comedy Central BR,mitv://fccseuro.pvbox.live:18912/5bee4e780009e08353d49ee5be680855.ts
+Baby TV,mitv://fccseuro.pvbox.live:18912/5bee4e7c000327eac9352238a98819c9.ts
+Discovery BR,mitv://fccseuro.pvbox.live:18912/5bee4e830000792ba2fa76982918750c.ts
+Discovery Civilization,mitv://fccseuro.pvbox.live:18912/5bee4e860006918af2cb521591a2034a.ts
+Discovery Home Health,mitv://fccseuro.pvbox.live:18912/5bee4e89000e17d36ce1dab5c01dac27.ts
+Discovery Kids,mitv://fccseuro.pvbox.live:18912/5bee4e8d000586a6c2bbb0fe52d08175.ts
+Discovery Science BR,mitv://fccseuro.pvbox.live:18912/5bee4e90000c4e21ceec1e5c19a55732.ts
+Discovery Theater,mitv://fccseuro.pvbox.live:18912/5bee4e9400035d9f8e67fe93f3e49fb6.ts
+Discovery Turbo,mitv://fccseuro.pvbox.live:18912/5bee4e97000ce6c91d7ce85e98bf846b.ts
+Discovery WORLD,mitv://fccseuro.pvbox.live:18912/5bee4e9b0004056f76e84736af101f06.ts
+Disney BR,mitv://fccseuro.pvbox.live:18912/5bee4e9e000ba6493a5846cdc137d5f4.ts
+DISNEY JR BR,mitv://fccseuro.pvbox.live:18912/5bee4ea20003335f85191976173d0d21.ts
+Disney XD BR,mitv://fccseuro.pvbox.live:18912/5bee4ea50009f36c4321bebc7880faba.ts
+E! BR,mitv://fccseuro.pvbox.live:18912/5bee4ea9000002e3ff576aafaca0975f.ts
+ESPN Extra,mitv://fccseuro.pvbox.live:18912/5bee4eac000a346c0dd43f81d2066d4f.ts
+ESPN BRASIL,mitv://fccseuro.pvbox.live:18912/5bee4faf000825f2166ecdf1aaea3eed.ts
+WOOHOO,mitv://fccseuro.pvbox.live:18912/5bee4fb60008c9ee47565688958bb309.ts
+ESPN,mitv://fccseuro.pvbox.live:18912/5bee4fba00023f4eacebd66d8b135902.ts
+PFC,mitv://fccseuro.pvbox.live:18912/5bee4fbd000a65d24af90056b4b45180.ts
+VIVA BR,mitv://fccseuro.pvbox.live:18912/5bee4fc100035d90033d1d2f7a9d11bd.ts
+TV Record,mitv://fccseuro.pvbox.live:18912/5bee4fc4000a197f078ba144562af333.ts
+Food Network BR,mitv://fccseuro.pvbox.live:18912/5bee4fc80000e7f767023615194376b4.ts
+Fox BR,mitv://fccseuro.pvbox.live:18912/5bee4fcb00072a17851e0c4bc347ef0a.ts
+Fox Life,mitv://fccseuro.pvbox.live:18912/5bee4fcf00003c60018eacc4c9d24b52.ts
+Fox Permium 1,mitv://fccseuro.pvbox.live:18912/5bee4fd30003b5214f2e4d14d36522a1.ts
+Fox Premium 2,mitv://fccseuro.pvbox.live:18912/5bee4fd6000b5621613c878bcaeba409.ts
+Fox Sports 2 BR,mitv://fccseuro.pvbox.live:18912/5bee4fda00069ce535abcf8e7b94e41e.ts
+Fox Sports 1,mitv://fccseuro.pvbox.live:18912/5bee4fe10005de66ac332869ddadff71.ts
+FX BR,mitv://fccseuro.pvbox.live:18912/5bee4fe4000da18144d4d0220c351ce1.ts
+Globo News BR,mitv://fccseuro.pvbox.live:18912/5bee4fe8000703ee719e5eb9d619c407.ts
+GLOBO RBS TV PORTO ALEGRE,mitv://fccseuro.pvbox.live:18912/5bee4fec0000662e1634c0796952c3c3.ts
+Globo RJ,mitv://fccseuro.pvbox.live:18912/5bee4fef000794fc46fd80480933dc86.ts
+Globo BR,mitv://fccseuro.pvbox.live:18912/5bee4ff300052ad4718cc8cf29dbacf7.ts
+GNT BR,mitv://fccseuro.pvbox.live:18912/5bee504c000984a9c398eb4256273563.ts
+H2 BR,mitv://fccseuro.pvbox.live:18912/5bee505000021cd4f1b14e255b821602.ts
+HBO Family BR,mitv://fccseuro.pvbox.live:18912/5bee505700010a745bac3a281697dc45.ts
+HBO BR,mitv://fccseuro.pvbox.live:18912/5bee505a0007dda5e1633fdc907a7cb4.ts
+HBO Plus BR,mitv://fccseuro.pvbox.live:18912/5bee505e0000389224d660539217a011.ts
+HBO Signature BR,mitv://fccseuro.pvbox.live:18912/5bee50610008e86999fec66ff912bd0f.ts
+History BR,mitv://fccseuro.pvbox.live:18912/5bee50650000aeec51a88b144d5a11a5.ts
+ID BR,mitv://fccseuro.pvbox.live:18912/5bee5068000990438567cbe9bec00126.ts
+Lifetime BR,mitv://fccseuro.pvbox.live:18912/5bee506c0003e67921be37104a7927df.ts
+Mais Globosat,mitv://fccseuro.pvbox.live:18912/5bee506f000c3b1a2e717b3ad9530411.ts
+Max,mitv://fccseuro.pvbox.live:18912/5bee50730005ac9d68efdfd00ba72bf8.ts
+Max Prime,mitv://fccseuro.pvbox.live:18912/5bee5077000102ba79ed0a925e91baac.ts
+Max Up,mitv://fccseuro.pvbox.live:18912/5bee5096000aeb75f55073d758bc44db.ts
+MegaPix,mitv://fccseuro.pvbox.live:18912/5bee509a00029e941c18e16de15b88f9.ts
+MTV BR,mitv://fccseuro.pvbox.live:18912/5bee509d0008c269c953f40a12165efa.ts
+Multishow,mitv://fccseuro.pvbox.live:18912/5bee51cb000be33948dd19b89ef8bbc9.ts
+Music Box,mitv://fccseuro.pvbox.live:18912/5bee51cf00025dc36e4e439100e854f5.ts
+NAT GEO BR,mitv://fccseuro.pvbox.live:18912/5bee51d2000a15b86c056645e8674ed0.ts
+NAT GEO Wild BR,mitv://fccseuro.pvbox.live:18912/5bee51d90006e56566fcc24461f02e23.ts
+NICK JR BR,mitv://fccseuro.pvbox.live:18912/5bee51e00007a3fd7d403e475b09061b.ts
+Nickelodeon BR,mitv://fccseuro.pvbox.live:18912/5bee51e3000e41bf0e0a5e5083d10ab4.ts
+Record,mitv://fccseuro.pvbox.live:18912/5bee527400038b2b147115882a788a10.ts
+Rede TV,mitv://fccseuro.pvbox.live:18912/5bee5277000b190913066e73206566e0.ts
+SBT,mitv://fccseuro.pvbox.live:18912/5bee527b00011d5630d8216bea8cc2c0.ts
+TNT BR,mitv://fccseuro.pvbox.live:18912/5bee5359000879982371fd6ff22f5dd1.ts
+TV Ra Tim Bum,mitv://fccseuro.pvbox.live:18912/5bee53720000f7469e6454c5e42a0128.ts
+TNT Series  BR,mitv://fccseuro.pvbox.live:18912/5bee535d0005498f7a7c95ec4f46f637.ts
+ALJAZEERA,mitv://fccsovh.pvbox.live:18912/5b1409fc00025783370fad26796d9310.ts
+AXN 新力影业动作片电视网,mitv://fccsovh.pvbox.live:18912/5b14092200038877146fe606046a1c01.ts
+BABYFIRST,mitv://fccsovh.pvbox.live:18912/5b1409da000163871f53083ce0c0ae57.ts
+BABY TV 英语,mitv://fccsovh.pvbox.live:18912/5b14094000047cc6dff3d91ffd5d09ec.ts
+BBC HD,mitv://fccsovh.pvbox.live:18912/5b140953000257fbce7dc3b0e10ce90f.ts
+BBC LIFESTYLE 生活频道 HD,mitv://fccsovh.pvbox.live:18912/5b1408f2000906bde57c80135ed2e130.ts
+BLOOMBERG,mitv://fccsovh.pvbox.live:18912/5b13f6f10000e96ee08b885e71a238f9.ts
+BOOMERANG,mitv://fccsovh.pvbox.live:18912/5b1409da000811249b84244220a4ab11.ts
+CATCHPLAY HD,mitv://fccsovh.pvbox.live:18912/5b1409db000126a9933e38ed4496938e.ts
+CINEMAX,mitv://fccsovh.pvbox.live:18912/5b14096000043ff9d8d644e74afa7324.ts
+CNBC,mitv://fccsovh.pvbox.live:18912/5b1409400000e91c00bfadfc3394efd0.ts
+Discovery Asia,mitv://fccsovh.pvbox.live:18912/5b1409db00071c0517d41c9937e70bf0.ts
+DISCOVERY HD,mitv://fccsovh.pvbox.live:18912/5b14092b000cd4e0b0471160f8444ee1.ts
+DWTV,mitv://fccsovh.pvbox.live:18912/5b14098f0005711e10757987c378a314.ts
+E! ENTERTAINMENT,mitv://fccsovh.pvbox.live:18912/5b140977000403685d35720d57db655a.ts
+FOX CRIME HD,mitv://fccsovh.pvbox.live:18912/5b14098e000e434e2fd3bf4c7f40c797.ts
+FOX优质,mitv://fccsovh.pvbox.live:18912/5b140977000ab01d585a8480a4ebc703.ts
+FOX动作,mitv://fccsovh.pvbox.live:18912/5b140977000904d6def2b7bfc5996a48.ts
+FOX 家庭影院HD,mitv://fccsovh.pvbox.live:18912/5b14098e000945caf5e4be649b0460c3.ts
+FRANCE 24（English）,mitv://fccsovh.pvbox.live:18912/5b14090b0008c74adc26c418e1c483f2.ts
+FX 福克斯影视 HD,mitv://fccsovh.pvbox.live:18912/5b1409da000ebd4705346add1747aa23.ts
+FYI,mitv://fccsovh.pvbox.live:18912/5b1408f20005adce1b494c1e0e9d1bab.ts
+HISTORY HD,mitv://fccsovh.pvbox.live:18912/5b1408f300071d3b168710326061c261.ts
+HISTORY2 HD,mitv://fccsovh.pvbox.live:18912/5b1408f3000402b2246606b96c49529a.ts
+LUXE TV,mitv://fccsovh.pvbox.live:18912/5b1408f2000402a9f667d6d8a8a6c381.ts
+MY KIDS,mitv://fccseuro.pvbox.live:18912/5b1409da000a356ec84bbd394ed0a32f.ts
+NICK.JR,mitv://fccsovh.pvbox.live:18912/5b14098f000ba3b0a0b83a583d8d7fbe.ts
+OUTDOOR HD,mitv://fccsovh.pvbox.live:18912/5b1409db000a72d40e2026669c5d5666.ts
+博斯运动,mitv://fccseuro.pvbox.live:18912/5b13f6f0000c1dd6202eb6d5ad79dd64.ts
+SKY SPORTS2 HD,mitv://fccsovh.pvbox.live:18912/5b14092300038913157f8e7ca347455e.ts
+SKY SPORTS1 HD,mitv://fccsovh.pvbox.live:18912/5b14090d00030e94658ce3ca3e1af010.ts
+MEZZO LIVE HD,mitv://fccsovh.pvbox.live:18912/5b14090b0006deff79ee12ec3b02e022.ts
+SKY SPORTS5,mitv://fccsovh.pvbox.live:18912/5b140a140002d25a650efd8a8c4fb984.ts
+SUNDANCE CHANNEL,mitv://fccsovh.pvbox.live:18912/5b1408f2000c5b2d92ac8a46800d7872.ts
+TRAVEL,mitv://fccsovh.pvbox.live:18912/5b13f6f10002d2ef9b9d5ab37df052ce.ts
+TV5,mitv://fccsovh.pvbox.live:18912/5b1409220005714c9dfa10bcf1d40f00.ts
+TVN HD,mitv://fccseuro.pvbox.live:18912/5b14090b000aaf9ddf77bfe598a6f6ac.ts
+亚洲美食 HD,mitv://fccsovh.pvbox.live:18912/5b1409da000c9801a4076cb81fb32896.ts
+今日俄罗斯,mitv://fccsovh.pvbox.live:18912/5b1409fc00006f1fe7b8259e7a0801c4.ts
+
+
