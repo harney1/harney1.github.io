@@ -184,6 +184,7 @@ CETV-1,http://101.71.255.229:6610/zjhs/2/10060/index.m3u8?virtualDomain=zjhs.liv
 爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 测试频道,#genre#
+亞洲美食 HD,P2p://198.255.74.57:12196/5f0e0c8e0000bc51d8e2c6a5f9c099b6.ts
 美食星球 HD,P2p://198.255.74.57:12196/5f0e0ccb000044a5d8e3b4ce4f62ef63.ts
 国家地理 HD,p2p://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts
 国家地理 HD,p2p://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts
